@@ -30,7 +30,7 @@ jobs:
       USE_OPENAI: "false"
       run: node scripts/generate_post.mjs
 
-#後で課金してAIに戻すとき
+#後で課金してAIに戻すとき　
       #- name: Generate article
       #env:
       #USE_OPENAI: "true"
