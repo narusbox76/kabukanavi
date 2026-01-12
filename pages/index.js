@@ -1,59 +1,48 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 export default function Home() {
-  const [symbol, setSymbol] = useState("7203.T");
-  const [data, setData] = useState(null);
-  const [analysis, setAnalysis] = useState("");
-  const [loading, setLoading] = useState(false);
+  const [posts, setPosts] = useState([]);
 
-  async function fetchData() {
-    setLoading(true);
-    const res = await fetch(`/api/stock?symbol=${symbol}`);
-    const json = await res.json();
-    setData(json);
-    setAnalysis("");
-    setLoading(false);
-  }
-
-  async function analyze() {
-    const res = await fetch(`/api/analyze`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(data),
-    });
-    const json = await res.json();
-    setAnalysis(json.text);
-  }
+  useEffect(() => {
+    (async () => {
+      const res = await fetch("/api/posts");
+      const json = await res.json();
+      setPosts(json.posts || []);
+    })();
+  }, []);
 
   return (
-    <div style={{ padding: 30, fontFamily: "sans-serif" }}>
-      <h1>株価ナビ（試作）</h1>
+    <div style={{ padding: 30, fontFamily: "sans-serif", maxWidth: 900 }}>
+      <h1>株価ナビ</h1>
+      <p>AIが毎日自動生成する投資記事（試作）</p>
 
-      <input
-        value={symbol}
-        onChange={(e) => setSymbol(e.target.value)}
-        placeholder="例: 7203.T"
-      />
-      <button onClick={fetchData}>取得</button>
+      <hr style={{ margin: "20px 0" }} />
 
-      {loading && <p>取得中...</p>}
-
-      {data && (
-        <div>
-          <p>現在値: {data.price}</p>
-          <p>高値: {data.high}</p>
-          <p>安値: {data.low}</p>
-          <p>出来高: {data.volume}</p>
-
-          <button onClick={analyze}>AI分析</button>
-        </div>
-      )}
-
-      {analysis && (
-        <div>
-          <h3>AI分析</h3>
-          <p>{analysis}</p>
-        </div>
+      {posts.length === 0 ? (
+        <p>まだ記事がありません。自動生成が走るとここに増えていきます。</p>
+      ) : (
+        posts
+          .slice()
+          .reverse()
+          .map((p) => (
+            <div
+              key={p.slug}
+              style={{
+                padding: 16,
+                border: "1px solid #ddd",
+                borderRadius: 10,
+                marginBottom: 12,
+              }}
+            >
+              <a href={`/posts/${p.slug}`} style={{ fontSize: 18 }}>
+                {p.title}
+              </a>
+              <div style={{ fontSize: 12, color: "#666", marginTop: 6 }}>
+                {p.date} / {p.category}
+              </div>
+              <p style={{ marginTop: 8 }}>{p.excerpt}</p>
+            </div>
+          ))
       )}
     </div>
   );
