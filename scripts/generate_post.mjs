@@ -53,6 +53,9 @@ function buildDummyPost(items) {
   const today = jstDateKey();
   const time = jstDateTime();
 
+  // ✅ 追加：slug（必須）
+  const slug = `${today}-dummy`;
+
   const bullets = items.map((x, i) => {
     const url = x.link ? `（${x.link}）` : "";
     return `${i + 1}. [${x.source}] ${x.title} ${url}`;
@@ -82,14 +85,16 @@ ${bullets || "（取得できたニュースがありませんでした：RSSが
 `;
 
   return {
-    id: `${Date.now()}`,     // 必ずユニーク
-    date: today,             // “1日1本”判定用
-    generatedAt: time,       // 表示用
+    slug,                 // ✅ 追加（必須）
+    id: `${Date.now()}`,  // 必ずユニーク
+    date: today,          // “1日1本”判定用
+    generatedAt: time,    // 表示用
     title: `今日の株式市場メモ（ダミー） ${today}`,
     body,
     sources: items,
   };
 }
+
 
 function loadPosts(filePath) {
   try {
