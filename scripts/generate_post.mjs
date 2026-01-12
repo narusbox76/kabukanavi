@@ -22,9 +22,12 @@ async function fetchRssItems() {
   const parser = new Parser();
 
   // 例：ここは“あなたの選ぶRSS”に差し替えて運用します
-  const feeds = [
-    // "https://example.com/rss.xml",
-  ];
+const feeds = [
+  "https://www.nhk.or.jp/rss/news/cat0.xml",  // 主要ニュース
+  "https://www.nhk.or.jp/rss/news/cat2.xml",  // 経済
+  "https://www.nhk.or.jp/rss/news/cat6.xml"   // 国際（為替/米国要因に関係しやすい）
+];
+
 
   const all = [];
   for (const url of feeds) {
