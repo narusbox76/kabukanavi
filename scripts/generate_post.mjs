@@ -1,149 +1,132 @@
+// scripts/generate_post.mjs
 import fs from "fs";
 import path from "path";
-import OpenAI from "openai";
 import Parser from "rss-parser";
 
-function todayJST() {
+const parser = new Parser();
+
+// ✅ RSSはここをあなた好みに差し替え可（まずは動く枠組み優先）
+const FEEDS = [
+  { name: "NHK 経済", url: "https://www3.nhk.or.jp/rss/news/cat6.xml" },
+  // 例：追加したいRSSがあればここに増やす
+  // { name: "Reuters JP", url: "（RSS URL）" },
+];
+
+function jstDateKey() {
+  // 今日(JST)のYYYY-MM-DD
   const now = new Date();
   const jst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
   return jst.toISOString().slice(0, 10);
 }
 
-function slugify(s) {
-  return s
-    .toLowerCase()
-    .replace(/[^\w\u3040-\u30ff\u4e00-\u9faf]+/g, "-")
-    .replace(/-+/g, "-")
-    .replace(/^-|-$/g, "")
-    .slice(0, 60);
+function jstDateTime() {
+  const now = new Date();
+  const jst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
+  return jst.toISOString().replace("T", " ").slice(0, 16);
 }
 
-async function fetchRssItems() {
-  const parser = new Parser();
-
-  // 例：ここは“あなたの選ぶRSS”に差し替えて運用します
-const feeds = [
-  "https://www.nhk.or.jp/rss/news/cat0.xml",  // 主要ニュース
-  "https://www.nhk.or.jp/rss/news/cat2.xml",  // 経済
-  "https://www.nhk.or.jp/rss/news/cat6.xml"   // 国際（為替/米国要因に関係しやすい）
-];
-
-
+async function fetchTopItems(limit = 10) {
   const all = [];
-  for (const url of feeds) {
+  for (const f of FEEDS) {
     try {
-      const feed = await parser.parseURL(url);
-      for (const item of (feed.items || []).slice(0, 10)) {
+      const feed = await parser.parseURL(f.url);
+      const items = (feed.items || []).slice(0, Math.ceil(limit / FEEDS.length));
+      for (const it of items) {
         all.push({
-          title: item.title || "",
-          link: item.link || "",
-          pubDate: item.pubDate || "",
-          contentSnippet: item.contentSnippet || "",
-          source: feed.title || url,
+          source: f.name,
+          title: it.title || "",
+          link: it.link || "",
+          pubDate: it.pubDate || "",
         });
       }
     } catch (e) {
-      console.log("RSS fetch failed:", url, e.message);
+      console.log("⚠ RSS failed:", f.name, String(e?.message || e));
     }
   }
 
-  // 何も取れない場合でも記事生成は動かす（後で改善）
-  return all.slice(0, 12);
+  // タイトル空を除外、最大limit件
+  return all.filter(x => x.title).slice(0, limit);
+}
+
+function buildDummyPost(items) {
+  // ✅ “断定売買禁止”のダミー記事（枠組み）
+  const today = jstDateKey();
+  const time = jstDateTime();
+
+  const bullets = items.map((x, i) => {
+    const url = x.link ? `（${x.link}）` : "";
+    return `${i + 1}. [${x.source}] ${x.title} ${url}`;
+  }).join("\n");
+
+  const body = `※これは自動更新の「ダミー記事」です（課金/AI生成を後で差し替え予定）。
+※投資助言ではありません。売買の断定はしていません。
+
+## 今日の注目ニュース（見出し）
+${bullets || "（取得できたニュースがありませんでした：RSSがブロック/停止の可能性）"}
+
+## 今日の市場への影響（テンプレ分析）
+- **金利・為替**：利上げ/利下げ観測、円高/円安の方向で輸出入株に影響しやすい  
+- **コモディティ**：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい  
+- **地政学/規制**：防衛、半導体、海運、資源に波及しやすい  
+- **個別企業**：決算、上方/下方修正、M&A、リコール等は短期ボラが出やすい
+
+## ウォッチリスト（断定しない）
+- **上がりやすい可能性**：ニュースが“追い風”になり得るセクター（輸出/半導体/資源/防衛など）  
+- **下がりやすい可能性**：ニュースが“逆風”になり得るセクター（原材料高で利益圧迫、規制強化など）  
+- **注目イベント**：決算発表、日銀/FRB、CPI、雇用統計、為替急変
+
+## 次にやること（あなた用）
+- RSSを増やす（経済/企業/為替/金利）
+- 表示を整える（記事一覧・詳細ページ）
+- ここをOpenAI生成に差し替え（課金後）
+`;
+
+  return {
+    id: `${Date.now()}`,     // 必ずユニーク
+    date: today,             // “1日1本”判定用
+    generatedAt: time,       // 表示用
+    title: `今日の株式市場メモ（ダミー） ${today}`,
+    body,
+    sources: items,
+  };
+}
+
+function loadPosts(filePath) {
+  try {
+    const raw = fs.readFileSync(filePath, "utf-8");
+    const json = JSON.parse(raw);
+    return Array.isArray(json) ? json : [];
+  } catch {
+    return [];
+  }
+}
+
+function savePosts(filePath, posts) {
+  fs.mkdirSync(path.dirname(filePath), { recursive: true });
+  fs.writeFileSync(filePath, JSON.stringify(posts, null, 2), "utf-8");
 }
 
 async function main() {
-  const apiKey = process.env.OPENAI_API_KEY;
-  if (!apiKey) throw new Error("OPENAI_API_KEY is missing");
-
-  const client = new OpenAI({ apiKey });
-
   const filePath = path.join(process.cwd(), "data", "posts.json");
-  const posts = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+  const posts = loadPosts(filePath);
 
-  const date = todayJST();
-  if (posts.some((p) => p.date === date)) {
+  const today = jstDateKey();
+  const already = posts.find(p => p?.date === today);
+  if (already) {
     console.log("Post already exists for today. Skip.");
-    return;
+    process.exit(0);
   }
 
-  const news = await fetchRssItems();
+  const items = await fetchTopItems(10);
+  const newPost = buildDummyPost(items);
 
-  const system = `
-あなたは日本向けの投資情報メディア編集者です。
-必ず守るルール：
-- 「買え」「売れ」などの売買推奨はしない（投資助言にならないようにする）
-- 断定しない。条件付き・確率・リスク・反証条件（無効化条件）を併記する
-- ニュースの本文を転載しない（見出し/要約/リンク提示に留める）
-- 出力は必ずJSONのみ（フォーマット厳守）
-`;
+  posts.unshift(newPost);
+  savePosts(filePath, posts);
 
-  const user = `
-以下は直近ニュース候補です。これを材料に「今日の注目ポイント」を記事化してください。
-ニュースが不足している場合は、一般論（市場の見方・注目指標・リスク管理）で補って構いません。
-
-ニュース一覧（最大12件）：
-${news.map((n, i) => `(${i + 1}) [${n.source}] ${n.title}\n- ${n.link}\n- ${n.contentSnippet || ""}`).join("\n\n")}
-
-出力JSONフォーマット：
-{
-  "category": "市況|材料|決算|テーマ|リスク管理|投資心理",
-  "title": "...",
-  "excerpt": "...(80〜120文字)",
-  "body": "...(800〜1500文字。見出しあり。箇条書きあり。最後に免責を必ず入れる)",
-  "watchlist": [
-    {
-      "ticker_note": "例：銘柄名やコード（不確かなら“要確認”と書く）",
-      "catalyst": "上に動きやすい材料（条件付き）",
-      "downside_risk": "下振れ要因",
-      "what_to_watch": "注目すべき指標/イベント",
-      "invalidation": "この条件なら見立てが崩れる"
-    }
-  ],
-  "sources": [
-    { "title": "...", "url": "..." }
-  ]
-}
-`;
-
-  const resp = await client.chat.completions.create({
-    model: "gpt-4o-mini",
-    messages: [
-      { role: "system", content: system.trim() },
-      { role: "user", content: user.trim() },
-    ],
-    // コスト暴走防止
-    max_tokens: 1200,
-  });
-
-  const text = resp.choices?.[0]?.message?.content ?? "";
-  let obj;
-  try {
-    obj = JSON.parse(text);
-  } catch {
-    throw new Error("Model did not return valid JSON: " + text.slice(0, 200));
-  }
-
-  const title = obj.title || "無題";
-  const slugBase = slugify(title) || "post";
-  const slug = `${date}-${slugBase}`;
-
-  const post = {
-    slug,
-    date,
-    category: obj.category || "市況",
-    title,
-    excerpt: obj.excerpt || "",
-    body: obj.body || "",
-    watchlist: obj.watchlist || [],
-    sources: obj.sources || [],
-  };
-
-  posts.push(post);
-  fs.writeFileSync(filePath, JSON.stringify(posts, null, 2), "utf-8");
-  console.log("Generated:", slug);
+  console.log("✅ appended post:", newPost.id, newPost.date, newPost.generatedAt);
 }
 
 main().catch((e) => {
-  console.error(e);
+  console.error("❌ generate_post failed:", e);
   process.exit(1);
 });
