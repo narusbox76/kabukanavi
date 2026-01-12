@@ -36,3 +36,4 @@ jobs:
           git add data/posts.json
           git diff --staged --quiet || git commit -m "Daily AI post"
           git push
+
