@@ -9,7 +9,11 @@ const parser = new Parser();
 // ✅ RSSは強化できます（今は枠組み優先）
 const FEEDS = [
   { name: "NHK 経済", url: "https://www3.nhk.or.jp/rss/news/cat6.xml" },
+  { name: "NHK ビジネス特集", url: "https://www3.nhk.or.jp/rss/news/cat3.xml" },
+  { name: "NHK 国際", url: "https://www3.nhk.or.jp/rss/news/cat7.xml" },
+  // ここに追加していく（経済・企業・為替金利・海外）
 ];
+
 
 function jstDateKey() {
   const now = new Date();
