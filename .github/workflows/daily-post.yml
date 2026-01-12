@@ -24,8 +24,19 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+#課金してないとき
       - name: Generate article
-        run: node scripts/generate_post.mjs
+      env:
+      USE_OPENAI: "false"
+      run: node scripts/generate_post.mjs
+
+#後で課金してAIに戻すとき
+      #- name: Generate article
+      #env:
+      #USE_OPENAI: "true"
+      #OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      #run: node scripts/generate_post.mjs
+
 
       - name: Commit & push
         run: |
