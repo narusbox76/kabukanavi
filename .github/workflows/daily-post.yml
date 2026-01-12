@@ -4,7 +4,7 @@ on:
   schedule:
     # 毎日 21:10 UTC = 日本時間 06:10
     - cron: "10 21 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -24,19 +24,18 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-#課金してないとき
+      # 課金してないとき（ダミー生成）
       - name: Generate article
-      env:
-      USE_OPENAI: "false"
-      run: node scripts/generate_post.mjs
+        env:
+          USE_OPENAI: "false"
+        run: node scripts/generate_post.mjs
 
-#後で課金してAIに戻すとき　
-      #- name: Generate article
-      #env:
-      #USE_OPENAI: "true"
-      #OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      #run: node scripts/generate_post.mjs
-
+      # 後で課金してAIに戻すとき（必要になったらコメント解除）
+      # - name: Generate article
+      #   env:
+      #     USE_OPENAI: "true"
+      #     OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      #   run: node scripts/generate_post.mjs
 
       - name: Commit & push
         run: |
@@ -45,4 +44,3 @@ jobs:
           git add data/posts.json
           git diff --staged --quiet || git commit -m "Daily AI post"
           git push
-
