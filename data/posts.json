@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-01-13-daily",
+    "id": "1768300322657",
+    "date": "2026-01-13",
+    "generatedAt": "2026-01-13 19:32",
+    "title": "今日の株式市場メモ 2026-01-13",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 日韓首脳会談 『シャトル外交』継続や経済安保協力で一致 （http://www3.nhk.or.jp/news/html/20260113/k10015025071000.html）\n2. [NHK 経済] イラン“デモ死者640人余” ハメネイ師 アメリカを強くけん制 （http://www3.nhk.or.jp/news/html/20260113/k10015025371000.html）\n3. [NHK 経済] トランプ大統領 「イランと取り引き行う国には25％の関税」 （http://www3.nhk.or.jp/news/html/20260113/k10015025001000.html）\n4. [NHK 経済] 【随時更新】ロシア ウクライナに軍事侵攻（1月13日の動き） （http://www3.nhk.or.jp/news/html/20260113/k10015004571000.html）\n5. [NHK 経済] “ベネズエラのロシア製防空システム 一部機能せず” 米報道 （http://www3.nhk.or.jp/news/html/20260113/k10015025331000.html）\n6. [NHK ビジネス特集] フリーアナウンサー 久米宏さん死去 81歳 （http://www3.nhk.or.jp/news/html/20260113/k10015025241000.html）\n7. [NHK ビジネス特集] 南鳥島沖の海底からレアアース採掘試験 JAMSTECの探査船が出航 （http://www3.nhk.or.jp/news/html/20260112/k10015024521000.html）\n8. [NHK ビジネス特集] 「鬼滅の刃」最新作 米ゴールデングローブ賞 受賞ならず （http://www3.nhk.or.jp/news/html/20260112/k10015024491000.html）\n9. [NHK ビジネス特集] NASA 油井さんら4人の宇宙飛行士の地球帰還は今月15日と発表 （http://www3.nhk.or.jp/news/html/20260110/k10015023641000.html）\n10. [NHK ビジネス特集] 兵庫 西宮神社で「福男選び」一番乗りの参拝めざし駆け抜ける （http://www3.nhk.or.jp/news/html/20260110/k10015023541000.html）\n11. [NHK 国際] 大相撲初場所3日目 横綱 豊昇龍に土 義ノ富士 2場所連続の金星 （http://www3.nhk.or.jp/news/html/20260113/k10015025321000.html）\n12. [NHK 国際] ボブスレー男子 五輪出場できず 出場枠獲得の条件変更見落とし （http://www3.nhk.or.jp/news/html/20260113/k10015025151000.html）\n13. [NHK 国際] 巨人 新人合同自主トレ 阿部監督「1軍キャンプに抜てきも」 （http://www3.nhk.or.jp/news/html/20260113/k10015025461000.html）\n14. [NHK 国際] フィギュア男子シングル代表 佐藤駿が練習公開 五輪に向け決意 （http://www3.nhk.or.jp/news/html/20260113/k10015025271000.html）\n15. [NHK 国際] 大相撲初場所 3日目の見どころ 安青錦 前頭筆頭の一山本と対戦 （http://www3.nhk.or.jp/news/html/20260113/k10015024891000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "日韓首脳会談 『シャトル外交』継続や経済安保協力で一致",
+        "link": "http://www3.nhk.or.jp/news/html/20260113/k10015025071000.html",
+        "pubDate": "Tue, 13 Jan 2026 18:55:35 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "イラン“デモ死者640人余” ハメネイ師 アメリカを強くけん制",
+        "link": "http://www3.nhk.or.jp/news/html/20260113/k10015025371000.html",
+        "pubDate": "Tue, 13 Jan 2026 18:13:46 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領 「イランと取り引き行う国には25％の関税」",
+        "link": "http://www3.nhk.or.jp/news/html/20260113/k10015025001000.html",
+        "pubDate": "Tue, 13 Jan 2026 17:59:38 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【随時更新】ロシア ウクライナに軍事侵攻（1月13日の動き）",
+        "link": "http://www3.nhk.or.jp/news/html/20260113/k10015004571000.html",
+        "pubDate": "Tue, 13 Jan 2026 16:05:58 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "“ベネズエラのロシア製防空システム 一部機能せず” 米報道",
+        "link": "http://www3.nhk.or.jp/news/html/20260113/k10015025331000.html",
+        "pubDate": "Tue, 13 Jan 2026 15:03:17 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "フリーアナウンサー 久米宏さん死去 81歳",
+        "link": "http://www3.nhk.or.jp/news/html/20260113/k10015025241000.html",
+        "pubDate": "Tue, 13 Jan 2026 14:10:12 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "南鳥島沖の海底からレアアース採掘試験 JAMSTECの探査船が出航",
+        "link": "http://www3.nhk.or.jp/news/html/20260112/k10015024521000.html",
+        "pubDate": "Tue, 13 Jan 2026 06:32:10 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「鬼滅の刃」最新作 米ゴールデングローブ賞 受賞ならず",
+        "link": "http://www3.nhk.or.jp/news/html/20260112/k10015024491000.html",
+        "pubDate": "Mon, 12 Jan 2026 12:41:54 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "NASA 油井さんら4人の宇宙飛行士の地球帰還は今月15日と発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260110/k10015023641000.html",
+        "pubDate": "Sat, 10 Jan 2026 16:21:16 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "兵庫 西宮神社で「福男選び」一番乗りの参拝めざし駆け抜ける",
+        "link": "http://www3.nhk.or.jp/news/html/20260110/k10015023541000.html",
+        "pubDate": "Sat, 10 Jan 2026 11:16:41 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲初場所3日目 横綱 豊昇龍に土 義ノ富士 2場所連続の金星",
+        "link": "http://www3.nhk.or.jp/news/html/20260113/k10015025321000.html",
+        "pubDate": "Tue, 13 Jan 2026 18:57:28 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ボブスレー男子 五輪出場できず 出場枠獲得の条件変更見落とし",
+        "link": "http://www3.nhk.or.jp/news/html/20260113/k10015025151000.html",
+        "pubDate": "Tue, 13 Jan 2026 18:41:28 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "巨人 新人合同自主トレ 阿部監督「1軍キャンプに抜てきも」",
+        "link": "http://www3.nhk.or.jp/news/html/20260113/k10015025461000.html",
+        "pubDate": "Tue, 13 Jan 2026 18:22:01 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "フィギュア男子シングル代表 佐藤駿が練習公開 五輪に向け決意",
+        "link": "http://www3.nhk.or.jp/news/html/20260113/k10015025271000.html",
+        "pubDate": "Tue, 13 Jan 2026 14:39:42 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲初場所 3日目の見どころ 安青錦 前頭筆頭の一山本と対戦",
+        "link": "http://www3.nhk.or.jp/news/html/20260113/k10015024891000.html",
+        "pubDate": "Tue, 13 Jan 2026 00:02:56 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "test-001",
     "date": "2026-01-12",
     "category": "市況",
