@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-01-19-daily",
+    "id": "1768772061412",
+    "date": "2026-01-19",
+    "generatedAt": "2026-01-19 06:34",
+    "title": "今日の株式市場メモ 2026-01-19",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 海底ケーブルなどの通信インフラ議論する国際会議始まる （http://www3.nhk.or.jp/news/html/20260119/k10015029691000.html）\n2. [NHK 経済] 欧州8か国が共同声明 グリーンランドめぐる米の関税措置を批判 （http://www3.nhk.or.jp/news/html/20260119/k10015029701000.html）\n3. [NHK 経済] ゼレンスキー大統領 防空システム強化など支援訴える （http://www3.nhk.or.jp/news/html/20260119/k10015029761000.html）\n4. [NHK 経済] アメリカ この1年間 国連総会で採択の決議 9割に反対 （http://www3.nhk.or.jp/news/html/20260119/k10015029491000.html）\n5. [NHK 経済] EUとブラジルなどの共同市場「メルコスール」自由貿易協定署名 （http://www3.nhk.or.jp/news/html/20260118/k10015029681000.html）\n6. [NHK ビジネス特集] 月探査 アルテミス計画のロケットが発射台へ 宇宙飛行士が会見 （http://www3.nhk.or.jp/news/html/20260118/k10015029221000.html）\n7. [NHK ビジネス特集] 暗号資産で相次ぐ詐欺被害 送金先を追跡して分かったこと （http://www3.nhk.or.jp/news/html/20260117/k10015026811000.html）\n8. [NHK ビジネス特集] iPS細胞を使うがん治療の治験 “一定の有効性確認” 国内で初 （http://www3.nhk.or.jp/news/html/20260116/k10015028411000.html）\n9. [NHK ビジネス特集] 日本将棋連盟 妊娠・出産に関する規定めぐり 対応検討の初会合 （http://www3.nhk.or.jp/news/html/20260116/k10015028301000.html）\n10. [NHK ビジネス特集] “核のごみ最終処分地 調査受け入れに理解を”経産相 文書送る （http://www3.nhk.or.jp/news/html/20260116/k10015028291000.html）\n11. [NHK 国際] 大相撲初場所9日目 豊昇龍は対戦成績で負け越す熱海富士と対戦 （http://www3.nhk.or.jp/news/html/20260119/k10015029711000.html）\n12. [NHK 国際] スノーボードW杯 スロープスタイル第2戦 村瀬心椛が今季初優勝 （http://www3.nhk.or.jp/news/html/20260119/k10015029721000.html）\n13. [NHK 国際] スノーボードW杯 パラレル大回転 第7戦 三木つばき2位で表彰台 （http://www3.nhk.or.jp/news/html/20260118/k10015029671000.html）\n14. [NHK 国際] ミラノ・コルティナ五輪 日本選手団が結団式 坂本花織が決意 （http://www3.nhk.or.jp/news/html/20260118/k10015029461000.html）\n15. [NHK 国際] 大相撲初場所8日目 横綱と大関の全員が敗れ総崩れに （http://www3.nhk.or.jp/news/html/20260118/k10015029541000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "海底ケーブルなどの通信インフラ議論する国際会議始まる",
+        "link": "http://www3.nhk.or.jp/news/html/20260119/k10015029691000.html",
+        "pubDate": "Mon, 19 Jan 2026 06:13:00 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "欧州8か国が共同声明 グリーンランドめぐる米の関税措置を批判",
+        "link": "http://www3.nhk.or.jp/news/html/20260119/k10015029701000.html",
+        "pubDate": "Mon, 19 Jan 2026 06:11:43 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ゼレンスキー大統領 防空システム強化など支援訴える",
+        "link": "http://www3.nhk.or.jp/news/html/20260119/k10015029761000.html",
+        "pubDate": "Mon, 19 Jan 2026 05:34:12 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "アメリカ この1年間 国連総会で採択の決議 9割に反対",
+        "link": "http://www3.nhk.or.jp/news/html/20260119/k10015029491000.html",
+        "pubDate": "Mon, 19 Jan 2026 05:06:59 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "EUとブラジルなどの共同市場「メルコスール」自由貿易協定署名",
+        "link": "http://www3.nhk.or.jp/news/html/20260118/k10015029681000.html",
+        "pubDate": "Sun, 18 Jan 2026 23:12:41 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "月探査 アルテミス計画のロケットが発射台へ 宇宙飛行士が会見",
+        "link": "http://www3.nhk.or.jp/news/html/20260118/k10015029221000.html",
+        "pubDate": "Sun, 18 Jan 2026 05:06:20 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "暗号資産で相次ぐ詐欺被害 送金先を追跡して分かったこと",
+        "link": "http://www3.nhk.or.jp/news/html/20260117/k10015026811000.html",
+        "pubDate": "Sat, 17 Jan 2026 16:25:51 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "iPS細胞を使うがん治療の治験 “一定の有効性確認” 国内で初",
+        "link": "http://www3.nhk.or.jp/news/html/20260116/k10015028411000.html",
+        "pubDate": "Fri, 16 Jan 2026 20:52:06 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "日本将棋連盟 妊娠・出産に関する規定めぐり 対応検討の初会合",
+        "link": "http://www3.nhk.or.jp/news/html/20260116/k10015028301000.html",
+        "pubDate": "Fri, 16 Jan 2026 18:12:31 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "“核のごみ最終処分地 調査受け入れに理解を”経産相 文書送る",
+        "link": "http://www3.nhk.or.jp/news/html/20260116/k10015028291000.html",
+        "pubDate": "Fri, 16 Jan 2026 17:24:39 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲初場所9日目 豊昇龍は対戦成績で負け越す熱海富士と対戦",
+        "link": "http://www3.nhk.or.jp/news/html/20260119/k10015029711000.html",
+        "pubDate": "Mon, 19 Jan 2026 05:18:02 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スノーボードW杯 スロープスタイル第2戦 村瀬心椛が今季初優勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260119/k10015029721000.html",
+        "pubDate": "Mon, 19 Jan 2026 01:16:04 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スノーボードW杯 パラレル大回転 第7戦 三木つばき2位で表彰台",
+        "link": "http://www3.nhk.or.jp/news/html/20260118/k10015029671000.html",
+        "pubDate": "Sun, 18 Jan 2026 23:08:56 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ミラノ・コルティナ五輪 日本選手団が結団式 坂本花織が決意",
+        "link": "http://www3.nhk.or.jp/news/html/20260118/k10015029461000.html",
+        "pubDate": "Sun, 18 Jan 2026 22:04:09 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲初場所8日目 横綱と大関の全員が敗れ総崩れに",
+        "link": "http://www3.nhk.or.jp/news/html/20260118/k10015029541000.html",
+        "pubDate": "Sun, 18 Jan 2026 21:04:55 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-01-18-daily",
     "id": "1768685612301",
     "date": "2026-01-18",
