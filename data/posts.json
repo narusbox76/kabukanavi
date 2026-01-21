@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-01-22-daily",
+    "id": "1769032488606",
+    "date": "2026-01-22",
+    "generatedAt": "2026-01-22 06:54",
+    "title": "今日の株式市場メモ 2026-01-22",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] NYダウ 588ドル余値上がり トランプ大統領の欧州関税見送りで （http://www3.nhk.or.jp/news/html/20260122/k10015032461000.html）\n2. [NHK 経済] トランプ大統領 NATO貢献見返りにグリーンランドの領有主張か （http://www3.nhk.or.jp/news/html/20260121/k10015032151000.html）\n3. [NHK 経済] トランプ大統領 ゼレンスキー大統領と会談見通し 進展は不透明 （http://www3.nhk.or.jp/news/html/20260122/k10015032451000.html）\n4. [NHK 経済] トランプ大統領 “欧州8か国への新たな関税措置実施せず” （http://www3.nhk.or.jp/news/html/20260122/k10015032441000.html）\n5. [NHK 経済] ロシア軍の長距離戦略爆撃機 日本海上空を11時間超飛行と発表 （http://www3.nhk.or.jp/news/html/20260122/k10015032401000.html）\n6. [NHK ビジネス特集] 柏崎刈羽原発6号機が再稼働 東電の原発としては事故後初 （http://www3.nhk.or.jp/news/html/20260121/k10015031721000.html）\n7. [NHK ビジネス特集] 御前崎市長ら 原子力規制庁に中部電力への指導や監視など要請 （http://www3.nhk.or.jp/news/html/20260121/k10015032031000.html）\n8. [NHK ビジネス特集] 日本国際賞 大阪大学の審良静男特任教授などが受賞 （http://www3.nhk.or.jp/news/html/20260121/k10015032051000.html）\n9. [NHK ビジネス特集] ベルリン国際映画祭 日本のアニメ映画 最優秀作品の候補に （http://www3.nhk.or.jp/news/html/20260121/k10015031471000.html）\n10. [NHK ビジネス特集] H3ロケット打ち上げ失敗 カバー分離の際 衛星載せる土台損傷か （http://www3.nhk.or.jp/news/html/20260120/k10015031241000.html）\n11. [NHK 国際] IOC会長 広域開催のミラノ・コルティナ五輪は貴重な経験に （http://www3.nhk.or.jp/news/html/20260122/k10015032411000.html）\n12. [NHK 国際] 大相撲初場所 12日目見どころ 安青錦 2敗で並ぶ熱海富士と対戦 （http://www3.nhk.or.jp/news/html/20260122/k10015032251000.html）\n13. [NHK 国際] ミラノ・コルティナ五輪 日本代表の内定選手に 3人追加を発表 （http://www3.nhk.or.jp/news/html/20260122/k10015032351000.html）\n14. [NHK 国際] スキージャンプ女子W杯 蔵王大会 丸山希 日本勢トップの8位 （http://www3.nhk.or.jp/news/html/20260121/k10015032231000.html）\n15. [NHK 国際] 大相撲初場所11日目 横綱 大の里が関脇 霧島を破り連敗止める （http://www3.nhk.or.jp/news/html/20260121/k10015031871000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "NYダウ 588ドル余値上がり トランプ大統領の欧州関税見送りで",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015032461000.html",
+        "pubDate": "Thu, 22 Jan 2026 06:39:03 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領 NATO貢献見返りにグリーンランドの領有主張か",
+        "link": "http://www3.nhk.or.jp/news/html/20260121/k10015032151000.html",
+        "pubDate": "Thu, 22 Jan 2026 06:32:01 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領 ゼレンスキー大統領と会談見通し 進展は不透明",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015032451000.html",
+        "pubDate": "Thu, 22 Jan 2026 06:27:42 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領 “欧州8か国への新たな関税措置実施せず”",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015032441000.html",
+        "pubDate": "Thu, 22 Jan 2026 06:18:32 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ロシア軍の長距離戦略爆撃機 日本海上空を11時間超飛行と発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015032401000.html",
+        "pubDate": "Thu, 22 Jan 2026 05:51:59 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "柏崎刈羽原発6号機が再稼働 東電の原発としては事故後初",
+        "link": "http://www3.nhk.or.jp/news/html/20260121/k10015031721000.html",
+        "pubDate": "Wed, 21 Jan 2026 21:08:47 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "御前崎市長ら 原子力規制庁に中部電力への指導や監視など要請",
+        "link": "http://www3.nhk.or.jp/news/html/20260121/k10015032031000.html",
+        "pubDate": "Wed, 21 Jan 2026 17:41:07 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "日本国際賞 大阪大学の審良静男特任教授などが受賞",
+        "link": "http://www3.nhk.or.jp/news/html/20260121/k10015032051000.html",
+        "pubDate": "Wed, 21 Jan 2026 17:36:17 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ベルリン国際映画祭 日本のアニメ映画 最優秀作品の候補に",
+        "link": "http://www3.nhk.or.jp/news/html/20260121/k10015031471000.html",
+        "pubDate": "Wed, 21 Jan 2026 00:20:59 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "H3ロケット打ち上げ失敗 カバー分離の際 衛星載せる土台損傷か",
+        "link": "http://www3.nhk.or.jp/news/html/20260120/k10015031241000.html",
+        "pubDate": "Tue, 20 Jan 2026 19:08:20 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "IOC会長 広域開催のミラノ・コルティナ五輪は貴重な経験に",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015032411000.html",
+        "pubDate": "Thu, 22 Jan 2026 06:07:44 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲初場所 12日目見どころ 安青錦 2敗で並ぶ熱海富士と対戦",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015032251000.html",
+        "pubDate": "Thu, 22 Jan 2026 05:25:22 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ミラノ・コルティナ五輪 日本代表の内定選手に 3人追加を発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015032351000.html",
+        "pubDate": "Thu, 22 Jan 2026 00:00:42 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スキージャンプ女子W杯 蔵王大会 丸山希 日本勢トップの8位",
+        "link": "http://www3.nhk.or.jp/news/html/20260121/k10015032231000.html",
+        "pubDate": "Wed, 21 Jan 2026 21:15:58 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲初場所11日目 横綱 大の里が関脇 霧島を破り連敗止める",
+        "link": "http://www3.nhk.or.jp/news/html/20260121/k10015031871000.html",
+        "pubDate": "Wed, 21 Jan 2026 20:53:04 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-01-21-daily",
     "id": "1768945380997",
     "date": "2026-01-21",
