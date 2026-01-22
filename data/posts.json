@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-01-23-daily",
+    "id": "1769118556263",
+    "date": "2026-01-23",
+    "generatedAt": "2026-01-23 06:49",
+    "title": "今日の株式市場メモ 2026-01-23",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] UNDP新総裁 米など開発援助の予算削減で“民間投資が中核に” （http://www3.nhk.or.jp/news/html/20260123/k10015033331000.html）\n2. [NHK 経済] トランプ大統領とゼレンスキー大統領が会談 3者代表団初協議へ （http://www3.nhk.or.jp/news/html/20260123/k10015033491000.html）\n3. [NHK 経済] ウクライナに日本製の鉄道レール供与 （http://www3.nhk.or.jp/news/html/20260123/k10015033481000.html）\n4. [NHK 経済] 豪 15人死亡した銃撃事件から1か月余 犠牲者追悼の催し （http://www3.nhk.or.jp/news/html/20260123/k10015033341000.html）\n5. [NHK 経済] EU緊急首脳会議始まる グリーンランドめぐる対応協議へ （http://www3.nhk.or.jp/news/html/20260123/k10015033501000.html）\n6. [NHK ビジネス特集] 島根県知事 中国電力に“中部電力と同様の問題あれば退任を” （http://www3.nhk.or.jp/news/html/20260123/k10015033411000.html）\n7. [NHK ビジネス特集] 映画「国宝」が米アカデミー賞のメイク・ヘア部門候補に （http://www3.nhk.or.jp/news/html/20260122/k10015033421000.html）\n8. [NHK ビジネス特集] 再稼働の柏崎刈羽原発6号機 不具合で原子炉を停止すると発表 （http://www3.nhk.or.jp/news/html/20260122/k10015032991000.html）\n9. [NHK ビジネス特集] 将棋の加藤一二三さん死去 86歳 名人などタイトル 通算8期獲得 （http://www3.nhk.or.jp/news/html/20260122/k10015032931000.html）\n10. [NHK ビジネス特集] 原子力規制委 浜岡原発の審査問題で中部電力に立ち入り検査へ （http://www3.nhk.or.jp/news/html/20260122/k10015033141000.html）\n11. [NHK 国際] 大相撲初場所 13日目見どころ 単独トップ安青錦 豊昇龍と対戦 （http://www3.nhk.or.jp/news/html/20260123/k10015033431000.html）\n12. [NHK 国際] 大相撲初場所12日目 安青錦2敗守り 単独トップに （http://www3.nhk.or.jp/news/html/20260122/k10015032941000.html）\n13. [NHK 国際] 卓球 全日本選手権 4連覇目指す早田ひな 初戦勝利 （http://www3.nhk.or.jp/news/html/20260122/k10015033241000.html）\n14. [NHK 国際] フィギュア四大陸選手権 女子シングルSP 中井亜美がトップ （http://www3.nhk.or.jp/news/html/20260122/k10015033211000.html）\n15. [NHK 国際] プロ野球 今季再編の2軍 日本選手権は4球団トーナメント形式に （http://www3.nhk.or.jp/news/html/20260122/k10015032971000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "UNDP新総裁 米など開発援助の予算削減で“民間投資が中核に”",
+        "link": "http://www3.nhk.or.jp/news/html/20260123/k10015033331000.html",
+        "pubDate": "Fri, 23 Jan 2026 06:20:09 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領とゼレンスキー大統領が会談 3者代表団初協議へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260123/k10015033491000.html",
+        "pubDate": "Fri, 23 Jan 2026 05:37:33 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナに日本製の鉄道レール供与",
+        "link": "http://www3.nhk.or.jp/news/html/20260123/k10015033481000.html",
+        "pubDate": "Fri, 23 Jan 2026 05:33:50 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "豪 15人死亡した銃撃事件から1か月余 犠牲者追悼の催し",
+        "link": "http://www3.nhk.or.jp/news/html/20260123/k10015033341000.html",
+        "pubDate": "Fri, 23 Jan 2026 05:27:25 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "EU緊急首脳会議始まる グリーンランドめぐる対応協議へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260123/k10015033501000.html",
+        "pubDate": "Fri, 23 Jan 2026 05:17:38 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "島根県知事 中国電力に“中部電力と同様の問題あれば退任を”",
+        "link": "http://www3.nhk.or.jp/news/html/20260123/k10015033411000.html",
+        "pubDate": "Fri, 23 Jan 2026 00:03:31 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "映画「国宝」が米アカデミー賞のメイク・ヘア部門候補に",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015033421000.html",
+        "pubDate": "Thu, 22 Jan 2026 23:46:33 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "再稼働の柏崎刈羽原発6号機 不具合で原子炉を停止すると発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015032991000.html",
+        "pubDate": "Thu, 22 Jan 2026 19:54:48 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋の加藤一二三さん死去 86歳 名人などタイトル 通算8期獲得",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015032931000.html",
+        "pubDate": "Thu, 22 Jan 2026 19:30:32 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "原子力規制委 浜岡原発の審査問題で中部電力に立ち入り検査へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015033141000.html",
+        "pubDate": "Thu, 22 Jan 2026 18:49:19 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲初場所 13日目見どころ 単独トップ安青錦 豊昇龍と対戦",
+        "link": "http://www3.nhk.or.jp/news/html/20260123/k10015033431000.html",
+        "pubDate": "Fri, 23 Jan 2026 00:15:40 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲初場所12日目 安青錦2敗守り 単独トップに",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015032941000.html",
+        "pubDate": "Thu, 22 Jan 2026 20:52:02 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "卓球 全日本選手権 4連覇目指す早田ひな 初戦勝利",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015033241000.html",
+        "pubDate": "Thu, 22 Jan 2026 20:37:11 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "フィギュア四大陸選手権 女子シングルSP 中井亜美がトップ",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015033211000.html",
+        "pubDate": "Thu, 22 Jan 2026 18:56:27 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "プロ野球 今季再編の2軍 日本選手権は4球団トーナメント形式に",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015032971000.html",
+        "pubDate": "Thu, 22 Jan 2026 16:22:38 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-01-22-daily",
     "id": "1769032488606",
     "date": "2026-01-22",
