@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-01-24-daily",
+    "id": "1769204538032",
+    "date": "2026-01-24",
+    "generatedAt": "2026-01-24 06:42",
+    "title": "今日の株式市場メモ 2026-01-24",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] ウクライナ ロシア アメリカ 和平案めぐる3者協議始まる （http://www3.nhk.or.jp/news/html/20260124/k10015034561000.html）\n2. [NHK 経済] 「ダボス会議」閉幕 グリーンランドめぐり欧米の溝浮き彫りに （http://www3.nhk.or.jp/news/html/20260124/k10015034581000.html）\n3. [NHK 経済] ガザ監督する「平和評議会」トランプ氏出席“世界平和に貢献” （http://www3.nhk.or.jp/news/html/20260122/k10015033381000.html）\n4. [NHK 経済] 【詳細】ロシア ウクライナに軍事侵攻（1月23日の動き） （http://www3.nhk.or.jp/news/html/20260123/k10015020861000.html）\n5. [NHK 経済] 韓国 カンボジア拠点の詐欺グループ 容疑者73人を移送 （http://www3.nhk.or.jp/news/html/20260123/k10015034161000.html）\n6. [NHK ビジネス特集] 日本将棋連盟“検討十分でなかった”女流棋士の出産規定で謝罪 （http://www3.nhk.or.jp/news/html/20260123/k10015034451000.html）\n7. [NHK ビジネス特集] 福島第一原発事故の自主避難者の訴訟 国の責任は認めず 最高裁 （http://www3.nhk.or.jp/news/html/20260123/k10015034331000.html）\n8. [NHK ビジネス特集] 島根県知事 中国電力に“中部電力と同様の問題あれば退任を” （http://www3.nhk.or.jp/news/html/20260123/k10015033411000.html）\n9. [NHK ビジネス特集] 映画「国宝」が米アカデミー賞のメイク・ヘア部門候補に （http://www3.nhk.or.jp/news/html/20260122/k10015033421000.html）\n10. [NHK ビジネス特集] 再稼働の柏崎刈羽原発6号機 不具合で原子炉を停止すると発表 （http://www3.nhk.or.jp/news/html/20260122/k10015032991000.html）\n11. [NHK 国際] フィギュア四大陸選手権 女子シングル 青木祐奈が逆転優勝 （http://www3.nhk.or.jp/news/html/20260124/k10015034571000.html）\n12. [NHK 国際] 2035年ラグビーW杯招致に向け 土田会長が抱負 （http://www3.nhk.or.jp/news/html/20260124/k10015034381000.html）\n13. [NHK 国際] ソフトバンク 周東佑京 5年 推定総額20億円プラス出来高で契約 （http://www3.nhk.or.jp/news/html/20260124/k10015034271000.html）\n14. [NHK 国際] バイアスロン 日本 男女とも五輪出場枠獲得できず （http://www3.nhk.or.jp/news/html/20260124/k10015034371000.html）\n15. [NHK 国際] 大相撲初場所14日目見どころ 単独トップ安青錦は大の里と対戦 （http://www3.nhk.or.jp/news/html/20260124/k10015034541000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナ ロシア アメリカ 和平案めぐる3者協議始まる",
+        "link": "http://www3.nhk.or.jp/news/html/20260124/k10015034561000.html",
+        "pubDate": "Sat, 24 Jan 2026 05:13:03 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "「ダボス会議」閉幕 グリーンランドめぐり欧米の溝浮き彫りに",
+        "link": "http://www3.nhk.or.jp/news/html/20260124/k10015034581000.html",
+        "pubDate": "Sat, 24 Jan 2026 04:52:21 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ガザ監督する「平和評議会」トランプ氏出席“世界平和に貢献”",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015033381000.html",
+        "pubDate": "Fri, 23 Jan 2026 16:44:09 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【詳細】ロシア ウクライナに軍事侵攻（1月23日の動き）",
+        "link": "http://www3.nhk.or.jp/news/html/20260123/k10015020861000.html",
+        "pubDate": "Fri, 23 Jan 2026 16:31:15 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "韓国 カンボジア拠点の詐欺グループ 容疑者73人を移送",
+        "link": "http://www3.nhk.or.jp/news/html/20260123/k10015034161000.html",
+        "pubDate": "Fri, 23 Jan 2026 16:29:01 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "日本将棋連盟“検討十分でなかった”女流棋士の出産規定で謝罪",
+        "link": "http://www3.nhk.or.jp/news/html/20260123/k10015034451000.html",
+        "pubDate": "Fri, 23 Jan 2026 22:11:17 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "福島第一原発事故の自主避難者の訴訟 国の責任は認めず 最高裁",
+        "link": "http://www3.nhk.or.jp/news/html/20260123/k10015034331000.html",
+        "pubDate": "Fri, 23 Jan 2026 18:47:40 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "島根県知事 中国電力に“中部電力と同様の問題あれば退任を”",
+        "link": "http://www3.nhk.or.jp/news/html/20260123/k10015033411000.html",
+        "pubDate": "Fri, 23 Jan 2026 00:03:31 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "映画「国宝」が米アカデミー賞のメイク・ヘア部門候補に",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015033421000.html",
+        "pubDate": "Thu, 22 Jan 2026 23:46:33 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "再稼働の柏崎刈羽原発6号機 不具合で原子炉を停止すると発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260122/k10015032991000.html",
+        "pubDate": "Thu, 22 Jan 2026 19:54:48 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "フィギュア四大陸選手権 女子シングル 青木祐奈が逆転優勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260124/k10015034571000.html",
+        "pubDate": "Sat, 24 Jan 2026 02:48:03 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "2035年ラグビーW杯招致に向け 土田会長が抱負",
+        "link": "http://www3.nhk.or.jp/news/html/20260124/k10015034381000.html",
+        "pubDate": "Sat, 24 Jan 2026 02:46:34 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ソフトバンク 周東佑京 5年 推定総額20億円プラス出来高で契約",
+        "link": "http://www3.nhk.or.jp/news/html/20260124/k10015034271000.html",
+        "pubDate": "Sat, 24 Jan 2026 02:24:40 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "バイアスロン 日本 男女とも五輪出場枠獲得できず",
+        "link": "http://www3.nhk.or.jp/news/html/20260124/k10015034371000.html",
+        "pubDate": "Sat, 24 Jan 2026 02:21:13 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲初場所14日目見どころ 単独トップ安青錦は大の里と対戦",
+        "link": "http://www3.nhk.or.jp/news/html/20260124/k10015034541000.html",
+        "pubDate": "Sat, 24 Jan 2026 00:50:57 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-01-23-daily",
     "id": "1769118556263",
     "date": "2026-01-23",
