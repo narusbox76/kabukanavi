@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-01-28-daily",
+    "id": "1769550055655",
+    "date": "2026-01-28",
+    "generatedAt": "2026-01-28 06:40",
+    "title": "今日の株式市場メモ 2026-01-28",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 上野動物園で飼育されていた双子のパンダ 中国 四川省に到着 （http://www3.nhk.or.jp/news/html/20260128/k10015037281000.html）\n2. [NHK 経済] 終末時計「残り85秒」過去最短に 去年よりさらに4秒進む （http://www3.nhk.or.jp/news/html/20260128/k10015037291000.html）\n3. [NHK 経済] G7財務相会議 レアアースなど重要鉱物の安定的確保など議論 （http://www3.nhk.or.jp/news/html/20260128/k10015037341000.html）\n4. [NHK 経済] EUとインドが進めていた自由貿易協定 交渉が妥結 （http://www3.nhk.or.jp/news/html/20260128/k10015037321000.html）\n5. [NHK 経済] 米トランプ政権 レアアース開発など国が企業経営に関与の動き （http://www3.nhk.or.jp/news/html/20260128/k10015037171000.html）\n6. [NHK ビジネス特集] 将棋 福間女流六冠 プロ棋士への「編入試験」黒星スタート （http://www3.nhk.or.jp/news/html/20260127/k10015037021000.html）\n7. [NHK ビジネス特集] 四国こんぴら歌舞伎大芝居 出演俳優が会見 「鷺娘」も上演へ （http://www3.nhk.or.jp/news/html/20260126/k10015036241000.html）\n8. [NHK ビジネス特集] 1週間ニュース 柏崎刈羽原発 再稼働もトラブルで停止 （http://www3.nhk.or.jp/news/html/20260126/k10015034901000.html）\n9. [NHK ビジネス特集] AIを使い卵の段階でニワトリの性別判別する技術を開発 （http://www3.nhk.or.jp/news/html/20260125/k10015034661000.html）\n10. [NHK ビジネス特集] 日本将棋連盟“検討十分でなかった”女流棋士の出産規定で謝罪 （http://www3.nhk.or.jp/news/html/20260123/k10015034451000.html）\n11. [NHK 国際] プロ野球 広島 羽月隆太郎容疑者 関係先から薬物など押収 （http://www3.nhk.or.jp/news/html/20260128/k10015037301000.html）\n12. [NHK 国際] プロ野球 広島 羽月隆太郎選手 指定薬物使用した疑いで逮捕 （http://www3.nhk.or.jp/news/html/20260127/k10015037071000.html）\n13. [NHK 国際] 広島 小園海斗が契約 推定年俸1億5000万円 “将来大リーグで” （http://www3.nhk.or.jp/news/html/20260127/k10015036931000.html）\n14. [NHK 国際] スポーツ庁長官 選手へのひぼう中傷対策“重点的に取り組む” （http://www3.nhk.or.jp/news/html/20260127/k10015036861000.html）\n15. [NHK 国際] DeNA 東克樹が自主トレ公開「先発陣の柱として結果残したい」 （http://www3.nhk.or.jp/news/html/20260127/k10015036831000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "上野動物園で飼育されていた双子のパンダ 中国 四川省に到着",
+        "link": "http://www3.nhk.or.jp/news/html/20260128/k10015037281000.html",
+        "pubDate": "Wed, 28 Jan 2026 05:33:40 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "終末時計「残り85秒」過去最短に 去年よりさらに4秒進む",
+        "link": "http://www3.nhk.or.jp/news/html/20260128/k10015037291000.html",
+        "pubDate": "Wed, 28 Jan 2026 05:28:01 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "G7財務相会議 レアアースなど重要鉱物の安定的確保など議論",
+        "link": "http://www3.nhk.or.jp/news/html/20260128/k10015037341000.html",
+        "pubDate": "Wed, 28 Jan 2026 05:12:50 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "EUとインドが進めていた自由貿易協定 交渉が妥結",
+        "link": "http://www3.nhk.or.jp/news/html/20260128/k10015037321000.html",
+        "pubDate": "Wed, 28 Jan 2026 05:11:02 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米トランプ政権 レアアース開発など国が企業経営に関与の動き",
+        "link": "http://www3.nhk.or.jp/news/html/20260128/k10015037171000.html",
+        "pubDate": "Wed, 28 Jan 2026 04:37:29 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋 福間女流六冠 プロ棋士への「編入試験」黒星スタート",
+        "link": "http://www3.nhk.or.jp/news/html/20260127/k10015037021000.html",
+        "pubDate": "Tue, 27 Jan 2026 19:03:10 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "四国こんぴら歌舞伎大芝居 出演俳優が会見 「鷺娘」も上演へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260126/k10015036241000.html",
+        "pubDate": "Mon, 26 Jan 2026 22:34:00 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "1週間ニュース 柏崎刈羽原発 再稼働もトラブルで停止",
+        "link": "http://www3.nhk.or.jp/news/html/20260126/k10015034901000.html",
+        "pubDate": "Mon, 26 Jan 2026 15:16:51 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "AIを使い卵の段階でニワトリの性別判別する技術を開発",
+        "link": "http://www3.nhk.or.jp/news/html/20260125/k10015034661000.html",
+        "pubDate": "Sun, 25 Jan 2026 05:01:19 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "日本将棋連盟“検討十分でなかった”女流棋士の出産規定で謝罪",
+        "link": "http://www3.nhk.or.jp/news/html/20260123/k10015034451000.html",
+        "pubDate": "Fri, 23 Jan 2026 22:11:17 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "プロ野球 広島 羽月隆太郎容疑者 関係先から薬物など押収",
+        "link": "http://www3.nhk.or.jp/news/html/20260128/k10015037301000.html",
+        "pubDate": "Wed, 28 Jan 2026 05:47:31 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "プロ野球 広島 羽月隆太郎選手 指定薬物使用した疑いで逮捕",
+        "link": "http://www3.nhk.or.jp/news/html/20260127/k10015037071000.html",
+        "pubDate": "Tue, 27 Jan 2026 19:52:14 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "広島 小園海斗が契約 推定年俸1億5000万円 “将来大リーグで”",
+        "link": "http://www3.nhk.or.jp/news/html/20260127/k10015036931000.html",
+        "pubDate": "Tue, 27 Jan 2026 17:48:37 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スポーツ庁長官 選手へのひぼう中傷対策“重点的に取り組む”",
+        "link": "http://www3.nhk.or.jp/news/html/20260127/k10015036861000.html",
+        "pubDate": "Tue, 27 Jan 2026 16:39:40 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "DeNA 東克樹が自主トレ公開「先発陣の柱として結果残したい」",
+        "link": "http://www3.nhk.or.jp/news/html/20260127/k10015036831000.html",
+        "pubDate": "Tue, 27 Jan 2026 15:38:52 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-01-27-daily",
     "id": "1769464204469",
     "date": "2026-01-27",
