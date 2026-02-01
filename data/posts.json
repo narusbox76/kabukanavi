@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-02-02-daily",
+    "id": "1769982555945",
+    "date": "2026-02-02",
+    "generatedAt": "2026-02-02 06:49",
+    "title": "今日の株式市場メモ 2026-02-02",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 香港 5000万円強盗事件 日本人含む4人 強盗を共謀した罪で起訴 （http://www3.nhk.or.jp/news/html/20260202/k10015041221000.html）\n2. [NHK 経済] イスラエル ラファ検問所再開 通行はガザ地区のけが人など限定 （http://www3.nhk.or.jp/news/html/20260202/k10015041181000.html）\n3. [NHK 経済] 【詳細】ロシア ウクライナに軍事侵攻（2月1日の動き） （http://www3.nhk.or.jp/news/html/20260201/k10015021811000.html）\n4. [NHK 経済] トランプ大統領 “イランは核兵器保有につながらない合意を” （http://www3.nhk.or.jp/news/html/20260201/k10015041001000.html）\n5. [NHK 経済] ウクライナの水力発電会社 ロシア軍の攻撃による被害状況公開 （http://www3.nhk.or.jp/news/html/20260201/k10015041111000.html）\n6. [NHK ビジネス特集] “発電機能備えた有機ELディスプレー用デバイス開発”NHKなど （http://www3.nhk.or.jp/news/html/20260201/k10015039801000.html）\n7. [NHK ビジネス特集] 去年の雑誌など「紙」の売り上げ 半世紀ぶりに1兆円割る （http://www3.nhk.or.jp/news/html/20260131/k10015040281000.html）\n8. [NHK ビジネス特集] 首相官邸の偽サイト確認 “個人情報入力で詐欺疑われる電話” （http://www3.nhk.or.jp/news/html/20260130/k10015039461000.html）\n9. [NHK ビジネス特集] 量子コンピューター “アートを通して身近に” 都内で企画展 （http://www3.nhk.or.jp/news/html/20260130/k10015038871000.html）\n10. [NHK ビジネス特集] 縄文時代はじめごろ人口急増か 研究成果を東京大学などが発表 （http://www3.nhk.or.jp/news/html/20260130/k10015038931000.html）\n11. [NHK 国際] スキージャンプ 五輪前最後のW杯 丸山希が2位 2戦連続の表彰台 （http://www3.nhk.or.jp/news/html/20260202/k10015041201000.html）\n12. [NHK 国際] プロ野球 沖縄と宮崎で12球団一斉にキャンプイン （http://www3.nhk.or.jp/news/html/20260201/k10015040871000.html）\n13. [NHK 国際] 別府大分毎日マラソン 吉田祐也が2位 黒田朝日が3位 （http://www3.nhk.or.jp/news/html/20260201/k10015041121000.html）\n14. [NHK 国際] NBA ブルズ 河村勇輝 今季初出場で6得点 勝利に貢献 （http://www3.nhk.or.jp/news/html/20260201/k10015041031000.html）\n15. [NHK 国際] 卓球 ダブルスの全日本選手権 張本美和が史上初の4冠達成 （http://www3.nhk.or.jp/news/html/20260201/k10015041021000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "香港 5000万円強盗事件 日本人含む4人 強盗を共謀した罪で起訴",
+        "link": "http://www3.nhk.or.jp/news/html/20260202/k10015041221000.html",
+        "pubDate": "Mon, 02 Feb 2026 06:32:40 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "イスラエル ラファ検問所再開 通行はガザ地区のけが人など限定",
+        "link": "http://www3.nhk.or.jp/news/html/20260202/k10015041181000.html",
+        "pubDate": "Mon, 02 Feb 2026 05:18:27 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【詳細】ロシア ウクライナに軍事侵攻（2月1日の動き）",
+        "link": "http://www3.nhk.or.jp/news/html/20260201/k10015021811000.html",
+        "pubDate": "Sun, 01 Feb 2026 20:54:57 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領 “イランは核兵器保有につながらない合意を”",
+        "link": "http://www3.nhk.or.jp/news/html/20260201/k10015041001000.html",
+        "pubDate": "Sun, 01 Feb 2026 19:18:28 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナの水力発電会社 ロシア軍の攻撃による被害状況公開",
+        "link": "http://www3.nhk.or.jp/news/html/20260201/k10015041111000.html",
+        "pubDate": "Sun, 01 Feb 2026 18:46:56 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "“発電機能備えた有機ELディスプレー用デバイス開発”NHKなど",
+        "link": "http://www3.nhk.or.jp/news/html/20260201/k10015039801000.html",
+        "pubDate": "Sun, 01 Feb 2026 05:06:23 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "去年の雑誌など「紙」の売り上げ 半世紀ぶりに1兆円割る",
+        "link": "http://www3.nhk.or.jp/news/html/20260131/k10015040281000.html",
+        "pubDate": "Sat, 31 Jan 2026 10:03:36 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "首相官邸の偽サイト確認 “個人情報入力で詐欺疑われる電話”",
+        "link": "http://www3.nhk.or.jp/news/html/20260130/k10015039461000.html",
+        "pubDate": "Fri, 30 Jan 2026 13:28:18 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "量子コンピューター “アートを通して身近に” 都内で企画展",
+        "link": "http://www3.nhk.or.jp/news/html/20260130/k10015038871000.html",
+        "pubDate": "Fri, 30 Jan 2026 05:37:59 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "縄文時代はじめごろ人口急増か 研究成果を東京大学などが発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260130/k10015038931000.html",
+        "pubDate": "Fri, 30 Jan 2026 00:05:30 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スキージャンプ 五輪前最後のW杯 丸山希が2位 2戦連続の表彰台",
+        "link": "http://www3.nhk.or.jp/news/html/20260202/k10015041201000.html",
+        "pubDate": "Mon, 02 Feb 2026 00:55:41 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "プロ野球 沖縄と宮崎で12球団一斉にキャンプイン",
+        "link": "http://www3.nhk.or.jp/news/html/20260201/k10015040871000.html",
+        "pubDate": "Sun, 01 Feb 2026 20:44:54 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "別府大分毎日マラソン 吉田祐也が2位 黒田朝日が3位",
+        "link": "http://www3.nhk.or.jp/news/html/20260201/k10015041121000.html",
+        "pubDate": "Sun, 01 Feb 2026 19:01:27 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "NBA ブルズ 河村勇輝 今季初出場で6得点 勝利に貢献",
+        "link": "http://www3.nhk.or.jp/news/html/20260201/k10015041031000.html",
+        "pubDate": "Sun, 01 Feb 2026 16:25:48 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "卓球 ダブルスの全日本選手権 張本美和が史上初の4冠達成",
+        "link": "http://www3.nhk.or.jp/news/html/20260201/k10015041021000.html",
+        "pubDate": "Sun, 01 Feb 2026 16:08:10 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-02-01-daily",
     "id": "1769896018150",
     "date": "2026-02-01",
