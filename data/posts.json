@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-02-04-daily",
+    "id": "1770156247396",
+    "date": "2026-02-04",
+    "generatedAt": "2026-02-04 07:04",
+    "title": "今日の株式市場メモ 2026-02-04",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] ゼレンスキー大統領 ロシアの攻撃を非難「戦争のみを優先」 （http://www3.nhk.or.jp/news/html/20260204/k10015042931000.html）\n2. [NHK 経済] 米軍 “アラビア海の空母に接近のイラン無人機を撃墜” （http://www3.nhk.or.jp/news/html/20260204/k10015042961000.html）\n3. [NHK 経済] アメリカ・コロンビア首脳会談 緊張緩和につながるか （http://www3.nhk.or.jp/news/html/20260204/k10015042941000.html）\n4. [NHK 経済] スペイン首相“子どものSNS利用禁止の方針” 欧州で規制広がる （http://www3.nhk.or.jp/news/html/20260204/k10015042811000.html）\n5. [NHK 経済] フランス検察「X」の関係先捜索 性的な偽画像拡散に関与の疑い （http://www3.nhk.or.jp/news/html/20260204/k10015042921000.html）\n6. [NHK ビジネス特集] H3ロケット9号機 “来月末までの打ち上げは実施せず” JAXA （http://www3.nhk.or.jp/news/html/20260204/k10015042801000.html）\n7. [NHK ビジネス特集] 千葉 成田山新勝寺で恒例の豆まき 大河ドラマ出演者などが参加 （http://www3.nhk.or.jp/news/html/20260203/k10015042311000.html）\n8. [NHK ビジネス特集] 「感染性胃腸炎」患者数 3週連続増加 手洗いなど対策呼びかけ （http://www3.nhk.or.jp/news/html/20260203/k10015042381000.html）\n9. [NHK ビジネス特集] 南鳥島沖 水深約5700mの海底からレアアース含む泥の採掘に成功 （http://www3.nhk.or.jp/news/html/20260202/k10015041381000.html）\n10. [NHK ビジネス特集] 映画監督 長谷川和彦さん死去 80歳 「太陽を盗んだ男」など （http://www3.nhk.or.jp/news/html/20260202/k10015041531000.html）\n11. [NHK 国際] ミラノ・コルティナ五輪選手村が公開 平和を願うボードも （http://www3.nhk.or.jp/news/html/20260204/k10015042851000.html）\n12. [NHK 国際] ミラノ・コルティナ五輪 スノボ男子 戸塚優斗らが意気込み （http://www3.nhk.or.jp/news/html/20260204/k10015042901000.html）\n13. [NHK 国際] バスケ男子日本代表 新たなヘッドコーチに桶谷大氏が就任 （http://www3.nhk.or.jp/news/html/20260203/k10015042731000.html）\n14. [NHK 国際] 来年のラグビーW杯 日本 1次リーグでサモア 仏 米の順に対戦へ （http://www3.nhk.or.jp/news/html/20260203/k10015042451000.html）\n15. [NHK 国際] センバツ高校野球 入場行進用に編曲 「イイじゃん」披露 （http://www3.nhk.or.jp/news/html/20260203/k10015042421000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "ゼレンスキー大統領 ロシアの攻撃を非難「戦争のみを優先」",
+        "link": "http://www3.nhk.or.jp/news/html/20260204/k10015042931000.html",
+        "pubDate": "Wed, 04 Feb 2026 06:39:56 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米軍 “アラビア海の空母に接近のイラン無人機を撃墜”",
+        "link": "http://www3.nhk.or.jp/news/html/20260204/k10015042961000.html",
+        "pubDate": "Wed, 04 Feb 2026 06:08:07 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "アメリカ・コロンビア首脳会談 緊張緩和につながるか",
+        "link": "http://www3.nhk.or.jp/news/html/20260204/k10015042941000.html",
+        "pubDate": "Wed, 04 Feb 2026 05:41:38 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "スペイン首相“子どものSNS利用禁止の方針” 欧州で規制広がる",
+        "link": "http://www3.nhk.or.jp/news/html/20260204/k10015042811000.html",
+        "pubDate": "Wed, 04 Feb 2026 05:19:51 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "フランス検察「X」の関係先捜索 性的な偽画像拡散に関与の疑い",
+        "link": "http://www3.nhk.or.jp/news/html/20260204/k10015042921000.html",
+        "pubDate": "Wed, 04 Feb 2026 05:10:29 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "H3ロケット9号機 “来月末までの打ち上げは実施せず” JAXA",
+        "link": "http://www3.nhk.or.jp/news/html/20260204/k10015042801000.html",
+        "pubDate": "Wed, 04 Feb 2026 05:28:15 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "千葉 成田山新勝寺で恒例の豆まき 大河ドラマ出演者などが参加",
+        "link": "http://www3.nhk.or.jp/news/html/20260203/k10015042311000.html",
+        "pubDate": "Tue, 03 Feb 2026 18:21:38 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「感染性胃腸炎」患者数 3週連続増加 手洗いなど対策呼びかけ",
+        "link": "http://www3.nhk.or.jp/news/html/20260203/k10015042381000.html",
+        "pubDate": "Tue, 03 Feb 2026 17:24:20 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "南鳥島沖 水深約5700mの海底からレアアース含む泥の採掘に成功",
+        "link": "http://www3.nhk.or.jp/news/html/20260202/k10015041381000.html",
+        "pubDate": "Mon, 02 Feb 2026 17:34:56 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "映画監督 長谷川和彦さん死去 80歳 「太陽を盗んだ男」など",
+        "link": "http://www3.nhk.or.jp/news/html/20260202/k10015041531000.html",
+        "pubDate": "Mon, 02 Feb 2026 13:12:45 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ミラノ・コルティナ五輪選手村が公開 平和を願うボードも",
+        "link": "http://www3.nhk.or.jp/news/html/20260204/k10015042851000.html",
+        "pubDate": "Wed, 04 Feb 2026 06:25:54 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ミラノ・コルティナ五輪 スノボ男子 戸塚優斗らが意気込み",
+        "link": "http://www3.nhk.or.jp/news/html/20260204/k10015042901000.html",
+        "pubDate": "Wed, 04 Feb 2026 05:17:13 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "バスケ男子日本代表 新たなヘッドコーチに桶谷大氏が就任",
+        "link": "http://www3.nhk.or.jp/news/html/20260203/k10015042731000.html",
+        "pubDate": "Tue, 03 Feb 2026 22:32:51 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "来年のラグビーW杯 日本 1次リーグでサモア 仏 米の順に対戦へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260203/k10015042451000.html",
+        "pubDate": "Tue, 03 Feb 2026 16:49:13 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "センバツ高校野球 入場行進用に編曲 「イイじゃん」披露",
+        "link": "http://www3.nhk.or.jp/news/html/20260203/k10015042421000.html",
+        "pubDate": "Tue, 03 Feb 2026 15:46:08 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-02-02-daily",
     "id": "1769982555945",
     "date": "2026-02-02",
