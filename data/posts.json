@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-02-05-daily",
+    "id": "1770242188301",
+    "date": "2026-02-05",
+    "generatedAt": "2026-02-05 06:56",
+    "title": "今日の株式市場メモ 2026-02-05",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 米ロ間の核軍縮条約「新START」5日失効 核兵器競争加速おそれ （http://www3.nhk.or.jp/news/html/20260205/k10015043701000.html）\n2. [NHK 経済] トランプ氏 中国・習主席と電話会談 関係構築に前向きな姿勢 （http://www3.nhk.or.jp/news/html/20260204/k10015043631000.html）\n3. [NHK 経済] 米イラン間接協議 オマーンで開催の見通し イランメディア （http://www3.nhk.or.jp/news/html/20260205/k10015043721000.html）\n4. [NHK 経済] パナマ運河の港湾運営 違憲判断受け香港系企業側が仲裁手続き （http://www3.nhk.or.jp/news/html/20260204/k10015043591000.html）\n5. [NHK 経済] ベネズエラ駐日大使“米と対話のチャンネルは強くなっている” （http://www3.nhk.or.jp/news/html/20260204/k10015043531000.html）\n6. [NHK ビジネス特集] JAXA 小型ロケット「イプシロンS」開発計画の見直し決定 （http://www3.nhk.or.jp/news/html/20260204/k10015043581000.html）\n7. [NHK ビジネス特集] ザトウクジラの赤ちゃん 八丈島沖で初確認 繁殖海域北上か （http://www3.nhk.or.jp/news/html/20260204/k10015043161000.html）\n8. [NHK ビジネス特集] 月探査 アルテミス計画 ロケット打ち上げ延期へ 燃料漏れ確認 （http://www3.nhk.or.jp/news/html/20260204/k10015043031000.html）\n9. [NHK ビジネス特集] H3ロケット9号機 “来月末までの打ち上げは実施せず” JAXA （http://www3.nhk.or.jp/news/html/20260204/k10015042801000.html）\n10. [NHK ビジネス特集] 千葉 成田山新勝寺で恒例の豆まき 大河ドラマ出演者などが参加 （http://www3.nhk.or.jp/news/html/20260203/k10015042311000.html）\n11. [NHK 国際] フィギュアスケート 日程 放送予定 日本代表紹介【全名簿】 （http://www3.nhk.or.jp/news/html/20260205/k10015031081000.html）\n12. [NHK 国際] スピードスケート 日程 放送予定 日本代表紹介【全名簿】 （http://www3.nhk.or.jp/news/html/20260205/k10015031051000.html）\n13. [NHK 国際] カーリング 日程 放送予定 日本代表紹介【全名簿】 （http://www3.nhk.or.jp/news/html/20260205/k10015031021000.html）\n14. [NHK 国際] スノーボード 日程 放送予定 日本代表紹介【全名簿】 （http://www3.nhk.or.jp/news/html/20260205/k10015034141000.html）\n15. [NHK 国際] スキージャンプ 日程 放送予定 日本代表紹介【全名簿】 （http://www3.nhk.or.jp/news/html/20260205/k10015033991000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "米ロ間の核軍縮条約「新START」5日失効 核兵器競争加速おそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260205/k10015043701000.html",
+        "pubDate": "Thu, 05 Feb 2026 06:36:30 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ氏 中国・習主席と電話会談 関係構築に前向きな姿勢",
+        "link": "http://www3.nhk.or.jp/news/html/20260204/k10015043631000.html",
+        "pubDate": "Thu, 05 Feb 2026 05:18:26 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米イラン間接協議 オマーンで開催の見通し イランメディア",
+        "link": "http://www3.nhk.or.jp/news/html/20260205/k10015043721000.html",
+        "pubDate": "Thu, 05 Feb 2026 05:03:25 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "パナマ運河の港湾運営 違憲判断受け香港系企業側が仲裁手続き",
+        "link": "http://www3.nhk.or.jp/news/html/20260204/k10015043591000.html",
+        "pubDate": "Wed, 04 Feb 2026 21:48:08 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ベネズエラ駐日大使“米と対話のチャンネルは強くなっている”",
+        "link": "http://www3.nhk.or.jp/news/html/20260204/k10015043531000.html",
+        "pubDate": "Wed, 04 Feb 2026 20:31:08 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "JAXA 小型ロケット「イプシロンS」開発計画の見直し決定",
+        "link": "http://www3.nhk.or.jp/news/html/20260204/k10015043581000.html",
+        "pubDate": "Wed, 04 Feb 2026 20:48:49 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ザトウクジラの赤ちゃん 八丈島沖で初確認 繁殖海域北上か",
+        "link": "http://www3.nhk.or.jp/news/html/20260204/k10015043161000.html",
+        "pubDate": "Wed, 04 Feb 2026 19:06:43 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "月探査 アルテミス計画 ロケット打ち上げ延期へ 燃料漏れ確認",
+        "link": "http://www3.nhk.or.jp/news/html/20260204/k10015043031000.html",
+        "pubDate": "Wed, 04 Feb 2026 11:23:53 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "H3ロケット9号機 “来月末までの打ち上げは実施せず” JAXA",
+        "link": "http://www3.nhk.or.jp/news/html/20260204/k10015042801000.html",
+        "pubDate": "Wed, 04 Feb 2026 05:28:15 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "千葉 成田山新勝寺で恒例の豆まき 大河ドラマ出演者などが参加",
+        "link": "http://www3.nhk.or.jp/news/html/20260203/k10015042311000.html",
+        "pubDate": "Tue, 03 Feb 2026 18:21:38 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "フィギュアスケート 日程 放送予定 日本代表紹介【全名簿】",
+        "link": "http://www3.nhk.or.jp/news/html/20260205/k10015031081000.html",
+        "pubDate": "Thu, 05 Feb 2026 00:27:57 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スピードスケート 日程 放送予定 日本代表紹介【全名簿】",
+        "link": "http://www3.nhk.or.jp/news/html/20260205/k10015031051000.html",
+        "pubDate": "Thu, 05 Feb 2026 00:25:48 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "カーリング 日程 放送予定 日本代表紹介【全名簿】",
+        "link": "http://www3.nhk.or.jp/news/html/20260205/k10015031021000.html",
+        "pubDate": "Thu, 05 Feb 2026 00:24:48 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スノーボード 日程 放送予定 日本代表紹介【全名簿】",
+        "link": "http://www3.nhk.or.jp/news/html/20260205/k10015034141000.html",
+        "pubDate": "Thu, 05 Feb 2026 00:22:59 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スキージャンプ 日程 放送予定 日本代表紹介【全名簿】",
+        "link": "http://www3.nhk.or.jp/news/html/20260205/k10015033991000.html",
+        "pubDate": "Thu, 05 Feb 2026 00:21:24 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-02-04-daily",
     "id": "1770156247396",
     "date": "2026-02-04",
