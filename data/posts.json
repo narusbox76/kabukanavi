@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-02-10-daily",
+    "id": "1770678479976",
+    "date": "2026-02-10",
+    "generatedAt": "2026-02-10 08:07",
+    "title": "今日の株式市場メモ 2026-02-10",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] ガザ地区 停戦合意発効から4か月 「平和評議会」19日にも開催 （http://www3.nhk.or.jp/news/html/20260210/k10015047891000.html）\n2. [NHK 経済] NYダウ 小幅値上がりで最高値更新 IT大手などに買い注文 （http://www3.nhk.or.jp/news/html/20260210/k10015048051000.html）\n3. [NHK 経済] 日本 NATOのウクライナ支援の枠組みに参加の方針固める （http://www3.nhk.or.jp/news/html/20260210/k10015047881000.html）\n4. [NHK 経済] 円相場 一時1ドル＝155円台半ばまで値上がり （http://www3.nhk.or.jp/news/html/20260210/k10015047991000.html）\n5. [NHK 経済] 香港「リンゴ日報」創業者に懲役20年の判決 （http://www3.nhk.or.jp/news/html/20260209/k10015047391000.html）\n6. [NHK ビジネス特集] スキージャンプ トップ選手らの飛び方の特徴 「富岳」で分析 （http://www3.nhk.or.jp/news/html/20260210/k10015047781000.html）\n7. [NHK ビジネス特集] 「早発閉経」“別の病気で使われる薬が有効” 順天堂大学など （http://www3.nhk.or.jp/news/html/20260209/k10015047581000.html）\n8. [NHK ビジネス特集] 東京電力が柏崎刈羽原発6号機を再び起動 17日間の停止経て （http://www3.nhk.or.jp/news/html/20260209/k10015047291000.html）\n9. [NHK ビジネス特集] インフルエンザ患者数 前週の倍近くに増加 B型 半数近く占める （http://www3.nhk.or.jp/news/html/20260206/k10015045001000.html）\n10. [NHK ビジネス特集] アレルギーの表示義務 新たに「カシューナッツ」追加へ （http://www3.nhk.or.jp/news/html/20260206/k10015045031000.html）\n11. [NHK 国際] スキージャンプ男子ノーマルヒル 二階堂蓮が銅メダル 五輪 （http://www3.nhk.or.jp/news/html/20260210/k10015047851000.html）\n12. [NHK 国際] スキージャンプ トップ選手らの飛び方の特徴 「富岳」で分析 （http://www3.nhk.or.jp/news/html/20260210/k10015047781000.html）\n13. [NHK 国際] スノーボード女子ビッグエア 村瀬心椛が金メダル 五輪 （http://www3.nhk.or.jp/news/html/20260210/k10015047911000.html）\n14. [NHK 国際] フィギュア 鍵山優真 マリニン 男子シングルSPへ前日練習 五輪 （http://www3.nhk.or.jp/news/html/20260210/k10015048011000.html）\n15. [NHK 国際] ミラノ・コルティナ五輪【結果】2／9～10タイムライン （http://www3.nhk.or.jp/news/html/20260210/k10015047771000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "ガザ地区 停戦合意発効から4か月 「平和評議会」19日にも開催",
+        "link": "http://www3.nhk.or.jp/news/html/20260210/k10015047891000.html",
+        "pubDate": "Tue, 10 Feb 2026 07:55:30 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "NYダウ 小幅値上がりで最高値更新 IT大手などに買い注文",
+        "link": "http://www3.nhk.or.jp/news/html/20260210/k10015048051000.html",
+        "pubDate": "Tue, 10 Feb 2026 06:54:31 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "日本 NATOのウクライナ支援の枠組みに参加の方針固める",
+        "link": "http://www3.nhk.or.jp/news/html/20260210/k10015047881000.html",
+        "pubDate": "Tue, 10 Feb 2026 06:34:14 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "円相場 一時1ドル＝155円台半ばまで値上がり",
+        "link": "http://www3.nhk.or.jp/news/html/20260210/k10015047991000.html",
+        "pubDate": "Tue, 10 Feb 2026 04:35:52 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "香港「リンゴ日報」創業者に懲役20年の判決",
+        "link": "http://www3.nhk.or.jp/news/html/20260209/k10015047391000.html",
+        "pubDate": "Mon, 09 Feb 2026 22:24:50 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "スキージャンプ トップ選手らの飛び方の特徴 「富岳」で分析",
+        "link": "http://www3.nhk.or.jp/news/html/20260210/k10015047781000.html",
+        "pubDate": "Tue, 10 Feb 2026 07:37:39 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「早発閉経」“別の病気で使われる薬が有効” 順天堂大学など",
+        "link": "http://www3.nhk.or.jp/news/html/20260209/k10015047581000.html",
+        "pubDate": "Mon, 09 Feb 2026 18:28:11 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "東京電力が柏崎刈羽原発6号機を再び起動 17日間の停止経て",
+        "link": "http://www3.nhk.or.jp/news/html/20260209/k10015047291000.html",
+        "pubDate": "Mon, 09 Feb 2026 15:42:33 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "インフルエンザ患者数 前週の倍近くに増加 B型 半数近く占める",
+        "link": "http://www3.nhk.or.jp/news/html/20260206/k10015045001000.html",
+        "pubDate": "Fri, 06 Feb 2026 19:29:04 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "アレルギーの表示義務 新たに「カシューナッツ」追加へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260206/k10015045031000.html",
+        "pubDate": "Fri, 06 Feb 2026 16:30:11 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スキージャンプ男子ノーマルヒル 二階堂蓮が銅メダル 五輪",
+        "link": "http://www3.nhk.or.jp/news/html/20260210/k10015047851000.html",
+        "pubDate": "Tue, 10 Feb 2026 08:06:21 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スキージャンプ トップ選手らの飛び方の特徴 「富岳」で分析",
+        "link": "http://www3.nhk.or.jp/news/html/20260210/k10015047781000.html",
+        "pubDate": "Tue, 10 Feb 2026 07:37:39 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スノーボード女子ビッグエア 村瀬心椛が金メダル 五輪",
+        "link": "http://www3.nhk.or.jp/news/html/20260210/k10015047911000.html",
+        "pubDate": "Tue, 10 Feb 2026 06:48:17 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "フィギュア 鍵山優真 マリニン 男子シングルSPへ前日練習 五輪",
+        "link": "http://www3.nhk.or.jp/news/html/20260210/k10015048011000.html",
+        "pubDate": "Tue, 10 Feb 2026 06:40:27 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ミラノ・コルティナ五輪【結果】2／9～10タイムライン",
+        "link": "http://www3.nhk.or.jp/news/html/20260210/k10015047771000.html",
+        "pubDate": "Tue, 10 Feb 2026 06:37:27 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-02-09-daily",
     "id": "1770587771331",
     "date": "2026-02-09",
