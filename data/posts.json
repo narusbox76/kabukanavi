@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-02-13-daily",
+    "id": "1770932782655",
+    "date": "2026-02-13",
+    "generatedAt": "2026-02-13 06:46",
+    "title": "今日の株式市場メモ 2026-02-13",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 米トランプ政権 自動車排ガス規制撤廃を発表 （http://www3.nhk.or.jp/news/html/20260213/k10015050631000.html）\n2. [NHK 経済] NATO国防相会合 事務総長はウクライナへさらなる支援呼びかけ （http://www3.nhk.or.jp/news/html/20260213/k10015050441000.html）\n3. [NHK 経済] 日米合意に基づく80兆円規模の投資巡り閣僚間で協議 （http://www3.nhk.or.jp/news/html/20260213/k10015050391000.html）\n4. [NHK 経済] 米 インフラ老朽化など背景に 電気代やガス代の上昇傾向が続く （http://www3.nhk.or.jp/news/html/20260213/k10015049991000.html）\n5. [NHK 経済] 水産庁 長崎沖で中国漁船をだ捕 船長を逮捕 （http://www3.nhk.or.jp/news/html/20260213/k10015050611000.html）\n6. [NHK ビジネス特集] 島根原発2号機 「プルサーマル発電」“2029年度中の開始想定” （http://www3.nhk.or.jp/news/html/20260212/k10015049881000.html）\n7. [NHK ビジネス特集] NHK放送文化賞に松任谷由実さんなど6人 （http://www3.nhk.or.jp/news/html/20260210/k10015048331000.html）\n8. [NHK ビジネス特集] 除染土の再生利用 秋までに場所を選定する考え 石原環境相 （http://www3.nhk.or.jp/news/html/20260210/k10015048361000.html）\n9. [NHK ビジネス特集] スキージャンプ トップ選手らの飛び方の特徴 「富岳」で分析 （http://www3.nhk.or.jp/news/html/20260210/k10015047781000.html）\n10. [NHK ビジネス特集] 「早発閉経」“別の病気で使われる薬が有効” 順天堂大学など （http://www3.nhk.or.jp/news/html/20260209/k10015047581000.html）\n11. [NHK 国際] ミラノ・コルティナ五輪【結果】2／12～13タイムライン （http://www3.nhk.or.jp/news/html/20260212/k10015050221000.html）\n12. [NHK 国際] カーリング女子 日本 予選リーグ 第2戦 デンマークに敗れる （http://www3.nhk.or.jp/news/html/20260213/k10015050651000.html）\n13. [NHK 国際] ショートトラック 金井莉佳は準々決勝で敗退 女子500m 五輪 （http://www3.nhk.or.jp/news/html/20260213/k10015050641000.html）\n14. [NHK 国際] ミラノ・コルティナ五輪 見どころ【2/13～14】 （http://www3.nhk.or.jp/news/html/20260213/k10015050601000.html）\n15. [NHK 国際] ミラノ・コルティナ五輪 日本のメダル数は【2月13日】 （http://www3.nhk.or.jp/news/html/20260213/k10015050621000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "米トランプ政権 自動車排ガス規制撤廃を発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050631000.html",
+        "pubDate": "Fri, 13 Feb 2026 06:22:46 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "NATO国防相会合 事務総長はウクライナへさらなる支援呼びかけ",
+        "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050441000.html",
+        "pubDate": "Fri, 13 Feb 2026 06:16:59 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "日米合意に基づく80兆円規模の投資巡り閣僚間で協議",
+        "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050391000.html",
+        "pubDate": "Fri, 13 Feb 2026 05:54:46 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米 インフラ老朽化など背景に 電気代やガス代の上昇傾向が続く",
+        "link": "http://www3.nhk.or.jp/news/html/20260213/k10015049991000.html",
+        "pubDate": "Fri, 13 Feb 2026 05:52:52 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "水産庁 長崎沖で中国漁船をだ捕 船長を逮捕",
+        "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050611000.html",
+        "pubDate": "Fri, 13 Feb 2026 05:47:23 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "島根原発2号機 「プルサーマル発電」“2029年度中の開始想定”",
+        "link": "http://www3.nhk.or.jp/news/html/20260212/k10015049881000.html",
+        "pubDate": "Thu, 12 Feb 2026 13:58:25 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "NHK放送文化賞に松任谷由実さんなど6人",
+        "link": "http://www3.nhk.or.jp/news/html/20260210/k10015048331000.html",
+        "pubDate": "Tue, 10 Feb 2026 17:04:44 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "除染土の再生利用 秋までに場所を選定する考え 石原環境相",
+        "link": "http://www3.nhk.or.jp/news/html/20260210/k10015048361000.html",
+        "pubDate": "Tue, 10 Feb 2026 14:06:27 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "スキージャンプ トップ選手らの飛び方の特徴 「富岳」で分析",
+        "link": "http://www3.nhk.or.jp/news/html/20260210/k10015047781000.html",
+        "pubDate": "Tue, 10 Feb 2026 07:37:39 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「早発閉経」“別の病気で使われる薬が有効” 順天堂大学など",
+        "link": "http://www3.nhk.or.jp/news/html/20260209/k10015047581000.html",
+        "pubDate": "Mon, 09 Feb 2026 18:28:11 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ミラノ・コルティナ五輪【結果】2／12～13タイムライン",
+        "link": "http://www3.nhk.or.jp/news/html/20260212/k10015050221000.html",
+        "pubDate": "Fri, 13 Feb 2026 06:43:51 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "カーリング女子 日本 予選リーグ 第2戦 デンマークに敗れる",
+        "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050651000.html",
+        "pubDate": "Fri, 13 Feb 2026 06:43:26 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ショートトラック 金井莉佳は準々決勝で敗退 女子500m 五輪",
+        "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050641000.html",
+        "pubDate": "Fri, 13 Feb 2026 06:29:36 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ミラノ・コルティナ五輪 見どころ【2/13～14】",
+        "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050601000.html",
+        "pubDate": "Fri, 13 Feb 2026 05:58:25 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ミラノ・コルティナ五輪 日本のメダル数は【2月13日】",
+        "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050621000.html",
+        "pubDate": "Fri, 13 Feb 2026 05:54:22 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-02-12-daily",
     "id": "1770847402750",
     "date": "2026-02-12",
