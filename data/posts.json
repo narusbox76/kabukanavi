@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-02-15-daily",
+    "id": "1771104925714",
+    "date": "2026-02-15",
+    "generatedAt": "2026-02-15 06:35",
+    "title": "今日の株式市場メモ 2026-02-15",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 中国 春節の大型連休始まる 訪日客は減少見通し 韓国へは増加 （http://www3.nhk.or.jp/news/html/20260215/k10015051831000.html）\n2. [NHK 経済] 中国 王毅外相が高市首相の「台湾有事」答弁を改めて批判 （http://www3.nhk.or.jp/news/html/20260215/k10015052011000.html）\n3. [NHK 経済] 日豪防衛相会談 同志国連携の中核として協力推進で一致 （http://www3.nhk.or.jp/news/html/20260215/k10015052081000.html）\n4. [NHK 経済] 日米外相会談“高市首相の訪米を揺るぎない同盟発信の機会に” （http://www3.nhk.or.jp/news/html/20260215/k10015052131000.html）\n5. [NHK 経済] ナワリヌイ氏 “死因は毒殺の可能性極めて高い” 5か国が声明 （http://www3.nhk.or.jp/news/html/20260215/k10015052061000.html）\n6. [NHK ビジネス特集] レアアースを含んだ泥の採掘に成功した探査船が港に戻る 静岡 （http://www3.nhk.or.jp/news/html/20260214/k10015051851000.html）\n7. [NHK ビジネス特集] NASA宇宙飛行士候補 日系アメリカ人 クボ・ユリさんが抱負 （http://www3.nhk.or.jp/news/html/20260214/k10015051451000.html）\n8. [NHK ビジネス特集] 大学と民間企業などの共同研究 件数と研究費 いずれも過去最多 （http://www3.nhk.or.jp/news/html/20260214/k10015051511000.html）\n9. [NHK ビジネス特集] 診療報酬加算引き上げへ 中医協が改定案答申 患者窓口負担も増 （http://www3.nhk.or.jp/news/html/20260213/k10015050791000.html）\n10. [NHK ビジネス特集] iPS細胞使う 再生医療2製品 製造販売認める方針了承か審議へ （http://www3.nhk.or.jp/news/html/20260213/k10015051111000.html）\n11. [NHK 国際] カーリング女子 日本 第4戦でアメリカに敗れ1勝3敗に 五輪 （http://www3.nhk.or.jp/news/html/20260215/k10015052191000.html）\n12. [NHK 国際] ミラノ・コルティナ五輪【結果】2/14～15タイムライン （http://www3.nhk.or.jp/news/html/20260214/k10015051931000.html）\n13. [NHK 国際] スケートショートトラック女子1000ｍ 日本3選手 予選敗退 五輪 （http://www3.nhk.or.jp/news/html/20260215/k10015052211000.html）\n14. [NHK 国際] スキージャンプ男子ラージヒル 二階堂蓮が銀メダル 五輪 （http://www3.nhk.or.jp/news/html/20260215/k10015052121000.html）\n15. [NHK 国際] スピードスケート男子500m 新濱が6位入賞 森重10位 倉坪19位 （http://www3.nhk.or.jp/news/html/20260215/k10015052091000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "中国 春節の大型連休始まる 訪日客は減少見通し 韓国へは増加",
+        "link": "http://www3.nhk.or.jp/news/html/20260215/k10015051831000.html",
+        "pubDate": "Sun, 15 Feb 2026 06:23:39 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "中国 王毅外相が高市首相の「台湾有事」答弁を改めて批判",
+        "link": "http://www3.nhk.or.jp/news/html/20260215/k10015052011000.html",
+        "pubDate": "Sun, 15 Feb 2026 02:51:37 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "日豪防衛相会談 同志国連携の中核として協力推進で一致",
+        "link": "http://www3.nhk.or.jp/news/html/20260215/k10015052081000.html",
+        "pubDate": "Sun, 15 Feb 2026 02:44:07 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "日米外相会談“高市首相の訪米を揺るぎない同盟発信の機会に”",
+        "link": "http://www3.nhk.or.jp/news/html/20260215/k10015052131000.html",
+        "pubDate": "Sun, 15 Feb 2026 02:42:13 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ナワリヌイ氏 “死因は毒殺の可能性極めて高い” 5か国が声明",
+        "link": "http://www3.nhk.or.jp/news/html/20260215/k10015052061000.html",
+        "pubDate": "Sun, 15 Feb 2026 02:21:34 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "レアアースを含んだ泥の採掘に成功した探査船が港に戻る 静岡",
+        "link": "http://www3.nhk.or.jp/news/html/20260214/k10015051851000.html",
+        "pubDate": "Sat, 14 Feb 2026 18:02:12 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "NASA宇宙飛行士候補 日系アメリカ人 クボ・ユリさんが抱負",
+        "link": "http://www3.nhk.or.jp/news/html/20260214/k10015051451000.html",
+        "pubDate": "Sat, 14 Feb 2026 06:23:08 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "大学と民間企業などの共同研究 件数と研究費 いずれも過去最多",
+        "link": "http://www3.nhk.or.jp/news/html/20260214/k10015051511000.html",
+        "pubDate": "Sat, 14 Feb 2026 06:21:42 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "診療報酬加算引き上げへ 中医協が改定案答申 患者窓口負担も増",
+        "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050791000.html",
+        "pubDate": "Fri, 13 Feb 2026 19:36:31 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "iPS細胞使う 再生医療2製品 製造販売認める方針了承か審議へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260213/k10015051111000.html",
+        "pubDate": "Fri, 13 Feb 2026 17:48:26 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "カーリング女子 日本 第4戦でアメリカに敗れ1勝3敗に 五輪",
+        "link": "http://www3.nhk.or.jp/news/html/20260215/k10015052191000.html",
+        "pubDate": "Sun, 15 Feb 2026 06:29:28 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ミラノ・コルティナ五輪【結果】2/14～15タイムライン",
+        "link": "http://www3.nhk.or.jp/news/html/20260214/k10015051931000.html",
+        "pubDate": "Sun, 15 Feb 2026 06:17:51 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スケートショートトラック女子1000ｍ 日本3選手 予選敗退 五輪",
+        "link": "http://www3.nhk.or.jp/news/html/20260215/k10015052211000.html",
+        "pubDate": "Sun, 15 Feb 2026 06:10:35 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スキージャンプ男子ラージヒル 二階堂蓮が銀メダル 五輪",
+        "link": "http://www3.nhk.or.jp/news/html/20260215/k10015052121000.html",
+        "pubDate": "Sun, 15 Feb 2026 05:58:50 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スピードスケート男子500m 新濱が6位入賞 森重10位 倉坪19位",
+        "link": "http://www3.nhk.or.jp/news/html/20260215/k10015052091000.html",
+        "pubDate": "Sun, 15 Feb 2026 05:41:16 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-02-14-daily",
     "id": "1771019311934",
     "date": "2026-02-14",
