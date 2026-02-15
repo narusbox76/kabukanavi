@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-02-16-daily",
+    "id": "1771191372917",
+    "date": "2026-02-16",
+    "generatedAt": "2026-02-16 06:36",
+    "title": "今日の株式市場メモ 2026-02-16",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] ウクライナ軍 寒波の影響で戦術変更 報道官が明らかに （http://www3.nhk.or.jp/news/html/20260216/k10015052651000.html）\n2. [NHK 経済] 台湾 “中国が地域の平和と安定脅かしている” 王毅外相発言に （http://www3.nhk.or.jp/news/html/20260215/k10015052691000.html）\n3. [NHK 経済] ミュンヘン安保会議が閉幕 欧州から米依存脱却の発言相次ぐ （http://www3.nhk.or.jp/news/html/20260215/k10015052521000.html）\n4. [NHK 経済] 中国の「春節」今年は？日本への渡航自粛呼びかけで各地に影響 （http://www3.nhk.or.jp/news/html/20260215/k10015052391000.html）\n5. [NHK 経済] 【詳細】ロシア ウクライナに軍事侵攻（2月15日の動き） （http://www3.nhk.or.jp/news/html/20260215/k10015052341000.html）\n6. [NHK ビジネス特集] 米 ブタの腎臓を患者に移植する治験 腎臓は最長で270日余機能 （http://www3.nhk.or.jp/news/html/20260215/k10015052551000.html）\n7. [NHK ビジネス特集] レアアースを含んだ泥の採掘に成功した探査船が港に戻る 静岡 （http://www3.nhk.or.jp/news/html/20260214/k10015051851000.html）\n8. [NHK ビジネス特集] NASA宇宙飛行士候補 日系アメリカ人 クボ・ユリさんが抱負 （http://www3.nhk.or.jp/news/html/20260214/k10015051451000.html）\n9. [NHK ビジネス特集] 大学と民間企業などの共同研究 件数と研究費 いずれも過去最多 （http://www3.nhk.or.jp/news/html/20260214/k10015051511000.html）\n10. [NHK ビジネス特集] 診療報酬加算引き上げへ 中医協が改定案答申 患者窓口負担も増 （http://www3.nhk.or.jp/news/html/20260213/k10015050791000.html）\n11. [NHK 国際] スキージャンプ女子ラージヒル 丸山希が8位入賞 オリンピック （http://www3.nhk.or.jp/news/html/20260216/k10015052811000.html）\n12. [NHK 国際] ミラノ・コルティナ五輪【速報中】2／15～16タイムライン （http://www3.nhk.or.jp/news/html/20260215/k10015052721000.html）\n13. [NHK 国際] オリンピック 臨場感あふれる「ドローンの中継映像」も注目 （http://www3.nhk.or.jp/news/html/20260216/k10015052731000.html）\n14. [NHK 国際] スピードスケート女子500m 高木美帆が銅 今大会2個目のメダル （http://www3.nhk.or.jp/news/html/20260216/k10015052781000.html）\n15. [NHK 国際] カーリング女子 日本は韓国に敗れる 予選リーグ通算1勝4敗に （http://www3.nhk.or.jp/news/html/20260216/k10015052771000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナ軍 寒波の影響で戦術変更 報道官が明らかに",
+        "link": "http://www3.nhk.or.jp/news/html/20260216/k10015052651000.html",
+        "pubDate": "Mon, 16 Feb 2026 03:12:59 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "台湾 “中国が地域の平和と安定脅かしている” 王毅外相発言に",
+        "link": "http://www3.nhk.or.jp/news/html/20260215/k10015052691000.html",
+        "pubDate": "Sun, 15 Feb 2026 21:44:25 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ミュンヘン安保会議が閉幕 欧州から米依存脱却の発言相次ぐ",
+        "link": "http://www3.nhk.or.jp/news/html/20260215/k10015052521000.html",
+        "pubDate": "Sun, 15 Feb 2026 21:29:40 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "中国の「春節」今年は？日本への渡航自粛呼びかけで各地に影響",
+        "link": "http://www3.nhk.or.jp/news/html/20260215/k10015052391000.html",
+        "pubDate": "Sun, 15 Feb 2026 19:07:35 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【詳細】ロシア ウクライナに軍事侵攻（2月15日の動き）",
+        "link": "http://www3.nhk.or.jp/news/html/20260215/k10015052341000.html",
+        "pubDate": "Sun, 15 Feb 2026 18:59:01 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "米 ブタの腎臓を患者に移植する治験 腎臓は最長で270日余機能",
+        "link": "http://www3.nhk.or.jp/news/html/20260215/k10015052551000.html",
+        "pubDate": "Sun, 15 Feb 2026 22:49:36 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "レアアースを含んだ泥の採掘に成功した探査船が港に戻る 静岡",
+        "link": "http://www3.nhk.or.jp/news/html/20260214/k10015051851000.html",
+        "pubDate": "Sat, 14 Feb 2026 18:02:12 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "NASA宇宙飛行士候補 日系アメリカ人 クボ・ユリさんが抱負",
+        "link": "http://www3.nhk.or.jp/news/html/20260214/k10015051451000.html",
+        "pubDate": "Sat, 14 Feb 2026 06:23:08 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "大学と民間企業などの共同研究 件数と研究費 いずれも過去最多",
+        "link": "http://www3.nhk.or.jp/news/html/20260214/k10015051511000.html",
+        "pubDate": "Sat, 14 Feb 2026 06:21:42 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "診療報酬加算引き上げへ 中医協が改定案答申 患者窓口負担も増",
+        "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050791000.html",
+        "pubDate": "Fri, 13 Feb 2026 19:36:31 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スキージャンプ女子ラージヒル 丸山希が8位入賞 オリンピック",
+        "link": "http://www3.nhk.or.jp/news/html/20260216/k10015052811000.html",
+        "pubDate": "Mon, 16 Feb 2026 06:27:08 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ミラノ・コルティナ五輪【速報中】2／15～16タイムライン",
+        "link": "http://www3.nhk.or.jp/news/html/20260215/k10015052721000.html",
+        "pubDate": "Mon, 16 Feb 2026 05:58:31 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "オリンピック 臨場感あふれる「ドローンの中継映像」も注目",
+        "link": "http://www3.nhk.or.jp/news/html/20260216/k10015052731000.html",
+        "pubDate": "Mon, 16 Feb 2026 04:41:22 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スピードスケート女子500m 高木美帆が銅 今大会2個目のメダル",
+        "link": "http://www3.nhk.or.jp/news/html/20260216/k10015052781000.html",
+        "pubDate": "Mon, 16 Feb 2026 02:57:01 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "カーリング女子 日本は韓国に敗れる 予選リーグ通算1勝4敗に",
+        "link": "http://www3.nhk.or.jp/news/html/20260216/k10015052771000.html",
+        "pubDate": "Mon, 16 Feb 2026 02:42:01 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-02-15-daily",
     "id": "1771104925714",
     "date": "2026-02-15",
