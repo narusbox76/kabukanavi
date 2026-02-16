@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-02-17-daily",
+    "id": "1771277972068",
+    "date": "2026-02-17",
+    "generatedAt": "2026-02-17 06:39",
+    "title": "今日の株式市場メモ 2026-02-17",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] イラン外相 IAEAトップと会談 査察めぐる協力について議論 （http://www3.nhk.or.jp/news/html/20260217/k10015053441000.html）\n2. [NHK 経済] 特殊詐欺など国境越えた犯罪対処 日本が東南アジア4か国を支援 （http://www3.nhk.or.jp/news/html/20260217/k10015053461000.html）\n3. [NHK 経済] 香港強盗事件 実行役の被告“犯行後に依頼の男から報酬”供述 （http://www3.nhk.or.jp/news/html/20260217/k10015053561000.html）\n4. [NHK 経済] 【詳細】ロシア ウクライナに軍事侵攻（2月16日の動き） （http://www3.nhk.or.jp/news/html/20260216/k10015033751000.html）\n5. [NHK 経済] ウクライナ 大規模な汚職事件に関与か 元エネルギー相を拘束 （http://www3.nhk.or.jp/news/html/20260216/k10015053531000.html）\n6. [NHK ビジネス特集] 東京電力 柏崎刈羽原発6号機 本格的な発電と送電を開始 （http://www3.nhk.or.jp/news/html/20260216/k10015053541000.html）\n7. [NHK ビジネス特集] 米 ブタの腎臓を患者に移植する治験 腎臓は最長で270日余機能 （http://www3.nhk.or.jp/news/html/20260215/k10015052551000.html）\n8. [NHK ビジネス特集] レアアースを含んだ泥の採掘に成功した探査船が港に戻る 静岡 （http://www3.nhk.or.jp/news/html/20260214/k10015051851000.html）\n9. [NHK ビジネス特集] NASA宇宙飛行士候補 日系アメリカ人 クボ・ユリさんが抱負 （http://www3.nhk.or.jp/news/html/20260214/k10015051451000.html）\n10. [NHK ビジネス特集] 大学と民間企業などの共同研究 件数と研究費 いずれも過去最多 （http://www3.nhk.or.jp/news/html/20260214/k10015051511000.html）\n11. [NHK 国際] ジャンプ 男子スーパーチーム 日本は6位 雪が強まり競技が中止 （http://www3.nhk.or.jp/news/html/20260217/k10015053581000.html）\n12. [NHK 国際] ミラノ・コルティナ五輪【速報中】2/16～17タイムライン （http://www3.nhk.or.jp/news/html/20260216/k10015053491000.html）\n13. [NHK 国際] カーリング女子 日本はカナダに敗れる 予選リーグ通算1勝5敗に （http://www3.nhk.or.jp/news/html/20260217/k10015053651000.html）\n14. [NHK 国際] フィギュア 坂本花織ら日本勢 女子シングルSPへ 前日練習 五輪 （http://www3.nhk.or.jp/news/html/20260217/k10015053631000.html）\n15. [NHK 国際] フィギュア ペア フリー “りくりゅう”気持ち切り替えがカギ （http://www3.nhk.or.jp/news/html/20260217/k10015053621000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "イラン外相 IAEAトップと会談 査察めぐる協力について議論",
+        "link": "http://www3.nhk.or.jp/news/html/20260217/k10015053441000.html",
+        "pubDate": "Tue, 17 Feb 2026 06:33:49 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "特殊詐欺など国境越えた犯罪対処 日本が東南アジア4か国を支援",
+        "link": "http://www3.nhk.or.jp/news/html/20260217/k10015053461000.html",
+        "pubDate": "Tue, 17 Feb 2026 06:04:56 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "香港強盗事件 実行役の被告“犯行後に依頼の男から報酬”供述",
+        "link": "http://www3.nhk.or.jp/news/html/20260217/k10015053561000.html",
+        "pubDate": "Tue, 17 Feb 2026 05:20:03 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【詳細】ロシア ウクライナに軍事侵攻（2月16日の動き）",
+        "link": "http://www3.nhk.or.jp/news/html/20260216/k10015033751000.html",
+        "pubDate": "Tue, 17 Feb 2026 00:09:35 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナ 大規模な汚職事件に関与か 元エネルギー相を拘束",
+        "link": "http://www3.nhk.or.jp/news/html/20260216/k10015053531000.html",
+        "pubDate": "Mon, 16 Feb 2026 22:30:27 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "東京電力 柏崎刈羽原発6号機 本格的な発電と送電を開始",
+        "link": "http://www3.nhk.or.jp/news/html/20260216/k10015053541000.html",
+        "pubDate": "Mon, 16 Feb 2026 22:29:36 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "米 ブタの腎臓を患者に移植する治験 腎臓は最長で270日余機能",
+        "link": "http://www3.nhk.or.jp/news/html/20260215/k10015052551000.html",
+        "pubDate": "Sun, 15 Feb 2026 22:49:36 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "レアアースを含んだ泥の採掘に成功した探査船が港に戻る 静岡",
+        "link": "http://www3.nhk.or.jp/news/html/20260214/k10015051851000.html",
+        "pubDate": "Sat, 14 Feb 2026 18:02:12 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "NASA宇宙飛行士候補 日系アメリカ人 クボ・ユリさんが抱負",
+        "link": "http://www3.nhk.or.jp/news/html/20260214/k10015051451000.html",
+        "pubDate": "Sat, 14 Feb 2026 06:23:08 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "大学と民間企業などの共同研究 件数と研究費 いずれも過去最多",
+        "link": "http://www3.nhk.or.jp/news/html/20260214/k10015051511000.html",
+        "pubDate": "Sat, 14 Feb 2026 06:21:42 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ジャンプ 男子スーパーチーム 日本は6位 雪が強まり競技が中止",
+        "link": "http://www3.nhk.or.jp/news/html/20260217/k10015053581000.html",
+        "pubDate": "Tue, 17 Feb 2026 06:37:47 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ミラノ・コルティナ五輪【速報中】2/16～17タイムライン",
+        "link": "http://www3.nhk.or.jp/news/html/20260216/k10015053491000.html",
+        "pubDate": "Tue, 17 Feb 2026 06:35:28 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "カーリング女子 日本はカナダに敗れる 予選リーグ通算1勝5敗に",
+        "link": "http://www3.nhk.or.jp/news/html/20260217/k10015053651000.html",
+        "pubDate": "Tue, 17 Feb 2026 06:18:10 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "フィギュア 坂本花織ら日本勢 女子シングルSPへ 前日練習 五輪",
+        "link": "http://www3.nhk.or.jp/news/html/20260217/k10015053631000.html",
+        "pubDate": "Tue, 17 Feb 2026 05:30:20 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "フィギュア ペア フリー “りくりゅう”気持ち切り替えがカギ",
+        "link": "http://www3.nhk.or.jp/news/html/20260217/k10015053621000.html",
+        "pubDate": "Tue, 17 Feb 2026 05:05:33 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-02-16-daily",
     "id": "1771191372917",
     "date": "2026-02-16",
