@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-02-21-daily",
+    "id": "1771623380008",
+    "date": "2026-02-21",
+    "generatedAt": "2026-02-21 06:36",
+    "title": "今日の株式市場メモ 2026-02-21",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] ロシア報道官 “日本と対話存在せず 平和条約の議論は不可能” （http://www3.nhk.or.jp/news/html/20260221/k10015057561000.html）\n2. [NHK 経済] 米テレビ番組 民主党政治家の出演見送りか 司会者が対応を非難 （http://www3.nhk.or.jp/news/html/20260221/k10015057541000.html）\n3. [NHK 経済] 米最高裁 相互関税など課す権限「大統領に与えられていない」 （http://www3.nhk.or.jp/news/html/20260221/k10015057551000.html）\n4. [NHK 経済] グリーンランド鉱物資源担当相 “鉱物資源は譲り渡さない” （http://www3.nhk.or.jp/news/html/20260221/k10015057581000.html）\n5. [NHK 経済] 独 メルツ首相 24日から就任後初の中国訪問 習主席と会談へ （http://www3.nhk.or.jp/news/html/20260221/k10015057631000.html）\n6. [NHK ビジネス特集] 宇宙飛行士乗せ月周回する試験飛行 3月6日以降に実施へ NASA （http://www3.nhk.or.jp/news/html/20260221/k10015057601000.html）\n7. [NHK ビジネス特集] 【動画】Pickup NEWS（2月20日） （http://www3.nhk.or.jp/news/html/20260220/k10015056461000.html）\n8. [NHK ビジネス特集] 再生医療でクリニック側に改善命令 届け出の計画と異なる処置 （http://www3.nhk.or.jp/news/html/20260220/k10015056991000.html）\n9. [NHK ビジネス特集] iPS細胞の再生医療製品 3月上旬にも製造販売承認見込み 厚労省 （http://www3.nhk.or.jp/news/html/20260220/k10015056871000.html）\n10. [NHK ビジネス特集] iPS細胞の再生医療製品 製造販売を了承 世界初の実用化へ （http://www3.nhk.or.jp/news/html/20260220/k10015056521000.html）\n11. [NHK 国際] スケート ショートトラック男子5000m順位決定戦 日本は7位 （http://www3.nhk.or.jp/news/html/20260221/k10015057821000.html）\n12. [NHK 国際] スピードスケート女子1500m 高木美帆は6位 メダル獲得ならず （http://www3.nhk.or.jp/news/html/20260221/k10015057761000.html）\n13. [NHK 国際] ミラノ・コルティナ五輪【速報中】2/20～21 タイムライン （http://www3.nhk.or.jp/news/html/20260220/k10015057401000.html）\n14. [NHK 国際] フィギュア エキシビションに向け日本勢が合同練習 五輪 （http://www3.nhk.or.jp/news/html/20260221/k10015057791000.html）\n15. [NHK 国際] IOC「AIN」の選手 五輪の閉会式に“参加できる”方針明らかに （http://www3.nhk.or.jp/news/html/20260221/k10015057771000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "ロシア報道官 “日本と対話存在せず 平和条約の議論は不可能”",
+        "link": "http://www3.nhk.or.jp/news/html/20260221/k10015057561000.html",
+        "pubDate": "Sat, 21 Feb 2026 06:22:20 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米テレビ番組 民主党政治家の出演見送りか 司会者が対応を非難",
+        "link": "http://www3.nhk.or.jp/news/html/20260221/k10015057541000.html",
+        "pubDate": "Sat, 21 Feb 2026 06:14:32 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米最高裁 相互関税など課す権限「大統領に与えられていない」",
+        "link": "http://www3.nhk.or.jp/news/html/20260221/k10015057551000.html",
+        "pubDate": "Sat, 21 Feb 2026 06:11:56 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "グリーンランド鉱物資源担当相 “鉱物資源は譲り渡さない”",
+        "link": "http://www3.nhk.or.jp/news/html/20260221/k10015057581000.html",
+        "pubDate": "Sat, 21 Feb 2026 06:10:03 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "独 メルツ首相 24日から就任後初の中国訪問 習主席と会談へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260221/k10015057631000.html",
+        "pubDate": "Sat, 21 Feb 2026 06:06:38 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "宇宙飛行士乗せ月周回する試験飛行 3月6日以降に実施へ NASA",
+        "link": "http://www3.nhk.or.jp/news/html/20260221/k10015057601000.html",
+        "pubDate": "Sat, 21 Feb 2026 05:24:02 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "【動画】Pickup NEWS（2月20日）",
+        "link": "http://www3.nhk.or.jp/news/html/20260220/k10015056461000.html",
+        "pubDate": "Fri, 20 Feb 2026 20:00:45 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "再生医療でクリニック側に改善命令 届け出の計画と異なる処置",
+        "link": "http://www3.nhk.or.jp/news/html/20260220/k10015056991000.html",
+        "pubDate": "Fri, 20 Feb 2026 19:31:04 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "iPS細胞の再生医療製品 3月上旬にも製造販売承認見込み 厚労省",
+        "link": "http://www3.nhk.or.jp/news/html/20260220/k10015056871000.html",
+        "pubDate": "Fri, 20 Feb 2026 12:17:05 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "iPS細胞の再生医療製品 製造販売を了承 世界初の実用化へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260220/k10015056521000.html",
+        "pubDate": "Fri, 20 Feb 2026 05:27:45 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スケート ショートトラック男子5000m順位決定戦 日本は7位",
+        "link": "http://www3.nhk.or.jp/news/html/20260221/k10015057821000.html",
+        "pubDate": "Sat, 21 Feb 2026 06:35:14 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スピードスケート女子1500m 高木美帆は6位 メダル獲得ならず",
+        "link": "http://www3.nhk.or.jp/news/html/20260221/k10015057761000.html",
+        "pubDate": "Sat, 21 Feb 2026 06:24:31 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ミラノ・コルティナ五輪【速報中】2/20～21 タイムライン",
+        "link": "http://www3.nhk.or.jp/news/html/20260220/k10015057401000.html",
+        "pubDate": "Sat, 21 Feb 2026 05:00:43 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "フィギュア エキシビションに向け日本勢が合同練習 五輪",
+        "link": "http://www3.nhk.or.jp/news/html/20260221/k10015057791000.html",
+        "pubDate": "Sat, 21 Feb 2026 04:50:03 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "IOC「AIN」の選手 五輪の閉会式に“参加できる”方針明らかに",
+        "link": "http://www3.nhk.or.jp/news/html/20260221/k10015057771000.html",
+        "pubDate": "Sat, 21 Feb 2026 03:01:27 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-02-20-daily",
     "id": "1771537548714",
     "date": "2026-02-20",
