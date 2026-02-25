@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-02-26-daily",
+    "id": "1772056013961",
+    "date": "2026-02-26",
+    "generatedAt": "2026-02-26 06:46",
+    "title": "今日の株式市場メモ 2026-02-26",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] ウクライナ 読書が静かなブームに 長引く軍事侵攻が影響 （http://www3.nhk.or.jp/news/html/20260226/k10015060691000.html）\n2. [NHK 経済] 米通商代表部代表 “輸入品の関税率 従来の水準に今後戻す” （http://www3.nhk.or.jp/news/html/20260226/k10015060821000.html）\n3. [NHK 経済] ウクライナ大統領府高官 “子ども連れ去り 解決急ぐべき” （http://www3.nhk.or.jp/news/html/20260226/k10015060751000.html）\n4. [NHK 経済] 円相場 1ドル＝156円台後半に値下がり 早期利上げ困難の観測で （http://www3.nhk.or.jp/news/html/20260226/k10015060811000.html）\n5. [NHK 経済] 核開発めぐる米とイランの3回目協議 緊張緩和につながるか （http://www3.nhk.or.jp/news/html/20260226/k10015060741000.html）\n6. [NHK ビジネス特集] H3ロケット8号機失敗 “衛星の土台に接着部剥がれる異常か” （http://www3.nhk.or.jp/news/html/20260225/k10015060621000.html）\n7. [NHK ビジネス特集] 毛の再生 マウス使った実験で成功 “脱毛症治療に応用目指す” （http://www3.nhk.or.jp/news/html/20260225/k10015060361000.html）\n8. [NHK ビジネス特集] 浜岡原発地震想定過小評価疑い 策定プロセス確認できず 規制委 （http://www3.nhk.or.jp/news/html/20260225/k10015060271000.html）\n9. [NHK ビジネス特集] iPS細胞 脊髄損傷患者に移植 早ければ来年12月にも治験開始へ （http://www3.nhk.or.jp/news/html/20260224/k10015059941000.html）\n10. [NHK ビジネス特集] 文化庁 博物館運営などの基準改正案 「廃棄」の文言めぐり賛否 （http://www3.nhk.or.jp/news/html/20260224/k10015059871000.html）\n11. [NHK 国際] ミラノ・コルティナパラリンピック 採火式 （http://www3.nhk.or.jp/news/html/20260225/k10015060641000.html）\n12. [NHK 国際] レイカーズ 八村塁が10得点 河村勇輝 Gリーグでダブルダブル （http://www3.nhk.or.jp/news/html/20260225/k10015060501000.html）\n13. [NHK 国際] 【ノーカット動画】フィギュア “りくりゅう”ペアが会見 （http://www3.nhk.or.jp/news/html/20260225/k10015060331000.html）\n14. [NHK 国際] プロ野球 広島 羽月隆太郎被告との契約解除 （http://www3.nhk.or.jp/news/html/20260225/k10015060301000.html）\n15. [NHK 国際] フィギュア 島田麻央 世界ジュニア選手権4連覇へ 練習公開 （http://www3.nhk.or.jp/news/html/20260225/k10015060431000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナ 読書が静かなブームに 長引く軍事侵攻が影響",
+        "link": "http://www3.nhk.or.jp/news/html/20260226/k10015060691000.html",
+        "pubDate": "Thu, 26 Feb 2026 06:30:03 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米通商代表部代表 “輸入品の関税率 従来の水準に今後戻す”",
+        "link": "http://www3.nhk.or.jp/news/html/20260226/k10015060821000.html",
+        "pubDate": "Thu, 26 Feb 2026 06:25:59 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナ大統領府高官 “子ども連れ去り 解決急ぐべき”",
+        "link": "http://www3.nhk.or.jp/news/html/20260226/k10015060751000.html",
+        "pubDate": "Thu, 26 Feb 2026 06:05:42 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "円相場 1ドル＝156円台後半に値下がり 早期利上げ困難の観測で",
+        "link": "http://www3.nhk.or.jp/news/html/20260226/k10015060811000.html",
+        "pubDate": "Thu, 26 Feb 2026 05:53:15 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "核開発めぐる米とイランの3回目協議 緊張緩和につながるか",
+        "link": "http://www3.nhk.or.jp/news/html/20260226/k10015060741000.html",
+        "pubDate": "Thu, 26 Feb 2026 05:38:26 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "H3ロケット8号機失敗 “衛星の土台に接着部剥がれる異常か”",
+        "link": "http://www3.nhk.or.jp/news/html/20260225/k10015060621000.html",
+        "pubDate": "Wed, 25 Feb 2026 19:59:17 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "毛の再生 マウス使った実験で成功 “脱毛症治療に応用目指す”",
+        "link": "http://www3.nhk.or.jp/news/html/20260225/k10015060361000.html",
+        "pubDate": "Wed, 25 Feb 2026 17:20:45 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "浜岡原発地震想定過小評価疑い 策定プロセス確認できず 規制委",
+        "link": "http://www3.nhk.or.jp/news/html/20260225/k10015060271000.html",
+        "pubDate": "Wed, 25 Feb 2026 14:37:42 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "iPS細胞 脊髄損傷患者に移植 早ければ来年12月にも治験開始へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260224/k10015059941000.html",
+        "pubDate": "Tue, 24 Feb 2026 22:42:03 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "文化庁 博物館運営などの基準改正案 「廃棄」の文言めぐり賛否",
+        "link": "http://www3.nhk.or.jp/news/html/20260224/k10015059871000.html",
+        "pubDate": "Tue, 24 Feb 2026 21:04:19 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ミラノ・コルティナパラリンピック 採火式",
+        "link": "http://www3.nhk.or.jp/news/html/20260225/k10015060641000.html",
+        "pubDate": "Wed, 25 Feb 2026 20:38:05 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "レイカーズ 八村塁が10得点 河村勇輝 Gリーグでダブルダブル",
+        "link": "http://www3.nhk.or.jp/news/html/20260225/k10015060501000.html",
+        "pubDate": "Wed, 25 Feb 2026 19:04:09 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【ノーカット動画】フィギュア “りくりゅう”ペアが会見",
+        "link": "http://www3.nhk.or.jp/news/html/20260225/k10015060331000.html",
+        "pubDate": "Wed, 25 Feb 2026 17:50:42 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "プロ野球 広島 羽月隆太郎被告との契約解除",
+        "link": "http://www3.nhk.or.jp/news/html/20260225/k10015060301000.html",
+        "pubDate": "Wed, 25 Feb 2026 17:27:14 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "フィギュア 島田麻央 世界ジュニア選手権4連覇へ 練習公開",
+        "link": "http://www3.nhk.or.jp/news/html/20260225/k10015060431000.html",
+        "pubDate": "Wed, 25 Feb 2026 16:26:46 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-02-25-daily",
     "id": "1771969692682",
     "date": "2026-02-25",
