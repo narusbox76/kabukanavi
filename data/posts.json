@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-03-04-daily",
+    "id": "1772574333881",
+    "date": "2026-03-04",
+    "generatedAt": "2026-03-04 06:45",
+    "title": "今日の株式市場メモ 2026-03-04",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 外務省 “イラン滞在日本人2人が隣国アゼルバイジャンに退避” （http://www3.nhk.or.jp/news/html/20260304/k10015065861000.html）\n2. [NHK 経済] トランプ大統領 イランへの軍事作戦「非常に順調」成果強調 （http://www3.nhk.or.jp/news/html/20260304/k10015065791000.html）\n3. [NHK 経済] 米中央軍 作戦開始から72時間の概要公表 計1700か所以上を攻撃 （http://www3.nhk.or.jp/news/html/20260304/k10015065811000.html）\n4. [NHK 経済] エプスタイン氏との関係について伊藤穰一氏が自身のHPで説明 （http://www3.nhk.or.jp/news/html/20260304/k10015065691000.html）\n5. [NHK 経済] トランプ大統領「スペインと貿易断つ」基地使用認めずと非難 （http://www3.nhk.or.jp/news/html/20260304/k10015065781000.html）\n6. [NHK ビジネス特集] 「カイロス3号機」きょう打ち上げ予定 和歌山 （http://www3.nhk.or.jp/news/html/20260304/k10015065531000.html）\n7. [NHK ビジネス特集] 皆既月食 3日夜 九州南部などで観測 日本では次は3年後の元日 （http://www3.nhk.or.jp/news/html/20260303/k10015065621000.html）\n8. [NHK ビジネス特集] 囲碁 女流名人戦 現在の37期で休止へ 日本棋院が発表 （http://www3.nhk.or.jp/news/html/20260303/k10015065341000.html）\n9. [NHK ビジネス特集] ノーベル賞 坂口さんと北川さん “基礎研究への長期的支援を” （http://www3.nhk.or.jp/news/html/20260303/k10015065271000.html）\n10. [NHK ビジネス特集] 国立の美術館や博物館の入館料 「二重価格」導入へ 文化庁 （http://www3.nhk.or.jp/news/html/20260303/k10015065141000.html）\n11. [NHK 国際] ミラノ・コルティナパラ 開幕を前に全長約1.3Kmの選手村公開 （http://www3.nhk.or.jp/news/html/20260304/k10015065631000.html）\n12. [NHK 国際] WBC日本代表 最後の強化試合 阪神に勝利 鈴木誠也が先制HR （http://www3.nhk.or.jp/news/html/20260303/k10015065381000.html）\n13. [NHK 国際] WBCアメリカ代表 2大会ぶりの優勝に向け始動 （http://www3.nhk.or.jp/news/html/20260303/k10015065161000.html）\n14. [NHK 国際] IPC “イラン情勢めぐり関係者の到着に影響 解決策を模索” （http://www3.nhk.or.jp/news/html/20260303/k10015064681000.html）\n15. [NHK 国際] WBC日本代表 オリックスとの強化試合 敗れる 大谷翔平は無安打 （http://www3.nhk.or.jp/news/html/20260302/k10015064431000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "外務省 “イラン滞在日本人2人が隣国アゼルバイジャンに退避”",
+        "link": "http://www3.nhk.or.jp/news/html/20260304/k10015065861000.html",
+        "pubDate": "Wed, 04 Mar 2026 06:44:52 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領 イランへの軍事作戦「非常に順調」成果強調",
+        "link": "http://www3.nhk.or.jp/news/html/20260304/k10015065791000.html",
+        "pubDate": "Wed, 04 Mar 2026 05:59:17 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米中央軍 作戦開始から72時間の概要公表 計1700か所以上を攻撃",
+        "link": "http://www3.nhk.or.jp/news/html/20260304/k10015065811000.html",
+        "pubDate": "Wed, 04 Mar 2026 05:58:02 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "エプスタイン氏との関係について伊藤穰一氏が自身のHPで説明",
+        "link": "http://www3.nhk.or.jp/news/html/20260304/k10015065691000.html",
+        "pubDate": "Wed, 04 Mar 2026 05:55:34 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領「スペインと貿易断つ」基地使用認めずと非難",
+        "link": "http://www3.nhk.or.jp/news/html/20260304/k10015065781000.html",
+        "pubDate": "Wed, 04 Mar 2026 05:29:32 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「カイロス3号機」きょう打ち上げ予定 和歌山",
+        "link": "http://www3.nhk.or.jp/news/html/20260304/k10015065531000.html",
+        "pubDate": "Wed, 04 Mar 2026 04:46:55 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "皆既月食 3日夜 九州南部などで観測 日本では次は3年後の元日",
+        "link": "http://www3.nhk.or.jp/news/html/20260303/k10015065621000.html",
+        "pubDate": "Tue, 03 Mar 2026 23:28:17 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "囲碁 女流名人戦 現在の37期で休止へ 日本棋院が発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260303/k10015065341000.html",
+        "pubDate": "Tue, 03 Mar 2026 20:25:18 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ノーベル賞 坂口さんと北川さん “基礎研究への長期的支援を”",
+        "link": "http://www3.nhk.or.jp/news/html/20260303/k10015065271000.html",
+        "pubDate": "Tue, 03 Mar 2026 18:52:39 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "国立の美術館や博物館の入館料 「二重価格」導入へ 文化庁",
+        "link": "http://www3.nhk.or.jp/news/html/20260303/k10015065141000.html",
+        "pubDate": "Tue, 03 Mar 2026 15:48:06 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ミラノ・コルティナパラ 開幕を前に全長約1.3Kmの選手村公開",
+        "link": "http://www3.nhk.or.jp/news/html/20260304/k10015065631000.html",
+        "pubDate": "Wed, 04 Mar 2026 04:29:12 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "WBC日本代表 最後の強化試合 阪神に勝利 鈴木誠也が先制HR",
+        "link": "http://www3.nhk.or.jp/news/html/20260303/k10015065381000.html",
+        "pubDate": "Wed, 04 Mar 2026 00:57:05 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "WBCアメリカ代表 2大会ぶりの優勝に向け始動",
+        "link": "http://www3.nhk.or.jp/news/html/20260303/k10015065161000.html",
+        "pubDate": "Tue, 03 Mar 2026 16:07:07 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "IPC “イラン情勢めぐり関係者の到着に影響 解決策を模索”",
+        "link": "http://www3.nhk.or.jp/news/html/20260303/k10015064681000.html",
+        "pubDate": "Tue, 03 Mar 2026 05:22:30 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "WBC日本代表 オリックスとの強化試合 敗れる 大谷翔平は無安打",
+        "link": "http://www3.nhk.or.jp/news/html/20260302/k10015064431000.html",
+        "pubDate": "Tue, 03 Mar 2026 00:30:56 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-03-03-daily",
     "id": "1772488027771",
     "date": "2026-03-03",
