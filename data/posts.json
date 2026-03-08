@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-03-09-daily",
+    "id": "1773005653680",
+    "date": "2026-03-09",
+    "generatedAt": "2026-03-09 06:34",
+    "title": "今日の株式市場メモ 2026-03-09",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 銅の需要が高まる中 アフリカ ザンビアの鉱山を日本企業が視察 （http://www3.nhk.or.jp/news/html/20260309/k10015070211000.html）\n2. [NHK 経済] イラン最高指導者にモジタバ師選出 ハメネイ師の次男 （http://www3.nhk.or.jp/news/html/20260309/k10015070341000.html）\n3. [NHK 経済] ゼレンスキー大統領“湾岸諸国へウクライナの専門家を派遣” （http://www3.nhk.or.jp/news/html/20260309/k10015070351000.html）\n4. [NHK 経済] 米韓 合同軍事演習開始へ 機動訓練は半分以下に縮小 （http://www3.nhk.or.jp/news/html/20260309/k10015070311000.html）\n5. [NHK 経済] ウクライナ “元兵士の社会復帰による強じんな社会作り課題” （http://www3.nhk.or.jp/news/html/20260309/k10015070231000.html）\n6. [NHK ビジネス特集] 牧野復興相 除染土再生利用へ活用方法洗い出し進める 日曜討論 （http://www3.nhk.or.jp/news/html/20260308/k10015069801000.html）\n7. [NHK ビジネス特集] 将棋「王将戦」第5局 永瀬九段初奪取か 藤井六冠望みつなぐか （http://www3.nhk.or.jp/news/html/20260308/k10015069851000.html）\n8. [NHK ビジネス特集] 国内初産出“深い青色の宝石”ラピスラズリを展示 新潟 糸魚川 （http://www3.nhk.or.jp/news/html/20260308/k10015069771000.html）\n9. [NHK ビジネス特集] 文化庁 国立博物館や美術館に数値目標 批判や不安の声も （http://www3.nhk.or.jp/news/html/20260307/k10015069101000.html）\n10. [NHK ビジネス特集] 日本の新型宇宙輸送船「HTV－X」国際宇宙ステーションから離脱 （http://www3.nhk.or.jp/news/html/20260307/k10015069021000.html）\n11. [NHK 国際] 大相撲春場所 2日目見どころ 大関 安青錦は義ノ富士と対戦 （http://www3.nhk.or.jp/news/html/20260309/k10015070291000.html）\n12. [NHK 国際] スピードスケート世界選手権 高木美帆が総合3位 （http://www3.nhk.or.jp/news/html/20260309/k10015070301000.html）\n13. [NHK 国際] ミラノ・コルティナパラリンピック 見どころ【3/9～10】 （http://www3.nhk.or.jp/news/html/20260309/k10015070361000.html）\n14. [NHK 国際] WBC 日本3連勝 オーストラリアに逆転勝ち 1位突破【詳報】 （http://www3.nhk.or.jp/news/html/20260308/k10015070031000.html）\n15. [NHK 国際] 4番・吉田正尚 苦しい展開で“ここぞの勝負強さ”【解説】 （http://www3.nhk.or.jp/news/html/20260309/k10015070281000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "銅の需要が高まる中 アフリカ ザンビアの鉱山を日本企業が視察",
+        "link": "http://www3.nhk.or.jp/news/html/20260309/k10015070211000.html",
+        "pubDate": "Mon, 09 Mar 2026 06:31:26 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "イラン最高指導者にモジタバ師選出 ハメネイ師の次男",
+        "link": "http://www3.nhk.or.jp/news/html/20260309/k10015070341000.html",
+        "pubDate": "Mon, 09 Mar 2026 06:25:03 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ゼレンスキー大統領“湾岸諸国へウクライナの専門家を派遣”",
+        "link": "http://www3.nhk.or.jp/news/html/20260309/k10015070351000.html",
+        "pubDate": "Mon, 09 Mar 2026 06:01:03 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米韓 合同軍事演習開始へ 機動訓練は半分以下に縮小",
+        "link": "http://www3.nhk.or.jp/news/html/20260309/k10015070311000.html",
+        "pubDate": "Mon, 09 Mar 2026 05:53:59 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナ “元兵士の社会復帰による強じんな社会作り課題”",
+        "link": "http://www3.nhk.or.jp/news/html/20260309/k10015070231000.html",
+        "pubDate": "Mon, 09 Mar 2026 00:41:14 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "牧野復興相 除染土再生利用へ活用方法洗い出し進める 日曜討論",
+        "link": "http://www3.nhk.or.jp/news/html/20260308/k10015069801000.html",
+        "pubDate": "Sun, 08 Mar 2026 12:49:10 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋「王将戦」第5局 永瀬九段初奪取か 藤井六冠望みつなぐか",
+        "link": "http://www3.nhk.or.jp/news/html/20260308/k10015069851000.html",
+        "pubDate": "Sun, 08 Mar 2026 11:15:11 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "国内初産出“深い青色の宝石”ラピスラズリを展示 新潟 糸魚川",
+        "link": "http://www3.nhk.or.jp/news/html/20260308/k10015069771000.html",
+        "pubDate": "Sun, 08 Mar 2026 09:03:51 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "文化庁 国立博物館や美術館に数値目標 批判や不安の声も",
+        "link": "http://www3.nhk.or.jp/news/html/20260307/k10015069101000.html",
+        "pubDate": "Sat, 07 Mar 2026 09:35:56 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "日本の新型宇宙輸送船「HTV－X」国際宇宙ステーションから離脱",
+        "link": "http://www3.nhk.or.jp/news/html/20260307/k10015069021000.html",
+        "pubDate": "Sat, 07 Mar 2026 05:19:40 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲春場所 2日目見どころ 大関 安青錦は義ノ富士と対戦",
+        "link": "http://www3.nhk.or.jp/news/html/20260309/k10015070291000.html",
+        "pubDate": "Mon, 09 Mar 2026 06:30:22 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スピードスケート世界選手権 高木美帆が総合3位",
+        "link": "http://www3.nhk.or.jp/news/html/20260309/k10015070301000.html",
+        "pubDate": "Mon, 09 Mar 2026 06:13:10 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ミラノ・コルティナパラリンピック 見どころ【3/9～10】",
+        "link": "http://www3.nhk.or.jp/news/html/20260309/k10015070361000.html",
+        "pubDate": "Mon, 09 Mar 2026 05:53:00 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "WBC 日本3連勝 オーストラリアに逆転勝ち 1位突破【詳報】",
+        "link": "http://www3.nhk.or.jp/news/html/20260308/k10015070031000.html",
+        "pubDate": "Mon, 09 Mar 2026 02:22:30 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "4番・吉田正尚 苦しい展開で“ここぞの勝負強さ”【解説】",
+        "link": "http://www3.nhk.or.jp/news/html/20260309/k10015070281000.html",
+        "pubDate": "Mon, 09 Mar 2026 01:40:36 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-03-08-daily",
     "id": "1772919111835",
     "date": "2026-03-08",
