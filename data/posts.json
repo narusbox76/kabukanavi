@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-03-16-daily",
+    "id": "1773610665083",
+    "date": "2026-03-16",
+    "generatedAt": "2026-03-16 06:37",
+    "title": "今日の株式市場メモ 2026-03-16",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 政府 艦船派遣めぐるトランプ大統領の投稿 真意見極めたい考え （http://www3.nhk.or.jp/news/html/20260316/k10015076481000.html）\n2. [NHK 経済] 米FRB 金融政策決定会合 今週開催 利下げ見送るとの見方強まる （http://www3.nhk.or.jp/news/html/20260316/k10015076501000.html）\n3. [NHK 経済] IEA 石油備蓄の放出時期 “アジア・オセアニアでは直ちに” （http://www3.nhk.or.jp/news/html/20260316/k10015076701000.html）\n4. [NHK 経済] ホルムズ海峡の航行めぐり 米 イランの駆け引き続く （http://www3.nhk.or.jp/news/html/20260316/k10015076641000.html）\n5. [NHK 経済] IPC会長「選手を政治の影響から守る」国際情勢緊迫化で （http://www3.nhk.or.jp/news/html/20260316/k10015076691000.html）\n6. [NHK ビジネス特集] 将棋「棋王戦」五番勝負 第4局 藤井聡太六冠が勝ち 最終局へ （http://www3.nhk.or.jp/news/html/20260315/k10015076531000.html）\n7. [NHK ビジネス特集] JAXA「H3」ロケット 新形態のエンジン燃焼試験 計画どおり終了 （http://www3.nhk.or.jp/news/html/20260315/k10015076301000.html）\n8. [NHK ビジネス特集] 「核のごみ」最終処分地選定 東京 小笠原村で初の住民説明会 （http://www3.nhk.or.jp/news/html/20260314/k10015075811000.html）\n9. [NHK ビジネス特集] “AIの知ったかぶり”相次ぐ 営業被害やひぼう中傷のリスクも （http://www3.nhk.or.jp/news/html/20260314/k10015074431000.html）\n10. [NHK ビジネス特集] “出産後に湯船つかるのと感染リスクに関連みられず”調査結果 （http://www3.nhk.or.jp/news/html/20260314/k10015074521000.html）\n11. [NHK 国際] 【速報中】ミラノ・コルティナ パラリンピックが閉幕 （http://www3.nhk.or.jp/news/html/20260316/k10015076281000.html）\n12. [NHK 国際] パラ アルペン男子回転 鈴木猛史が銅メダル 森井大輝が4位 （http://www3.nhk.or.jp/news/html/20260315/k10015076611000.html）\n13. [NHK 国際] パラ 日本勢は金メダル獲得できず 冬季では2002年大会以来 （http://www3.nhk.or.jp/news/html/20260316/k10015076711000.html）\n14. [NHK 国際] ミラノ・コルティナパラリンピック【結果3/15～16】 （http://www3.nhk.or.jp/news/html/20260316/k10015076731000.html）\n15. [NHK 国際] IPC会長「選手を政治の影響から守る」国際情勢緊迫化で （http://www3.nhk.or.jp/news/html/20260316/k10015076691000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "政府 艦船派遣めぐるトランプ大統領の投稿 真意見極めたい考え",
+        "link": "http://www3.nhk.or.jp/news/html/20260316/k10015076481000.html",
+        "pubDate": "Mon, 16 Mar 2026 06:23:59 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米FRB 金融政策決定会合 今週開催 利下げ見送るとの見方強まる",
+        "link": "http://www3.nhk.or.jp/news/html/20260316/k10015076501000.html",
+        "pubDate": "Mon, 16 Mar 2026 06:19:10 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "IEA 石油備蓄の放出時期 “アジア・オセアニアでは直ちに”",
+        "link": "http://www3.nhk.or.jp/news/html/20260316/k10015076701000.html",
+        "pubDate": "Mon, 16 Mar 2026 06:13:04 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ホルムズ海峡の航行めぐり 米 イランの駆け引き続く",
+        "link": "http://www3.nhk.or.jp/news/html/20260316/k10015076641000.html",
+        "pubDate": "Mon, 16 Mar 2026 06:05:25 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "IPC会長「選手を政治の影響から守る」国際情勢緊迫化で",
+        "link": "http://www3.nhk.or.jp/news/html/20260316/k10015076691000.html",
+        "pubDate": "Mon, 16 Mar 2026 04:27:46 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋「棋王戦」五番勝負 第4局 藤井聡太六冠が勝ち 最終局へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260315/k10015076531000.html",
+        "pubDate": "Sun, 15 Mar 2026 20:47:48 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "JAXA「H3」ロケット 新形態のエンジン燃焼試験 計画どおり終了",
+        "link": "http://www3.nhk.or.jp/news/html/20260315/k10015076301000.html",
+        "pubDate": "Sun, 15 Mar 2026 17:36:33 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「核のごみ」最終処分地選定 東京 小笠原村で初の住民説明会",
+        "link": "http://www3.nhk.or.jp/news/html/20260314/k10015075811000.html",
+        "pubDate": "Sat, 14 Mar 2026 19:37:57 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "“AIの知ったかぶり”相次ぐ 営業被害やひぼう中傷のリスクも",
+        "link": "http://www3.nhk.or.jp/news/html/20260314/k10015074431000.html",
+        "pubDate": "Sat, 14 Mar 2026 18:28:30 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "“出産後に湯船つかるのと感染リスクに関連みられず”調査結果",
+        "link": "http://www3.nhk.or.jp/news/html/20260314/k10015074521000.html",
+        "pubDate": "Sat, 14 Mar 2026 05:07:57 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【速報中】ミラノ・コルティナ パラリンピックが閉幕",
+        "link": "http://www3.nhk.or.jp/news/html/20260316/k10015076281000.html",
+        "pubDate": "Mon, 16 Mar 2026 06:33:36 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "パラ アルペン男子回転 鈴木猛史が銅メダル 森井大輝が4位",
+        "link": "http://www3.nhk.or.jp/news/html/20260315/k10015076611000.html",
+        "pubDate": "Mon, 16 Mar 2026 06:24:55 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "パラ 日本勢は金メダル獲得できず 冬季では2002年大会以来",
+        "link": "http://www3.nhk.or.jp/news/html/20260316/k10015076711000.html",
+        "pubDate": "Mon, 16 Mar 2026 05:47:38 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ミラノ・コルティナパラリンピック【結果3/15～16】",
+        "link": "http://www3.nhk.or.jp/news/html/20260316/k10015076731000.html",
+        "pubDate": "Mon, 16 Mar 2026 05:10:59 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "IPC会長「選手を政治の影響から守る」国際情勢緊迫化で",
+        "link": "http://www3.nhk.or.jp/news/html/20260316/k10015076691000.html",
+        "pubDate": "Mon, 16 Mar 2026 04:27:46 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-03-15-daily",
     "id": "1773524215523",
     "date": "2026-03-15",
