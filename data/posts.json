@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-03-25-daily",
+    "id": "1774388965966",
+    "date": "2026-03-25",
+    "generatedAt": "2026-03-25 06:49",
+    "title": "今日の株式市場メモ 2026-03-25",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] トランプ大統領 イランとの協議主張 “合意結びたがっている” （http://www3.nhk.or.jp/news/html/20260325/k10015083481000.html）\n2. [NHK 経済] トランプ大統領 “協議経て攻撃延期” イラン側は協議自体否定 （http://www3.nhk.or.jp/news/html/20260323/k10015082331000.html）\n3. [NHK 経済] ウクライナ ロシア石油輸出の主要拠点攻撃 戦費へ影響ねらいか （http://www3.nhk.or.jp/news/html/20260324/k10015083271000.html）\n4. [NHK 経済] EUとオーストラリア 自由貿易協定の交渉妥結を発表 （http://www3.nhk.or.jp/news/html/20260324/k10015083331000.html）\n5. [NHK 経済] 化学メーカー団体“来月までは石油化学製品の製造続けられる” （http://www3.nhk.or.jp/news/html/20260324/k10015082941000.html）\n6. [NHK ビジネス特集] アトピー性皮膚炎の赤ちゃん 食物アレルギー抑える研究成果 （http://www3.nhk.or.jp/news/html/20260325/k10015083381000.html）\n7. [NHK ビジネス特集] スポーツ庁とJAXA連携 「極限環境での直感」テーマに議論 （http://www3.nhk.or.jp/news/html/20260324/k10015083261000.html）\n8. [NHK ビジネス特集] 太陽系外惑星の3次元データベース公開 京大などのグループ （http://www3.nhk.or.jp/news/html/20260324/k10015083171000.html）\n9. [NHK ビジネス特集] はしか感染者数 今月18日まで1週間で32人 ことしに入り最多 （http://www3.nhk.or.jp/news/html/20260324/k10015083251000.html）\n10. [NHK ビジネス特集] 打ち上げ失敗のH3ロケット“衛星載せる土台一部で剥がれ”JAXA （http://www3.nhk.or.jp/news/html/20260324/k10015083221000.html）\n11. [NHK 国際] 大相撲 優勝果たした霧島 約2年ぶり大関復帰 きょう正式決定へ （http://www3.nhk.or.jp/news/html/20260325/k10015083181000.html）\n12. [NHK 国際] 高校野球 センバツ【大会7日目の見どころ】2回戦 3試合 （http://www3.nhk.or.jp/news/html/20260325/k10015083281000.html）\n13. [NHK 国際] 高校野球 センバツ 八戸学院光星が滋賀学園に勝ち準々決勝へ （http://www3.nhk.or.jp/news/html/20260324/k10015082971000.html）\n14. [NHK 国際] 高校野球 センバツ 初の指名打者制 1回戦16試合で26校が採用 （http://www3.nhk.or.jp/news/html/20260324/k10015083411000.html）\n15. [NHK 国際] スポーツ庁とJAXA連携 「極限環境での直感」テーマに議論 （http://www3.nhk.or.jp/news/html/20260324/k10015083261000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領 イランとの協議主張 “合意結びたがっている”",
+        "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083481000.html",
+        "pubDate": "Wed, 25 Mar 2026 06:17:37 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領 “協議経て攻撃延期” イラン側は協議自体否定",
+        "link": "http://www3.nhk.or.jp/news/html/20260323/k10015082331000.html",
+        "pubDate": "Tue, 24 Mar 2026 21:40:29 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナ ロシア石油輸出の主要拠点攻撃 戦費へ影響ねらいか",
+        "link": "http://www3.nhk.or.jp/news/html/20260324/k10015083271000.html",
+        "pubDate": "Tue, 24 Mar 2026 21:23:18 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "EUとオーストラリア 自由貿易協定の交渉妥結を発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260324/k10015083331000.html",
+        "pubDate": "Tue, 24 Mar 2026 21:15:57 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "化学メーカー団体“来月までは石油化学製品の製造続けられる”",
+        "link": "http://www3.nhk.or.jp/news/html/20260324/k10015082941000.html",
+        "pubDate": "Tue, 24 Mar 2026 21:14:24 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "アトピー性皮膚炎の赤ちゃん 食物アレルギー抑える研究成果",
+        "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083381000.html",
+        "pubDate": "Wed, 25 Mar 2026 04:52:01 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "スポーツ庁とJAXA連携 「極限環境での直感」テーマに議論",
+        "link": "http://www3.nhk.or.jp/news/html/20260324/k10015083261000.html",
+        "pubDate": "Tue, 24 Mar 2026 21:05:53 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "太陽系外惑星の3次元データベース公開 京大などのグループ",
+        "link": "http://www3.nhk.or.jp/news/html/20260324/k10015083171000.html",
+        "pubDate": "Tue, 24 Mar 2026 20:55:56 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "はしか感染者数 今月18日まで1週間で32人 ことしに入り最多",
+        "link": "http://www3.nhk.or.jp/news/html/20260324/k10015083251000.html",
+        "pubDate": "Tue, 24 Mar 2026 20:50:14 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "打ち上げ失敗のH3ロケット“衛星載せる土台一部で剥がれ”JAXA",
+        "link": "http://www3.nhk.or.jp/news/html/20260324/k10015083221000.html",
+        "pubDate": "Tue, 24 Mar 2026 20:03:51 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲 優勝果たした霧島 約2年ぶり大関復帰 きょう正式決定へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083181000.html",
+        "pubDate": "Wed, 25 Mar 2026 05:12:18 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "高校野球 センバツ【大会7日目の見どころ】2回戦 3試合",
+        "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083281000.html",
+        "pubDate": "Wed, 25 Mar 2026 04:47:15 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "高校野球 センバツ 八戸学院光星が滋賀学園に勝ち準々決勝へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260324/k10015082971000.html",
+        "pubDate": "Tue, 24 Mar 2026 22:10:08 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "高校野球 センバツ 初の指名打者制 1回戦16試合で26校が採用",
+        "link": "http://www3.nhk.or.jp/news/html/20260324/k10015083411000.html",
+        "pubDate": "Tue, 24 Mar 2026 21:56:31 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スポーツ庁とJAXA連携 「極限環境での直感」テーマに議論",
+        "link": "http://www3.nhk.or.jp/news/html/20260324/k10015083261000.html",
+        "pubDate": "Tue, 24 Mar 2026 21:05:53 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-03-24-daily",
     "id": "1774302484385",
     "date": "2026-03-24",
