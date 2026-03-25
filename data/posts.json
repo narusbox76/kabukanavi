@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-03-26-daily",
+    "id": "1774475472834",
+    "date": "2026-03-26",
+    "generatedAt": "2026-03-26 06:51",
+    "title": "今日の株式市場メモ 2026-03-26",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] ロシア高官“和平案めぐり米側から説明 3か国協議再開へ調整” （http://www3.nhk.or.jp/news/html/20260326/k10015084341000.html）\n2. [NHK 経済] “イランが戦闘終結への5条件提示”報道 先行きは依然不透明 （http://www3.nhk.or.jp/news/html/20260326/k10015084361000.html）\n3. [NHK 経済] トランプ大統領 5月14日と15日に中国訪問 習主席と会談へ （http://www3.nhk.or.jp/news/html/20260326/k10015084331000.html）\n4. [NHK 経済] デンマーク議会選挙 米トランプ政権に反発の与党が議席大幅減 （http://www3.nhk.or.jp/news/html/20260326/k10015084291000.html）\n5. [NHK 経済] 大使館侵入で中国外務省 徹底的な捜査改めて求める （http://www3.nhk.or.jp/news/html/20260325/k10015084251000.html）\n6. [NHK ビジネス特集] NASA 月面基地建設に約3兆円投入へ“月に人と物 送り込む” （http://www3.nhk.or.jp/news/html/20260325/k10015083651000.html）\n7. [NHK ビジネス特集] “AIで書かれた論文”を判定するソフト 日本物理学会が導入 （http://www3.nhk.or.jp/news/html/20260325/k10015083851000.html）\n8. [NHK ビジネス特集] “マウスのクローンからクローン 58代目が限界”山梨大など （http://www3.nhk.or.jp/news/html/20260325/k10015083791000.html）\n9. [NHK ビジネス特集] 将棋「王将戦」最終局始まる 藤井六冠 タイトル5連覇決めるか （http://www3.nhk.or.jp/news/html/20260325/k10015083581000.html）\n10. [NHK ビジネス特集] アトピー性皮膚炎の赤ちゃん 食物アレルギー抑える研究成果 （http://www3.nhk.or.jp/news/html/20260325/k10015083381000.html）\n11. [NHK 国際] 高校野球 センバツ【大会8日目の見どころ】2回戦 4試合 （http://www3.nhk.or.jp/news/html/20260326/k10015083991000.html）\n12. [NHK 国際] フィギュア世界選手権 今大会で現役引退 坂本花織が前半トップ （http://www3.nhk.or.jp/news/html/20260326/k10015084321000.html）\n13. [NHK 国際] 高校野球 センバツ 花咲徳栄が日本文理に快勝 準々決勝へ （http://www3.nhk.or.jp/news/html/20260325/k10015083561000.html）\n14. [NHK 国際] 日本相撲協会 ナンバー2にあたる事業部長に出羽海親方就任 （http://www3.nhk.or.jp/news/html/20260325/k10015083911000.html）\n15. [NHK 国際] 高校野球 智弁学園が神村学園に延長10回に競り勝ち準々決勝へ （http://www3.nhk.or.jp/news/html/20260325/k10015083551000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "ロシア高官“和平案めぐり米側から説明 3か国協議再開へ調整”",
+        "link": "http://www3.nhk.or.jp/news/html/20260326/k10015084341000.html",
+        "pubDate": "Thu, 26 Mar 2026 06:47:39 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "“イランが戦闘終結への5条件提示”報道 先行きは依然不透明",
+        "link": "http://www3.nhk.or.jp/news/html/20260326/k10015084361000.html",
+        "pubDate": "Thu, 26 Mar 2026 06:26:17 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領 5月14日と15日に中国訪問 習主席と会談へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260326/k10015084331000.html",
+        "pubDate": "Thu, 26 Mar 2026 06:10:43 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "デンマーク議会選挙 米トランプ政権に反発の与党が議席大幅減",
+        "link": "http://www3.nhk.or.jp/news/html/20260326/k10015084291000.html",
+        "pubDate": "Thu, 26 Mar 2026 00:12:12 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "大使館侵入で中国外務省 徹底的な捜査改めて求める",
+        "link": "http://www3.nhk.or.jp/news/html/20260325/k10015084251000.html",
+        "pubDate": "Wed, 25 Mar 2026 22:46:06 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "NASA 月面基地建設に約3兆円投入へ“月に人と物 送り込む”",
+        "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083651000.html",
+        "pubDate": "Wed, 25 Mar 2026 19:45:13 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "“AIで書かれた論文”を判定するソフト 日本物理学会が導入",
+        "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083851000.html",
+        "pubDate": "Wed, 25 Mar 2026 17:00:54 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "“マウスのクローンからクローン 58代目が限界”山梨大など",
+        "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083791000.html",
+        "pubDate": "Wed, 25 Mar 2026 16:12:40 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋「王将戦」最終局始まる 藤井六冠 タイトル5連覇決めるか",
+        "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083581000.html",
+        "pubDate": "Wed, 25 Mar 2026 11:34:21 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "アトピー性皮膚炎の赤ちゃん 食物アレルギー抑える研究成果",
+        "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083381000.html",
+        "pubDate": "Wed, 25 Mar 2026 04:52:01 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "高校野球 センバツ【大会8日目の見どころ】2回戦 4試合",
+        "link": "http://www3.nhk.or.jp/news/html/20260326/k10015083991000.html",
+        "pubDate": "Thu, 26 Mar 2026 04:31:42 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "フィギュア世界選手権 今大会で現役引退 坂本花織が前半トップ",
+        "link": "http://www3.nhk.or.jp/news/html/20260326/k10015084321000.html",
+        "pubDate": "Thu, 26 Mar 2026 02:42:38 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "高校野球 センバツ 花咲徳栄が日本文理に快勝 準々決勝へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083561000.html",
+        "pubDate": "Wed, 25 Mar 2026 19:36:24 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "日本相撲協会 ナンバー2にあたる事業部長に出羽海親方就任",
+        "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083911000.html",
+        "pubDate": "Wed, 25 Mar 2026 18:02:07 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "高校野球 智弁学園が神村学園に延長10回に競り勝ち準々決勝へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083551000.html",
+        "pubDate": "Wed, 25 Mar 2026 16:55:04 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-03-25-daily",
     "id": "1774388965966",
     "date": "2026-03-25",
