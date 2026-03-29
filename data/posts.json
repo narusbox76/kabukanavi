@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-03-30-daily",
+    "id": "1774820638161",
+    "date": "2026-03-30",
+    "generatedAt": "2026-03-30 06:43",
+    "title": "今日の株式市場メモ 2026-03-30",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 仲介役のパキスタン外相 米イランの協議開催に期待示す （http://www3.nhk.or.jp/news/html/20260330/k10015087271000.html）\n2. [NHK 経済] 米が陸軍の即応展開部隊を派遣へ イランは徹底抗戦の構え （http://www3.nhk.or.jp/news/html/20260330/k10015087241000.html）\n3. [NHK 経済] “イラン長期化で政権への国民の評価に影響も”米世論 専門家 （http://www3.nhk.or.jp/news/html/20260329/k10015087221000.html）\n4. [NHK 経済] 米軍がイランへの圧力強める 仲介役のパキスタンが外交活発化 （http://www3.nhk.or.jp/news/html/20260329/k10015086831000.html）\n5. [NHK 経済] 台湾 野党第2党の民衆党 前の党トップの実刑判決受け抗議集会 （http://www3.nhk.or.jp/news/html/20260329/k10015087201000.html）\n6. [NHK ビジネス特集] 将棋 棋王戦 藤井聡太六冠が増田康宏八段に勝ち タイトル4連覇 （http://www3.nhk.or.jp/news/html/20260329/k10015087081000.html）\n7. [NHK ビジネス特集] NHK全国俳句大会 3人が大賞に選ばれる 東京 渋谷 （http://www3.nhk.or.jp/news/html/20260329/k10015087041000.html）\n8. [NHK ビジネス特集] NHK全国短歌大会 3人が大賞に選ばれる 東京 渋谷 （http://www3.nhk.or.jp/news/html/20260328/k10015086661000.html）\n9. [NHK ビジネス特集] PFAS検出 河川や地下水 26都府県629地点で指針値超え 環境省 （http://www3.nhk.or.jp/news/html/20260328/k10015086341000.html）\n10. [NHK ビジネス特集] 米国務省 アルテミス計画で有人の月探査を前に技術紹介ツアー （http://www3.nhk.or.jp/news/html/20260327/k10015086111000.html）\n11. [NHK 国際] ホワイトソックス 村上宗隆 開幕から3試合連続ホームラン （http://www3.nhk.or.jp/news/html/20260330/k10015087261000.html）\n12. [NHK 国際] ブルージェイズ 岡本和真 大リーグ移籍後1号のソロホームラン （http://www3.nhk.or.jp/news/html/20260330/k10015087251000.html）\n13. [NHK 国際] 【プロ野球結果】広島 栗林良吏 プロ初先発で1安打完封勝利 （http://www3.nhk.or.jp/news/html/20260329/k10015087121000.html）\n14. [NHK 国際] スキージャンプW杯男子最終戦 小林陵侑が今季個人総合で2位に （http://www3.nhk.or.jp/news/html/20260329/k10015087171000.html）\n15. [NHK 国際] 高校野球 大阪桐蔭が決勝へ 専大松戸に競り勝つ【詳しく】 （http://www3.nhk.or.jp/news/html/20260329/k10015086511000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "仲介役のパキスタン外相 米イランの協議開催に期待示す",
+        "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087271000.html",
+        "pubDate": "Mon, 30 Mar 2026 05:49:18 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米が陸軍の即応展開部隊を派遣へ イランは徹底抗戦の構え",
+        "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087241000.html",
+        "pubDate": "Mon, 30 Mar 2026 05:43:44 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "“イラン長期化で政権への国民の評価に影響も”米世論 専門家",
+        "link": "http://www3.nhk.or.jp/news/html/20260329/k10015087221000.html",
+        "pubDate": "Sun, 29 Mar 2026 23:51:08 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米軍がイランへの圧力強める 仲介役のパキスタンが外交活発化",
+        "link": "http://www3.nhk.or.jp/news/html/20260329/k10015086831000.html",
+        "pubDate": "Sun, 29 Mar 2026 22:47:48 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "台湾 野党第2党の民衆党 前の党トップの実刑判決受け抗議集会",
+        "link": "http://www3.nhk.or.jp/news/html/20260329/k10015087201000.html",
+        "pubDate": "Sun, 29 Mar 2026 21:06:23 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋 棋王戦 藤井聡太六冠が増田康宏八段に勝ち タイトル4連覇",
+        "link": "http://www3.nhk.or.jp/news/html/20260329/k10015087081000.html",
+        "pubDate": "Sun, 29 Mar 2026 21:52:27 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "NHK全国俳句大会 3人が大賞に選ばれる 東京 渋谷",
+        "link": "http://www3.nhk.or.jp/news/html/20260329/k10015087041000.html",
+        "pubDate": "Sun, 29 Mar 2026 17:14:55 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "NHK全国短歌大会 3人が大賞に選ばれる 東京 渋谷",
+        "link": "http://www3.nhk.or.jp/news/html/20260328/k10015086661000.html",
+        "pubDate": "Sat, 28 Mar 2026 18:19:11 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "PFAS検出 河川や地下水 26都府県629地点で指針値超え 環境省",
+        "link": "http://www3.nhk.or.jp/news/html/20260328/k10015086341000.html",
+        "pubDate": "Sat, 28 Mar 2026 07:26:01 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "米国務省 アルテミス計画で有人の月探査を前に技術紹介ツアー",
+        "link": "http://www3.nhk.or.jp/news/html/20260327/k10015086111000.html",
+        "pubDate": "Fri, 27 Mar 2026 22:28:19 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ホワイトソックス 村上宗隆 開幕から3試合連続ホームラン",
+        "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087261000.html",
+        "pubDate": "Mon, 30 Mar 2026 04:51:40 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ブルージェイズ 岡本和真 大リーグ移籍後1号のソロホームラン",
+        "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087251000.html",
+        "pubDate": "Mon, 30 Mar 2026 04:45:21 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】広島 栗林良吏 プロ初先発で1安打完封勝利",
+        "link": "http://www3.nhk.or.jp/news/html/20260329/k10015087121000.html",
+        "pubDate": "Sun, 29 Mar 2026 22:08:00 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "スキージャンプW杯男子最終戦 小林陵侑が今季個人総合で2位に",
+        "link": "http://www3.nhk.or.jp/news/html/20260329/k10015087171000.html",
+        "pubDate": "Sun, 29 Mar 2026 20:42:29 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "高校野球 大阪桐蔭が決勝へ 専大松戸に競り勝つ【詳しく】",
+        "link": "http://www3.nhk.or.jp/news/html/20260329/k10015086511000.html",
+        "pubDate": "Sun, 29 Mar 2026 20:08:52 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-03-29-daily",
     "id": "1774734003558",
     "date": "2026-03-29",
