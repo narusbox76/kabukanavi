@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-03-31-daily",
+    "id": "1774907625324",
+    "date": "2026-03-31",
+    "generatedAt": "2026-03-31 06:53",
+    "title": "今日の株式市場メモ 2026-03-31",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] フィリピン“日本から軽油約14万バレル調達”と発表 （http://www3.nhk.or.jp/news/html/20260331/k10015088161000.html）\n2. [NHK 経済] フランスのマクロン大統領 きょうから3日間の日程で来日 （http://www3.nhk.or.jp/news/html/20260331/k10015088061000.html）\n3. [NHK 経済] イラン情勢 トランプ大統領 カーグ島を占領する可能性も示唆 （http://www3.nhk.or.jp/news/html/20260330/k10015087241000.html）\n4. [NHK 経済] 中国の海洋調査船 日本のEEZで活動 海保が中止求める （http://www3.nhk.or.jp/news/html/20260330/k10015088111000.html）\n5. [NHK 経済] インドネシア大統領 再エネなどの事業 日本企業の参画に期待 （http://www3.nhk.or.jp/news/html/20260330/k10015087951000.html）\n6. [NHK ビジネス特集] ISSに2度長期滞在 古川聡さんがJAXA退職「やりきった」 （http://www3.nhk.or.jp/news/html/20260330/k10015087411000.html）\n7. [NHK ビジネス特集] 柏崎刈羽原発6号機 営業運転4月16日開始の計画 東電が国に申請 （http://www3.nhk.or.jp/news/html/20260330/k10015087641000.html）\n8. [NHK ビジネス特集] 対話型生成AI 回答に“偽サイトや詐欺サイト”表示か 注意を （http://www3.nhk.or.jp/news/html/20260330/k10015087661000.html）\n9. [NHK ビジネス特集] 将棋 棋王戦 藤井聡太六冠が増田康宏八段に勝ち タイトル4連覇 （http://www3.nhk.or.jp/news/html/20260329/k10015087081000.html）\n10. [NHK ビジネス特集] NHK全国俳句大会 3人が大賞に選ばれる 東京 渋谷 （http://www3.nhk.or.jp/news/html/20260329/k10015087041000.html）\n11. [NHK 国際] 高校野球 センバツ きょう決勝【見どころ】智弁学園×大阪桐蔭 （http://www3.nhk.or.jp/news/html/20260331/k10015087681000.html）\n12. [NHK 国際] センバツ ネットでの中傷の投稿 約350件 高野連などが削除要請 （http://www3.nhk.or.jp/news/html/20260330/k10015087911000.html）\n13. [NHK 国際] ボブスレー男子 五輪出場枠条件見落とし 元選手らが要望書提出 （http://www3.nhk.or.jp/news/html/20260330/k10015087721000.html）\n14. [NHK 国際] 高校野球 センバツ 決勝に向け智弁学園と大阪桐蔭が調整 （http://www3.nhk.or.jp/news/html/20260330/k10015087621000.html）\n15. [NHK 国際] 女子ゴルフ アメリカツアー最終ラウンド 勝みなみが3位 （http://www3.nhk.or.jp/news/html/20260330/k10015087581000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "フィリピン“日本から軽油約14万バレル調達”と発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260331/k10015088161000.html",
+        "pubDate": "Tue, 31 Mar 2026 05:34:49 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "フランスのマクロン大統領 きょうから3日間の日程で来日",
+        "link": "http://www3.nhk.or.jp/news/html/20260331/k10015088061000.html",
+        "pubDate": "Tue, 31 Mar 2026 05:19:56 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "イラン情勢 トランプ大統領 カーグ島を占領する可能性も示唆",
+        "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087241000.html",
+        "pubDate": "Mon, 30 Mar 2026 23:11:27 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "中国の海洋調査船 日本のEEZで活動 海保が中止求める",
+        "link": "http://www3.nhk.or.jp/news/html/20260330/k10015088111000.html",
+        "pubDate": "Mon, 30 Mar 2026 22:46:09 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "インドネシア大統領 再エネなどの事業 日本企業の参画に期待",
+        "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087951000.html",
+        "pubDate": "Mon, 30 Mar 2026 22:26:23 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ISSに2度長期滞在 古川聡さんがJAXA退職「やりきった」",
+        "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087411000.html",
+        "pubDate": "Mon, 30 Mar 2026 17:58:51 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "柏崎刈羽原発6号機 営業運転4月16日開始の計画 東電が国に申請",
+        "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087641000.html",
+        "pubDate": "Mon, 30 Mar 2026 16:20:06 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "対話型生成AI 回答に“偽サイトや詐欺サイト”表示か 注意を",
+        "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087661000.html",
+        "pubDate": "Mon, 30 Mar 2026 16:02:46 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋 棋王戦 藤井聡太六冠が増田康宏八段に勝ち タイトル4連覇",
+        "link": "http://www3.nhk.or.jp/news/html/20260329/k10015087081000.html",
+        "pubDate": "Sun, 29 Mar 2026 21:52:27 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "NHK全国俳句大会 3人が大賞に選ばれる 東京 渋谷",
+        "link": "http://www3.nhk.or.jp/news/html/20260329/k10015087041000.html",
+        "pubDate": "Sun, 29 Mar 2026 17:14:55 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "高校野球 センバツ きょう決勝【見どころ】智弁学園×大阪桐蔭",
+        "link": "http://www3.nhk.or.jp/news/html/20260331/k10015087681000.html",
+        "pubDate": "Tue, 31 Mar 2026 05:21:49 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "センバツ ネットでの中傷の投稿 約350件 高野連などが削除要請",
+        "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087911000.html",
+        "pubDate": "Mon, 30 Mar 2026 19:47:21 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ボブスレー男子 五輪出場枠条件見落とし 元選手らが要望書提出",
+        "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087721000.html",
+        "pubDate": "Mon, 30 Mar 2026 17:24:15 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "高校野球 センバツ 決勝に向け智弁学園と大阪桐蔭が調整",
+        "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087621000.html",
+        "pubDate": "Mon, 30 Mar 2026 15:40:05 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "女子ゴルフ アメリカツアー最終ラウンド 勝みなみが3位",
+        "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087581000.html",
+        "pubDate": "Mon, 30 Mar 2026 14:04:21 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-03-30-daily",
     "id": "1774820638161",
     "date": "2026-03-30",
