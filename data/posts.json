@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-04-04-daily",
+    "id": "1775252814227",
+    "date": "2026-04-04",
+    "generatedAt": "2026-04-04 06:46",
+    "title": "今日の株式市場メモ 2026-04-04",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] WFP事務局次長 イラン情勢で「支援できる人数減る」と危機感 （http://www3.nhk.or.jp/news/html/20260404/k10015091981000.html）\n2. [NHK 経済] 米 3月雇用統計 就業者は前月比17万8000人増 減速懸念和らぐ （http://www3.nhk.or.jp/news/html/20260403/k10015091911000.html）\n3. [NHK 経済] 共産 田村委員長 イラン情勢対応めぐり木原官房長官に要請 （http://www3.nhk.or.jp/news/html/20260403/k10015091941000.html）\n4. [NHK 経済] 米軍がテヘラン郊外の橋を攻撃 イラン側反発 徹底抗戦の構え （http://www3.nhk.or.jp/news/html/20260403/k10015091101000.html）\n5. [NHK 経済] 中国共産党「政治局委員が重大な規律違反などの疑い」国営通信 （http://www3.nhk.or.jp/news/html/20260403/k10015091861000.html）\n6. [NHK ビジネス特集] 北陸電力 志賀原発敷地内に活断層“存在しない”改めて説明へ （http://www3.nhk.or.jp/news/html/20260403/k10015091671000.html）\n7. [NHK ビジネス特集] 「アルテミス計画」宇宙船が出す電波追跡に福井の大学が参加 （http://www3.nhk.or.jp/news/html/20260403/k10015091591000.html）\n8. [NHK ビジネス特集] 「アルテミス計画」の宇宙船 地球回る軌道外れ 月への飛行開始 （http://www3.nhk.or.jp/news/html/20260403/k10015091311000.html）\n9. [NHK ビジネス特集] 「アルテミス計画」打ち上げ成功 人類 約半世紀ぶり月へ （http://www3.nhk.or.jp/news/html/20260402/k10015090331000.html）\n10. [NHK ビジネス特集] 日仏首脳 「宇宙ごみ」対策に取り組む都内の企業を視察 （http://www3.nhk.or.jp/news/html/20260402/k10015090601000.html）\n11. [NHK 国際] ドジャース 大谷翔平 今季初ホームラン 開幕7試合目で （http://www3.nhk.or.jp/news/html/20260404/k10015091961000.html）\n12. [NHK 国際] フィギュア “りくりゅう”ペアがオリンピック後初の演技披露 （http://www3.nhk.or.jp/news/html/20260404/k10015092001000.html）\n13. [NHK 国際] 【プロ野球結果】ロッテがサヨナラ勝ち 試合のニュース動画も （http://www3.nhk.or.jp/news/html/20260403/k10015091771000.html）\n14. [NHK 国際] レスリング女子 パリ五輪金の櫻井つぐみ選手が現役引退で会見 （http://www3.nhk.or.jp/news/html/20260403/k10015091381000.html）\n15. [NHK 国際] バスケ女子Wリーグ プレーオフファイナルを前に選手が意気込み （http://www3.nhk.or.jp/news/html/20260403/k10015091601000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "WFP事務局次長 イラン情勢で「支援できる人数減る」と危機感",
+        "link": "http://www3.nhk.or.jp/news/html/20260404/k10015091981000.html",
+        "pubDate": "Sat, 04 Apr 2026 00:07:09 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米 3月雇用統計 就業者は前月比17万8000人増 減速懸念和らぐ",
+        "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091911000.html",
+        "pubDate": "Fri, 03 Apr 2026 23:52:04 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "共産 田村委員長 イラン情勢対応めぐり木原官房長官に要請",
+        "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091941000.html",
+        "pubDate": "Fri, 03 Apr 2026 22:58:34 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米軍がテヘラン郊外の橋を攻撃 イラン側反発 徹底抗戦の構え",
+        "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091101000.html",
+        "pubDate": "Fri, 03 Apr 2026 22:11:54 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "中国共産党「政治局委員が重大な規律違反などの疑い」国営通信",
+        "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091861000.html",
+        "pubDate": "Fri, 03 Apr 2026 21:56:05 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "北陸電力 志賀原発敷地内に活断層“存在しない”改めて説明へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091671000.html",
+        "pubDate": "Fri, 03 Apr 2026 18:41:47 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「アルテミス計画」宇宙船が出す電波追跡に福井の大学が参加",
+        "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091591000.html",
+        "pubDate": "Fri, 03 Apr 2026 18:11:00 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「アルテミス計画」の宇宙船 地球回る軌道外れ 月への飛行開始",
+        "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091311000.html",
+        "pubDate": "Fri, 03 Apr 2026 12:14:33 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「アルテミス計画」打ち上げ成功 人類 約半世紀ぶり月へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260402/k10015090331000.html",
+        "pubDate": "Thu, 02 Apr 2026 18:55:25 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "日仏首脳 「宇宙ごみ」対策に取り組む都内の企業を視察",
+        "link": "http://www3.nhk.or.jp/news/html/20260402/k10015090601000.html",
+        "pubDate": "Thu, 02 Apr 2026 14:49:12 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ドジャース 大谷翔平 今季初ホームラン 開幕7試合目で",
+        "link": "http://www3.nhk.or.jp/news/html/20260404/k10015091961000.html",
+        "pubDate": "Sat, 04 Apr 2026 05:32:45 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "フィギュア “りくりゅう”ペアがオリンピック後初の演技披露",
+        "link": "http://www3.nhk.or.jp/news/html/20260404/k10015092001000.html",
+        "pubDate": "Sat, 04 Apr 2026 04:48:41 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】ロッテがサヨナラ勝ち 試合のニュース動画も",
+        "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091771000.html",
+        "pubDate": "Fri, 03 Apr 2026 23:02:43 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "レスリング女子 パリ五輪金の櫻井つぐみ選手が現役引退で会見",
+        "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091381000.html",
+        "pubDate": "Fri, 03 Apr 2026 19:45:19 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "バスケ女子Wリーグ プレーオフファイナルを前に選手が意気込み",
+        "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091601000.html",
+        "pubDate": "Fri, 03 Apr 2026 18:11:48 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-04-03-daily",
     "id": "1775166575572",
     "date": "2026-04-03",
