@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-04-05-daily",
+    "id": "1775338941065",
+    "date": "2026-04-05",
+    "generatedAt": "2026-04-05 06:42",
+    "title": "今日の株式市場メモ 2026-04-05",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] イラン「新防空システム導入」 トランプ大統領「あと48時間」 （http://www3.nhk.or.jp/news/html/20260405/k10015092351000.html）\n2. [NHK 経済] 国立公園制度100年の2031年へ環境省 訪日外国人利用増やす方針 （http://www3.nhk.or.jp/news/html/20260405/k10015092321000.html）\n3. [NHK 経済] スタッフは日本での勤務経験者 焼き鳥チェーン ベトナムに進出 （http://www3.nhk.or.jp/news/html/20260405/k10015092341000.html）\n4. [NHK 経済] “米軍戦闘機など2機 イランの攻撃で墜落 1人行方不明” 報道 （http://www3.nhk.or.jp/news/html/20260404/k10015092011000.html）\n5. [NHK 経済] 【詳細】ロシア ウクライナに軍事侵攻（4月4日の動き） （http://www3.nhk.or.jp/news/html/20260404/k10015074941000.html）\n6. [NHK ビジネス特集] 大阪松竹座「さよなら公演」始まる 道頓堀のシンボル5月に閉館 （http://www3.nhk.or.jp/news/html/20260404/k10015092131000.html）\n7. [NHK ビジネス特集] ノロウイルス 新たな変異ウイルスが国内外で拡大 研究グループ （http://www3.nhk.or.jp/news/html/20260404/k10015092091000.html）\n8. [NHK ビジネス特集] 北陸電力 志賀原発敷地内に活断層“存在しない”改めて説明へ （http://www3.nhk.or.jp/news/html/20260403/k10015091671000.html）\n9. [NHK ビジネス特集] 「アルテミス計画」宇宙船が出す電波追跡に福井の大学が参加 （http://www3.nhk.or.jp/news/html/20260403/k10015091591000.html）\n10. [NHK ビジネス特集] 「アルテミス計画」の宇宙船 地球回る軌道外れ 月への飛行開始 （http://www3.nhk.or.jp/news/html/20260403/k10015091311000.html）\n11. [NHK 国際] 【プロ野球結果】ヤクルト 先発全員ヒットで勝利 試合動画も （http://www3.nhk.or.jp/news/html/20260404/k10015092301000.html）\n12. [NHK 国際] バスケ女子Wリーグ ファイナル第1戦 デンソーが勝利 （http://www3.nhk.or.jp/news/html/20260404/k10015092291000.html）\n13. [NHK 国際] ラグビー リーグワン第14節 ワイルドナイツが首位に （http://www3.nhk.or.jp/news/html/20260404/k10015092251000.html）\n14. [NHK 国際] Jリーグ特別大会 J1第9節 ホーリーホックがアントラーズを破る （http://www3.nhk.or.jp/news/html/20260404/k10015092261000.html）\n15. [NHK 国際] 柔道 全日本選抜体重別選手権 男子73キロ級 田中龍雅が優勝 （http://www3.nhk.or.jp/news/html/20260404/k10015092231000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "イラン「新防空システム導入」 トランプ大統領「あと48時間」",
+        "link": "http://www3.nhk.or.jp/news/html/20260405/k10015092351000.html",
+        "pubDate": "Sun, 05 Apr 2026 05:49:04 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "国立公園制度100年の2031年へ環境省 訪日外国人利用増やす方針",
+        "link": "http://www3.nhk.or.jp/news/html/20260405/k10015092321000.html",
+        "pubDate": "Sun, 05 Apr 2026 05:30:44 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "スタッフは日本での勤務経験者 焼き鳥チェーン ベトナムに進出",
+        "link": "http://www3.nhk.or.jp/news/html/20260405/k10015092341000.html",
+        "pubDate": "Sun, 05 Apr 2026 05:16:57 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "“米軍戦闘機など2機 イランの攻撃で墜落 1人行方不明” 報道",
+        "link": "http://www3.nhk.or.jp/news/html/20260404/k10015092011000.html",
+        "pubDate": "Sat, 04 Apr 2026 22:25:11 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【詳細】ロシア ウクライナに軍事侵攻（4月4日の動き）",
+        "link": "http://www3.nhk.or.jp/news/html/20260404/k10015074941000.html",
+        "pubDate": "Sat, 04 Apr 2026 21:45:49 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "大阪松竹座「さよなら公演」始まる 道頓堀のシンボル5月に閉館",
+        "link": "http://www3.nhk.or.jp/news/html/20260404/k10015092131000.html",
+        "pubDate": "Sat, 04 Apr 2026 14:20:22 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ノロウイルス 新たな変異ウイルスが国内外で拡大 研究グループ",
+        "link": "http://www3.nhk.or.jp/news/html/20260404/k10015092091000.html",
+        "pubDate": "Sat, 04 Apr 2026 10:55:01 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "北陸電力 志賀原発敷地内に活断層“存在しない”改めて説明へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091671000.html",
+        "pubDate": "Fri, 03 Apr 2026 18:41:47 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「アルテミス計画」宇宙船が出す電波追跡に福井の大学が参加",
+        "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091591000.html",
+        "pubDate": "Fri, 03 Apr 2026 18:11:00 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「アルテミス計画」の宇宙船 地球回る軌道外れ 月への飛行開始",
+        "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091311000.html",
+        "pubDate": "Fri, 03 Apr 2026 12:14:33 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】ヤクルト 先発全員ヒットで勝利 試合動画も",
+        "link": "http://www3.nhk.or.jp/news/html/20260404/k10015092301000.html",
+        "pubDate": "Sat, 04 Apr 2026 22:16:53 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "バスケ女子Wリーグ ファイナル第1戦 デンソーが勝利",
+        "link": "http://www3.nhk.or.jp/news/html/20260404/k10015092291000.html",
+        "pubDate": "Sat, 04 Apr 2026 21:12:37 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ラグビー リーグワン第14節 ワイルドナイツが首位に",
+        "link": "http://www3.nhk.or.jp/news/html/20260404/k10015092251000.html",
+        "pubDate": "Sat, 04 Apr 2026 20:45:45 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "Jリーグ特別大会 J1第9節 ホーリーホックがアントラーズを破る",
+        "link": "http://www3.nhk.or.jp/news/html/20260404/k10015092261000.html",
+        "pubDate": "Sat, 04 Apr 2026 20:42:10 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "柔道 全日本選抜体重別選手権 男子73キロ級 田中龍雅が優勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260404/k10015092231000.html",
+        "pubDate": "Sat, 04 Apr 2026 19:17:04 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-04-04-daily",
     "id": "1775252814227",
     "date": "2026-04-04",
