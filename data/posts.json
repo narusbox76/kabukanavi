@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-04-15-daily",
+    "id": "1776204044472",
+    "date": "2026-04-15",
+    "generatedAt": "2026-04-15 07:00",
+    "title": "今日の株式市場メモ 2026-04-15",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] スーダン衝突3年 5万人以上が死亡 人道状況の悪化続く （http://www3.nhk.or.jp/news/html/20260415/k10015099481000.html）\n2. [NHK 経済] トランプ大統領 近くイランとの再協議の可能性示唆 （http://www3.nhk.or.jp/news/html/20260415/k10015099491000.html）\n3. [NHK 経済] 対立するイスラエルとレバノンの大使が協議 アメリカが仲介 （http://www3.nhk.or.jp/news/html/20260415/k10015099691000.html）\n4. [NHK 経済] IEA 3月の石油供給量1日当たり1010万バレル減少と分析 （http://www3.nhk.or.jp/news/html/20260415/k10015099661000.html）\n5. [NHK 経済] 高市首相 総額100億ドル程度支援表明へ エネルギー供給の強化 （http://www3.nhk.or.jp/news/html/20260415/k10015099451000.html）\n6. [NHK ビジネス特集] 太陽系外から来た珍しいすい星 太陽接近前後で成分比に変化 （http://www3.nhk.or.jp/news/html/20260415/k10015099471000.html）\n7. [NHK ビジネス特集] 福島第一原発2号機 東京電力14日の原子炉調査を見送り （http://www3.nhk.or.jp/news/html/20260414/k10015099361000.html）\n8. [NHK ビジネス特集] 難病や希少ながん患者の遺伝情報など集める新たな組織 発足 （http://www3.nhk.or.jp/news/html/20260414/k10015099151000.html）\n9. [NHK ビジネス特集] 奈良 薬師寺の国宝「仏足石」に液体か 警察が捜査 （http://www3.nhk.or.jp/news/html/20260414/k10015099031000.html）\n10. [NHK ビジネス特集] パンスターズすい星 今月20日にかけ 明け方東の空で見えるか （http://www3.nhk.or.jp/news/html/20260414/k10015098531000.html）\n11. [NHK 国際] 【プロ野球】阪神 巨人に負け連勝4で止まる ヤクルト首位浮上 （http://www3.nhk.or.jp/news/html/20260414/k10015099591000.html）\n12. [NHK 国際] 卓球 世界選手権団体戦へ 張本智和 美和が意気込み （http://www3.nhk.or.jp/news/html/20260414/k10015099181000.html）\n13. [NHK 国際] バスケ女子 田中こころ WNBAドラフトで指名 日本選手史上2人目 （http://www3.nhk.or.jp/news/html/20260414/k10015099101000.html）\n14. [NHK 国際] 大相撲 引退の剣翔「相撲から離れるのはさみしい」心境語る （http://www3.nhk.or.jp/news/html/20260414/k10015099111000.html）\n15. [NHK 国際] エンジェルス 菊池雄星 4回途中4失点で降板 （http://www3.nhk.or.jp/news/html/20260414/k10015098991000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "スーダン衝突3年 5万人以上が死亡 人道状況の悪化続く",
+        "link": "http://www3.nhk.or.jp/news/html/20260415/k10015099481000.html",
+        "pubDate": "Wed, 15 Apr 2026 06:53:44 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領 近くイランとの再協議の可能性示唆",
+        "link": "http://www3.nhk.or.jp/news/html/20260415/k10015099491000.html",
+        "pubDate": "Wed, 15 Apr 2026 06:48:07 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "対立するイスラエルとレバノンの大使が協議 アメリカが仲介",
+        "link": "http://www3.nhk.or.jp/news/html/20260415/k10015099691000.html",
+        "pubDate": "Wed, 15 Apr 2026 06:46:43 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "IEA 3月の石油供給量1日当たり1010万バレル減少と分析",
+        "link": "http://www3.nhk.or.jp/news/html/20260415/k10015099661000.html",
+        "pubDate": "Wed, 15 Apr 2026 06:19:54 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "高市首相 総額100億ドル程度支援表明へ エネルギー供給の強化",
+        "link": "http://www3.nhk.or.jp/news/html/20260415/k10015099451000.html",
+        "pubDate": "Wed, 15 Apr 2026 05:59:09 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "太陽系外から来た珍しいすい星 太陽接近前後で成分比に変化",
+        "link": "http://www3.nhk.or.jp/news/html/20260415/k10015099471000.html",
+        "pubDate": "Wed, 15 Apr 2026 06:00:42 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "福島第一原発2号機 東京電力14日の原子炉調査を見送り",
+        "link": "http://www3.nhk.or.jp/news/html/20260414/k10015099361000.html",
+        "pubDate": "Tue, 14 Apr 2026 20:24:42 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "難病や希少ながん患者の遺伝情報など集める新たな組織 発足",
+        "link": "http://www3.nhk.or.jp/news/html/20260414/k10015099151000.html",
+        "pubDate": "Tue, 14 Apr 2026 19:32:10 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "奈良 薬師寺の国宝「仏足石」に液体か 警察が捜査",
+        "link": "http://www3.nhk.or.jp/news/html/20260414/k10015099031000.html",
+        "pubDate": "Tue, 14 Apr 2026 15:07:11 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "パンスターズすい星 今月20日にかけ 明け方東の空で見えるか",
+        "link": "http://www3.nhk.or.jp/news/html/20260414/k10015098531000.html",
+        "pubDate": "Tue, 14 Apr 2026 05:21:09 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球】阪神 巨人に負け連勝4で止まる ヤクルト首位浮上",
+        "link": "http://www3.nhk.or.jp/news/html/20260414/k10015099591000.html",
+        "pubDate": "Tue, 14 Apr 2026 23:14:06 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "卓球 世界選手権団体戦へ 張本智和 美和が意気込み",
+        "link": "http://www3.nhk.or.jp/news/html/20260414/k10015099181000.html",
+        "pubDate": "Tue, 14 Apr 2026 17:44:38 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "バスケ女子 田中こころ WNBAドラフトで指名 日本選手史上2人目",
+        "link": "http://www3.nhk.or.jp/news/html/20260414/k10015099101000.html",
+        "pubDate": "Tue, 14 Apr 2026 16:54:23 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲 引退の剣翔「相撲から離れるのはさみしい」心境語る",
+        "link": "http://www3.nhk.or.jp/news/html/20260414/k10015099111000.html",
+        "pubDate": "Tue, 14 Apr 2026 16:47:38 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "エンジェルス 菊池雄星 4回途中4失点で降板",
+        "link": "http://www3.nhk.or.jp/news/html/20260414/k10015098991000.html",
+        "pubDate": "Tue, 14 Apr 2026 16:43:46 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-04-14-daily",
     "id": "1776117508245",
     "date": "2026-04-14",
