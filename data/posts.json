@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-04-20-daily",
+    "id": "1776635323902",
+    "date": "2026-04-20",
+    "generatedAt": "2026-04-20 06:48",
+    "title": "今日の株式市場メモ 2026-04-20",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 米「代表団が2回目の協議へ」 イラン国営通信「参加を拒否」 （http://www3.nhk.or.jp/news/html/20260419/k10015103161000.html）\n2. [NHK 経済] ウクライナ ゼレンスキー大統領 米の対ロシア制裁解除に懸念 （http://www3.nhk.or.jp/news/html/20260420/k10015103181000.html）\n3. [NHK 経済] アメリカ南部で銃乱射事件 子ども8人が死亡 容疑者は射殺 （http://www3.nhk.or.jp/news/html/20260420/k10015103191000.html）\n4. [NHK 経済] 【詳細】ロシア ウクライナに軍事侵攻（4月19日の動き） （http://www3.nhk.or.jp/news/html/20260420/k10015079701000.html）\n5. [NHK 経済] 中国 人型ロボットのハーフマラソン大会 技術力をアピール （http://www3.nhk.or.jp/news/html/20260419/k10015103071000.html）\n6. [NHK ビジネス特集] 中国 人型ロボットのハーフマラソン大会 技術力をアピール （http://www3.nhk.or.jp/news/html/20260419/k10015103071000.html）\n7. [NHK ビジネス特集] 鎌倉時代の日記が手がかり 当時の太陽活動の痕跡が明らかに （http://www3.nhk.or.jp/news/html/20260419/k10015102631000.html）\n8. [NHK ビジネス特集] 【地震】新潟の柏崎刈羽原発 異常確認されず （http://www3.nhk.or.jp/news/html/20260418/k10015102351000.html）\n9. [NHK ビジネス特集] 春の園遊会開かれる 現役引退表明“りくりゅう”ペアなど招待 （http://www3.nhk.or.jp/news/html/20260417/k10015101451000.html）\n10. [NHK ビジネス特集] 「アルテミス計画」 帰還の船長 “月面着陸への手応え感じた” （http://www3.nhk.or.jp/news/html/20260417/k10015101621000.html）\n11. [NHK 国際] プロ野球 球審のヘルメット着用を徹底する運用始める （http://www3.nhk.or.jp/news/html/20260420/k10015103171000.html）\n12. [NHK 国際] 体操 全日本選手権 男子 橋本大輝が大会6連覇 （http://www3.nhk.or.jp/news/html/20260419/k10015102971000.html）\n13. [NHK 国際] 【プロ野球結果】阪神逆転勝ちで3連勝 オリックス同率で首位 （http://www3.nhk.or.jp/news/html/20260419/k10015103141000.html）\n14. [NHK 国際] 柔道 全日本女子選手権 63キロ級の渡邉聖子が初出場で優勝 （http://www3.nhk.or.jp/news/html/20260419/k10015103091000.html）\n15. [NHK 国際] Jリーグ特別大会 J1第11節 ガンバ大阪が勝利で2位に浮上 （http://www3.nhk.or.jp/news/html/20260419/k10015103081000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "米「代表団が2回目の協議へ」 イラン国営通信「参加を拒否」",
+        "link": "http://www3.nhk.or.jp/news/html/20260419/k10015103161000.html",
+        "pubDate": "Mon, 20 Apr 2026 06:35:02 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナ ゼレンスキー大統領 米の対ロシア制裁解除に懸念",
+        "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103181000.html",
+        "pubDate": "Mon, 20 Apr 2026 05:16:14 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "アメリカ南部で銃乱射事件 子ども8人が死亡 容疑者は射殺",
+        "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103191000.html",
+        "pubDate": "Mon, 20 Apr 2026 05:09:42 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【詳細】ロシア ウクライナに軍事侵攻（4月19日の動き）",
+        "link": "http://www3.nhk.or.jp/news/html/20260420/k10015079701000.html",
+        "pubDate": "Mon, 20 Apr 2026 03:02:40 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "中国 人型ロボットのハーフマラソン大会 技術力をアピール",
+        "link": "http://www3.nhk.or.jp/news/html/20260419/k10015103071000.html",
+        "pubDate": "Sun, 19 Apr 2026 22:54:08 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "中国 人型ロボットのハーフマラソン大会 技術力をアピール",
+        "link": "http://www3.nhk.or.jp/news/html/20260419/k10015103071000.html",
+        "pubDate": "Sun, 19 Apr 2026 22:54:08 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "鎌倉時代の日記が手がかり 当時の太陽活動の痕跡が明らかに",
+        "link": "http://www3.nhk.or.jp/news/html/20260419/k10015102631000.html",
+        "pubDate": "Sun, 19 Apr 2026 06:46:44 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "【地震】新潟の柏崎刈羽原発 異常確認されず",
+        "link": "http://www3.nhk.or.jp/news/html/20260418/k10015102351000.html",
+        "pubDate": "Sat, 18 Apr 2026 15:45:41 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "春の園遊会開かれる 現役引退表明“りくりゅう”ペアなど招待",
+        "link": "http://www3.nhk.or.jp/news/html/20260417/k10015101451000.html",
+        "pubDate": "Fri, 17 Apr 2026 19:07:55 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「アルテミス計画」 帰還の船長 “月面着陸への手応え感じた”",
+        "link": "http://www3.nhk.or.jp/news/html/20260417/k10015101621000.html",
+        "pubDate": "Fri, 17 Apr 2026 14:30:45 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "プロ野球 球審のヘルメット着用を徹底する運用始める",
+        "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103171000.html",
+        "pubDate": "Mon, 20 Apr 2026 03:10:12 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "体操 全日本選手権 男子 橋本大輝が大会6連覇",
+        "link": "http://www3.nhk.or.jp/news/html/20260419/k10015102971000.html",
+        "pubDate": "Sun, 19 Apr 2026 22:53:21 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】阪神逆転勝ちで3連勝 オリックス同率で首位",
+        "link": "http://www3.nhk.or.jp/news/html/20260419/k10015103141000.html",
+        "pubDate": "Sun, 19 Apr 2026 22:27:44 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "柔道 全日本女子選手権 63キロ級の渡邉聖子が初出場で優勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260419/k10015103091000.html",
+        "pubDate": "Sun, 19 Apr 2026 21:07:08 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "Jリーグ特別大会 J1第11節 ガンバ大阪が勝利で2位に浮上",
+        "link": "http://www3.nhk.or.jp/news/html/20260419/k10015103081000.html",
+        "pubDate": "Sun, 19 Apr 2026 20:02:05 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-04-19-daily",
     "id": "1776548865978",
     "date": "2026-04-19",
