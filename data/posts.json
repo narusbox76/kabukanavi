@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-04-26-daily",
+    "id": "1777153764807",
+    "date": "2026-04-26",
+    "generatedAt": "2026-04-26 06:49",
+    "title": "今日の株式市場メモ 2026-04-26",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] イラン外相 パキスタン首相らと会談 米は特使らの派遣取りやめ （http://www3.nhk.or.jp/news/html/20260426/k10015108471000.html）\n2. [NHK 経済] ガザ地区で20年ぶりに選挙 厳しい状況の改善望む声 （http://www3.nhk.or.jp/news/html/20260425/k10015108441000.html）\n3. [NHK 経済] ウクライナ ゼレンスキー大統領 サウジとの防衛協力に意欲 （http://www3.nhk.or.jp/news/html/20260425/k10015108291000.html）\n4. [NHK 経済] 【詳細】ロシア ウクライナに軍事侵攻（4月25日の動き） （http://www3.nhk.or.jp/news/html/20260425/k10015082721000.html）\n5. [NHK 経済] 米特使らパキスタンへ イラン代表団はパキスタン高官と会談 （http://www3.nhk.or.jp/news/html/20260425/k10015107801000.html）\n6. [NHK ビジネス特集] 篠原勝之さん死去「ゲージツ家のクマさん」の愛称で親しまれる （http://www3.nhk.or.jp/news/html/20260425/k10015108431000.html）\n7. [NHK ビジネス特集] 中国 火星探査機で2031年ごろにサンプルを地球に持ち帰る計画 （http://www3.nhk.or.jp/news/html/20260425/k10015107981000.html）\n8. [NHK ビジネス特集] ネコの慢性腎臓病 新たな治療薬の製造販売 国に承認申請 （http://www3.nhk.or.jp/news/html/20260424/k10015106751000.html）\n9. [NHK ビジネス特集] H3ロケット 打ち上げ再開は6月10日 JAXAが発表 （http://www3.nhk.or.jp/news/html/20260424/k10015107421000.html）\n10. [NHK ビジネス特集] 白亜紀のタコは巨大な捕食者だったか 口の化石から推定 北大 （http://www3.nhk.or.jp/news/html/20260424/k10015106801000.html）\n11. [NHK 国際] Jリーグ特別大会 J1第12節 WEST 名古屋グランパス勝ち 2位浮上 （http://www3.nhk.or.jp/news/html/20260425/k10015108451000.html）\n12. [NHK 国際] 【プロ野球結果】セ・リーグ 中日2連勝 今季初 カード勝ち越し （http://www3.nhk.or.jp/news/html/20260425/k10015108401000.html）\n13. [NHK 国際] DeNA 牧秀悟 右太もも裏肉離れで登録抹消 復帰時期は未定 （http://www3.nhk.or.jp/news/html/20260425/k10015108201000.html）\n14. [NHK 国際] ロッテ 種市篤暉 試合で足を痛めて倒れ込む 病院に搬送 （http://www3.nhk.or.jp/news/html/20260425/k10015108421000.html）\n15. [NHK 国際] ブラインドサッカー アジア選手権 男子 日本は準優勝 （http://www3.nhk.or.jp/news/html/20260425/k10015108411000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "イラン外相 パキスタン首相らと会談 米は特使らの派遣取りやめ",
+        "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108471000.html",
+        "pubDate": "Sun, 26 Apr 2026 06:18:37 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ガザ地区で20年ぶりに選挙 厳しい状況の改善望む声",
+        "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108441000.html",
+        "pubDate": "Sat, 25 Apr 2026 22:34:41 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナ ゼレンスキー大統領 サウジとの防衛協力に意欲",
+        "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108291000.html",
+        "pubDate": "Sat, 25 Apr 2026 19:31:56 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【詳細】ロシア ウクライナに軍事侵攻（4月25日の動き）",
+        "link": "http://www3.nhk.or.jp/news/html/20260425/k10015082721000.html",
+        "pubDate": "Sat, 25 Apr 2026 19:30:53 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米特使らパキスタンへ イラン代表団はパキスタン高官と会談",
+        "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107801000.html",
+        "pubDate": "Sat, 25 Apr 2026 19:16:00 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "篠原勝之さん死去「ゲージツ家のクマさん」の愛称で親しまれる",
+        "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108431000.html",
+        "pubDate": "Sat, 25 Apr 2026 21:30:26 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "中国 火星探査機で2031年ごろにサンプルを地球に持ち帰る計画",
+        "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107981000.html",
+        "pubDate": "Sat, 25 Apr 2026 13:37:57 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ネコの慢性腎臓病 新たな治療薬の製造販売 国に承認申請",
+        "link": "http://www3.nhk.or.jp/news/html/20260424/k10015106751000.html",
+        "pubDate": "Fri, 24 Apr 2026 17:04:56 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "H3ロケット 打ち上げ再開は6月10日 JAXAが発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260424/k10015107421000.html",
+        "pubDate": "Fri, 24 Apr 2026 16:55:44 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "白亜紀のタコは巨大な捕食者だったか 口の化石から推定 北大",
+        "link": "http://www3.nhk.or.jp/news/html/20260424/k10015106801000.html",
+        "pubDate": "Fri, 24 Apr 2026 04:39:45 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "Jリーグ特別大会 J1第12節 WEST 名古屋グランパス勝ち 2位浮上",
+        "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108451000.html",
+        "pubDate": "Sat, 25 Apr 2026 22:42:09 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】セ・リーグ 中日2連勝 今季初 カード勝ち越し",
+        "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108401000.html",
+        "pubDate": "Sat, 25 Apr 2026 22:28:37 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "DeNA 牧秀悟 右太もも裏肉離れで登録抹消 復帰時期は未定",
+        "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108201000.html",
+        "pubDate": "Sat, 25 Apr 2026 22:00:36 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ロッテ 種市篤暉 試合で足を痛めて倒れ込む 病院に搬送",
+        "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108421000.html",
+        "pubDate": "Sat, 25 Apr 2026 21:28:15 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ブラインドサッカー アジア選手権 男子 日本は準優勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108411000.html",
+        "pubDate": "Sat, 25 Apr 2026 21:26:14 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-04-25-daily",
     "id": "1777067829749",
     "date": "2026-04-25",
