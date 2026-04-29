@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-04-30-daily",
+    "id": "1777500556770",
+    "date": "2026-04-30",
+    "generatedAt": "2026-04-30 07:09",
+    "title": "今日の株式市場メモ 2026-04-30",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 日本関係船舶の海峡通過 イラン側に働きかけを継続 日本政府 （http://www3.nhk.or.jp/news/html/20260430/k10015111121000.html）\n2. [NHK 経済] アマゾン 1-3月期決算 最終利益 大幅76.6％増 AI需要高まりで （http://www3.nhk.or.jp/news/html/20260430/k10015111191000.html）\n3. [NHK 経済] トランプ大統領 イランの提案拒否か イラン側も対抗措置示唆 （http://www3.nhk.or.jp/news/html/20260430/k10015111281000.html）\n4. [NHK 経済] FRB 利下げ見送り ３会合連続 パウエル議長“法的攻撃を懸念” （http://www3.nhk.or.jp/news/html/20260430/k10015111161000.html）\n5. [NHK 経済] 高市首相 日豪首脳会談で経済安保共同宣言を出す方向で調整 （http://www3.nhk.or.jp/news/html/20260430/k10015111131000.html）\n6. [NHK ビジネス特集] カニの「横歩き」は約2億年前に始まったか 長崎大など研究 （http://www3.nhk.or.jp/news/html/20260429/k10015110381000.html）\n7. [NHK ビジネス特集] 囲碁「十段戦」第5局 芝野虎丸二冠が勝ち タイトル防衛 （http://www3.nhk.or.jp/news/html/20260428/k10015110481000.html）\n8. [NHK ビジネス特集] 米夕食会発砲事件 根拠ない「やらせ」陰謀論が拡散 注意を （http://www3.nhk.or.jp/news/html/20260428/k10015110281000.html）\n9. [NHK ビジネス特集] 春の褒章 603人と28団体が受章 “りくりゅう”ペアも （http://www3.nhk.or.jp/news/html/20260428/k10015109611000.html）\n10. [NHK ビジネス特集] 富山 魚津 最高ランクの「しんきろう」 8年ぶりに観測 （http://www3.nhk.or.jp/news/html/20260426/k10015108711000.html）\n11. [NHK 国際] 【プロ野球結果】阪神がヤクルトに完封勝利 首位に浮上 （http://www3.nhk.or.jp/news/html/20260429/k10015111101000.html）\n12. [NHK 国際] サッカーワールドカップ 出場チームへの分配金15％増額 FIFA （http://www3.nhk.or.jp/news/html/20260429/k10015111051000.html）\n13. [NHK 国際] WEリーグカップ 日テレ・東京ヴェルディベレーザが初優勝 （http://www3.nhk.or.jp/news/html/20260429/k10015111001000.html）\n14. [NHK 国際] Jリーグ特別大会 J1第13節 EAST首位 鹿島アントラーズ逆転負け （http://www3.nhk.or.jp/news/html/20260429/k10015111071000.html）\n15. [NHK 国際] 陸上 織田幹雄記念国際 女子100ｍハードル 田中佑美が優勝 （http://www3.nhk.or.jp/news/html/20260429/k10015111031000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "日本関係船舶の海峡通過 イラン側に働きかけを継続 日本政府",
+        "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111121000.html",
+        "pubDate": "Thu, 30 Apr 2026 06:58:59 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "アマゾン 1-3月期決算 最終利益 大幅76.6％増 AI需要高まりで",
+        "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111191000.html",
+        "pubDate": "Thu, 30 Apr 2026 06:55:10 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領 イランの提案拒否か イラン側も対抗措置示唆",
+        "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111281000.html",
+        "pubDate": "Thu, 30 Apr 2026 06:21:56 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "FRB 利下げ見送り ３会合連続 パウエル議長“法的攻撃を懸念”",
+        "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111161000.html",
+        "pubDate": "Thu, 30 Apr 2026 06:17:28 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "高市首相 日豪首脳会談で経済安保共同宣言を出す方向で調整",
+        "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111131000.html",
+        "pubDate": "Thu, 30 Apr 2026 05:49:23 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "カニの「横歩き」は約2億年前に始まったか 長崎大など研究",
+        "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110381000.html",
+        "pubDate": "Wed, 29 Apr 2026 04:06:50 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "囲碁「十段戦」第5局 芝野虎丸二冠が勝ち タイトル防衛",
+        "link": "http://www3.nhk.or.jp/news/html/20260428/k10015110481000.html",
+        "pubDate": "Tue, 28 Apr 2026 19:34:21 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "米夕食会発砲事件 根拠ない「やらせ」陰謀論が拡散 注意を",
+        "link": "http://www3.nhk.or.jp/news/html/20260428/k10015110281000.html",
+        "pubDate": "Tue, 28 Apr 2026 16:49:29 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "春の褒章 603人と28団体が受章 “りくりゅう”ペアも",
+        "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109611000.html",
+        "pubDate": "Tue, 28 Apr 2026 05:20:16 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "富山 魚津 最高ランクの「しんきろう」 8年ぶりに観測",
+        "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108711000.html",
+        "pubDate": "Sun, 26 Apr 2026 18:08:21 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】阪神がヤクルトに完封勝利 首位に浮上",
+        "link": "http://www3.nhk.or.jp/news/html/20260429/k10015111101000.html",
+        "pubDate": "Wed, 29 Apr 2026 22:51:11 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカーワールドカップ 出場チームへの分配金15％増額 FIFA",
+        "link": "http://www3.nhk.or.jp/news/html/20260429/k10015111051000.html",
+        "pubDate": "Wed, 29 Apr 2026 21:46:04 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "WEリーグカップ 日テレ・東京ヴェルディベレーザが初優勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260429/k10015111001000.html",
+        "pubDate": "Wed, 29 Apr 2026 20:29:02 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "Jリーグ特別大会 J1第13節 EAST首位 鹿島アントラーズ逆転負け",
+        "link": "http://www3.nhk.or.jp/news/html/20260429/k10015111071000.html",
+        "pubDate": "Wed, 29 Apr 2026 20:07:37 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "陸上 織田幹雄記念国際 女子100ｍハードル 田中佑美が優勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260429/k10015111031000.html",
+        "pubDate": "Wed, 29 Apr 2026 19:02:10 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-04-29-daily",
     "id": "1777414116122",
     "date": "2026-04-29",
