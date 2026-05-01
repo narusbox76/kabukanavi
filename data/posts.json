@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-05-02-daily",
+    "id": "1777672809362",
+    "date": "2026-05-02",
+    "generatedAt": "2026-05-02 07:00",
+    "title": "今日の株式市場メモ 2026-05-02",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] NY株式市場 ナスダックとS＆P500指数 再び最高値更新 （http://www3.nhk.or.jp/news/html/20260502/k10015113241000.html）\n2. [NHK 経済] イラン側が新提案を提出 トランプ大統領「満足していない」 （http://www3.nhk.or.jp/news/html/20260502/k10015113151000.html）\n3. [NHK 経済] NPT再検討会議 広島の「胎内被爆者」核兵器の非人道性訴え （http://www3.nhk.or.jp/news/html/20260502/k10015113171000.html）\n4. [NHK 経済] ゼレンスキー大統領 ロシアの石油施設などに損失70億ドル （http://www3.nhk.or.jp/news/html/20260502/k10015113161000.html）\n5. [NHK 経済] 茂木外相 アンゴラ産原油取り引き 日本企業の参画 後押しへ （http://www3.nhk.or.jp/news/html/20260502/k10015113221000.html）\n6. [NHK ビジネス特集] 将棋 羽生九段敗れ通算100期挑戦ならず 勝者は服部七段 （http://www3.nhk.or.jp/news/html/20260501/k10015113191000.html）\n7. [NHK ビジネス特集] バンクシー新作の像 ロンドンに出現 “盲目的な愛国心”風刺か （http://www3.nhk.or.jp/news/html/20260501/k10015112711000.html）\n8. [NHK ビジネス特集] 歌人の岡野弘彦さん死去 101歳 皇室の和歌相談役も務める （http://www3.nhk.or.jp/news/html/20260430/k10015112091000.html）\n9. [NHK ビジネス特集] ウィーン少年合唱団 日本公演前に初の日本語オリジナル曲披露 （http://www3.nhk.or.jp/news/html/20260430/k10015112001000.html）\n10. [NHK ビジネス特集] 将棋 女流棋士の妊娠・出産 一律の出場禁止期間設けず 指針案 （http://www3.nhk.or.jp/news/html/20260430/k10015111811000.html）\n11. [NHK 国際] 【プロ野球結果】ヤクルト 丸山和郁がサイクルヒット達成 （http://www3.nhk.or.jp/news/html/20260501/k10015113071000.html）\n12. [NHK 国際] ラグビーリーグワン 最下位D-Rocks 首位ワイルドナイツ破る （http://www3.nhk.or.jp/news/html/20260501/k10015113201000.html）\n13. [NHK 国際] ヤクルト 丸山和郁 DeNA戦でサイクルヒット達成 史上73人目 （http://www3.nhk.or.jp/news/html/20260501/k10015113051000.html）\n14. [NHK 国際] 競泳日本代表合宿 17歳 平泳ぎの大橋信 “圧倒的な選手に” （http://www3.nhk.or.jp/news/html/20260501/k10015113091000.html）\n15. [NHK 国際] FIFA総会 パレスチナ代表者がイスラエル代表者との握手を拒否 （http://www3.nhk.or.jp/news/html/20260501/k10015113031000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "NY株式市場 ナスダックとS＆P500指数 再び最高値更新",
+        "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113241000.html",
+        "pubDate": "Sat, 02 May 2026 06:58:05 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "イラン側が新提案を提出 トランプ大統領「満足していない」",
+        "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113151000.html",
+        "pubDate": "Sat, 02 May 2026 06:49:18 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "NPT再検討会議 広島の「胎内被爆者」核兵器の非人道性訴え",
+        "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113171000.html",
+        "pubDate": "Sat, 02 May 2026 05:53:43 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ゼレンスキー大統領 ロシアの石油施設などに損失70億ドル",
+        "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113161000.html",
+        "pubDate": "Sat, 02 May 2026 05:33:37 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "茂木外相 アンゴラ産原油取り引き 日本企業の参画 後押しへ",
+        "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113221000.html",
+        "pubDate": "Sat, 02 May 2026 05:32:06 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋 羽生九段敗れ通算100期挑戦ならず 勝者は服部七段",
+        "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113191000.html",
+        "pubDate": "Fri, 01 May 2026 22:33:54 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "バンクシー新作の像 ロンドンに出現 “盲目的な愛国心”風刺か",
+        "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112711000.html",
+        "pubDate": "Fri, 01 May 2026 17:07:24 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "歌人の岡野弘彦さん死去 101歳 皇室の和歌相談役も務める",
+        "link": "http://www3.nhk.or.jp/news/html/20260430/k10015112091000.html",
+        "pubDate": "Thu, 30 Apr 2026 22:26:26 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ウィーン少年合唱団 日本公演前に初の日本語オリジナル曲披露",
+        "link": "http://www3.nhk.or.jp/news/html/20260430/k10015112001000.html",
+        "pubDate": "Thu, 30 Apr 2026 21:10:55 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋 女流棋士の妊娠・出産 一律の出場禁止期間設けず 指針案",
+        "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111811000.html",
+        "pubDate": "Thu, 30 Apr 2026 18:19:36 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】ヤクルト 丸山和郁がサイクルヒット達成",
+        "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113071000.html",
+        "pubDate": "Fri, 01 May 2026 23:38:57 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ラグビーリーグワン 最下位D-Rocks 首位ワイルドナイツ破る",
+        "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113201000.html",
+        "pubDate": "Fri, 01 May 2026 23:11:31 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ヤクルト 丸山和郁 DeNA戦でサイクルヒット達成 史上73人目",
+        "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113051000.html",
+        "pubDate": "Fri, 01 May 2026 22:40:32 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "競泳日本代表合宿 17歳 平泳ぎの大橋信 “圧倒的な選手に”",
+        "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113091000.html",
+        "pubDate": "Fri, 01 May 2026 21:33:51 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "FIFA総会 パレスチナ代表者がイスラエル代表者との握手を拒否",
+        "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113031000.html",
+        "pubDate": "Fri, 01 May 2026 21:02:30 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-05-01-daily",
     "id": "1777586754920",
     "date": "2026-05-01",
