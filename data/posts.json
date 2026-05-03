@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-05-04-daily",
+    "id": "1777845335077",
+    "date": "2026-05-04",
+    "generatedAt": "2026-05-04 06:55",
+    "title": "今日の株式市場メモ 2026-05-04",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] きょう日豪首脳会談 経済安全保障協力の指針となる共同宣言へ （http://www3.nhk.or.jp/news/html/20260504/k10015114111000.html）\n2. [NHK 経済] イラン新提案に米が回答か 具体的な内容とイランの出方が焦点 （http://www3.nhk.or.jp/news/html/20260504/k10015114261000.html）\n3. [NHK 経済] 【詳細】ロシア ウクライナに軍事侵攻（5月3日の動き） （http://www3.nhk.or.jp/news/html/20260504/k10015101761000.html）\n4. [NHK 経済] ASEAN＋3 経済の減速リスクやインフレ懸念踏まえ“結束”確認 （http://www3.nhk.or.jp/news/html/20260504/k10015114231000.html）\n5. [NHK 経済] 自民 小林政調会長 インド与党幹部と会談 経済安保で協力を （http://www3.nhk.or.jp/news/html/20260504/k10015114131000.html）\n6. [NHK ビジネス特集] 電子レンジ 誤使用での発火事故に注意 国民生活センター （http://www3.nhk.or.jp/news/html/20260504/k10015114141000.html）\n7. [NHK ビジネス特集] 将棋 叡王戦第3局 斎藤八段が伊藤二冠に勝って1勝返す （http://www3.nhk.or.jp/news/html/20260503/k10015113851000.html）\n8. [NHK ビジネス特集] “妊娠・出産をちゅうちょしない規定を” 福間女流五冠が会見 （http://www3.nhk.or.jp/news/html/20260502/k10015113491000.html）\n9. [NHK ビジネス特集] 将棋 羽生九段敗れ通算100期挑戦ならず 勝者は服部七段 （http://www3.nhk.or.jp/news/html/20260501/k10015113191000.html）\n10. [NHK ビジネス特集] バンクシー新作の像 ロンドンに出現 “盲目的な愛国心”風刺か （http://www3.nhk.or.jp/news/html/20260501/k10015112711000.html）\n11. [NHK 国際] ブルージェイズ 岡本和真 9号ツーラン 移籍後初の3試合連続HR （http://www3.nhk.or.jp/news/html/20260504/k10015114271000.html）\n12. [NHK 国際] ワールドクライミングシリーズで安楽宙斗がボルダー開幕戦優勝 （http://www3.nhk.or.jp/news/html/20260504/k10015114221000.html）\n13. [NHK 国際] 【プロ野球結果】セ・リーグ首位の阪神 巨人に勝ち首位キープ （http://www3.nhk.or.jp/news/html/20260503/k10015114201000.html）\n14. [NHK 国際] J1特別大会 鹿島がPK戦制してEAST首位守る （http://www3.nhk.or.jp/news/html/20260503/k10015114161000.html）\n15. [NHK 国際] サッカー女子WEリーグ INAC神戸レオネッサが2回目の優勝 （http://www3.nhk.or.jp/news/html/20260503/k10015113981000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "きょう日豪首脳会談 経済安全保障協力の指針となる共同宣言へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114111000.html",
+        "pubDate": "Mon, 04 May 2026 06:01:59 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "イラン新提案に米が回答か 具体的な内容とイランの出方が焦点",
+        "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114261000.html",
+        "pubDate": "Mon, 04 May 2026 05:56:02 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【詳細】ロシア ウクライナに軍事侵攻（5月3日の動き）",
+        "link": "http://www3.nhk.or.jp/news/html/20260504/k10015101761000.html",
+        "pubDate": "Mon, 04 May 2026 05:44:33 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ASEAN＋3 経済の減速リスクやインフレ懸念踏まえ“結束”確認",
+        "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114231000.html",
+        "pubDate": "Mon, 04 May 2026 05:37:09 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "自民 小林政調会長 インド与党幹部と会談 経済安保で協力を",
+        "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114131000.html",
+        "pubDate": "Mon, 04 May 2026 05:01:06 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "電子レンジ 誤使用での発火事故に注意 国民生活センター",
+        "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114141000.html",
+        "pubDate": "Mon, 04 May 2026 06:12:57 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋 叡王戦第3局 斎藤八段が伊藤二冠に勝って1勝返す",
+        "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113851000.html",
+        "pubDate": "Sun, 03 May 2026 22:17:02 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "“妊娠・出産をちゅうちょしない規定を” 福間女流五冠が会見",
+        "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113491000.html",
+        "pubDate": "Sat, 02 May 2026 18:02:21 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋 羽生九段敗れ通算100期挑戦ならず 勝者は服部七段",
+        "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113191000.html",
+        "pubDate": "Fri, 01 May 2026 22:33:54 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "バンクシー新作の像 ロンドンに出現 “盲目的な愛国心”風刺か",
+        "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112711000.html",
+        "pubDate": "Fri, 01 May 2026 17:07:24 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ブルージェイズ 岡本和真 9号ツーラン 移籍後初の3試合連続HR",
+        "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114271000.html",
+        "pubDate": "Mon, 04 May 2026 06:25:06 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ワールドクライミングシリーズで安楽宙斗がボルダー開幕戦優勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114221000.html",
+        "pubDate": "Mon, 04 May 2026 00:03:04 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】セ・リーグ首位の阪神 巨人に勝ち首位キープ",
+        "link": "http://www3.nhk.or.jp/news/html/20260503/k10015114201000.html",
+        "pubDate": "Sun, 03 May 2026 22:47:37 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "J1特別大会 鹿島がPK戦制してEAST首位守る",
+        "link": "http://www3.nhk.or.jp/news/html/20260503/k10015114161000.html",
+        "pubDate": "Sun, 03 May 2026 21:00:45 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカー女子WEリーグ INAC神戸レオネッサが2回目の優勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113981000.html",
+        "pubDate": "Sun, 03 May 2026 20:10:13 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-05-03-daily",
     "id": "1777758884961",
     "date": "2026-05-03",
