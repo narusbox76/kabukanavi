@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-05-06-daily",
+    "id": "1778018962601",
+    "date": "2026-05-06",
+    "generatedAt": "2026-05-06 07:09",
+    "title": "今日の株式市場メモ 2026-05-06",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] NY市場 ナスダック S＆P500指数が最高値 イラン停戦継続やAIで （http://www3.nhk.or.jp/news/html/20260506/k10015115181000.html）\n2. [NHK 経済] ウクライナ ロシア 攻撃の応酬続く 停戦実現は不透明 （http://www3.nhk.or.jp/news/html/20260506/k10015115171000.html）\n3. [NHK 経済] 米国防長官 “停戦は維持” UAE “イランから攻撃”と発表 （http://www3.nhk.or.jp/news/html/20260506/k10015115041000.html）\n4. [NHK 経済] マスク氏 米証券取引委員会と和解合意 2億3千万円余支払いへ （http://www3.nhk.or.jp/news/html/20260506/k10015115161000.html）\n5. [NHK 経済] マレーシアで特殊詐欺摘発 日本人5人含む2200人余り拘束 （http://www3.nhk.or.jp/news/html/20260506/k10015115131000.html）\n6. [NHK ビジネス特集] ハンタウイルス 一部でヒトからヒトに感染の可能性も WHO （http://www3.nhk.or.jp/news/html/20260506/k10015115141000.html）\n7. [NHK ビジネス特集] 冥王星より外側の天体に大気の存在を確認 国立天文台など発表 （http://www3.nhk.or.jp/news/html/20260505/k10015113341000.html）\n8. [NHK ビジネス特集] 博物館資料の適切な管理考える研究会設立 収蔵庫“満杯”で （http://www3.nhk.or.jp/news/html/20260504/k10015114321000.html）\n9. [NHK ビジネス特集] 電子レンジ 誤使用での発火事故に注意 国民生活センター （http://www3.nhk.or.jp/news/html/20260504/k10015114141000.html）\n10. [NHK ビジネス特集] 将棋 叡王戦第3局 斎藤八段が伊藤二冠に勝って1勝返す （http://www3.nhk.or.jp/news/html/20260503/k10015113851000.html）\n11. [NHK 国際] 【プロ野球結果】パ首位 オリックス快勝 リーグ20勝一番乗り （http://www3.nhk.or.jp/news/html/20260505/k10015114931000.html）\n12. [NHK 国際] ホワイトソックス 村上宗隆 3試合ぶり14号本塁打 トップに並ぶ （http://www3.nhk.or.jp/news/html/20260505/k10015114911000.html）\n13. [NHK 国際] ドジャース 山本由伸6回3失点3勝目 大谷翔平24打席ノーヒット （http://www3.nhk.or.jp/news/html/20260505/k10015114851000.html）\n14. [NHK 国際] カブス 鈴木誠也 6号同点スリーランなど2試合連続複数安打 （http://www3.nhk.or.jp/news/html/20260505/k10015114881000.html）\n15. [NHK 国際] ブルージェイズ 岡本和真 4試合連続安打もチームは敗れる （http://www3.nhk.or.jp/news/html/20260505/k10015114871000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "NY市場 ナスダック S＆P500指数が最高値 イラン停戦継続やAIで",
+        "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115181000.html",
+        "pubDate": "Wed, 06 May 2026 06:30:15 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナ ロシア 攻撃の応酬続く 停戦実現は不透明",
+        "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115171000.html",
+        "pubDate": "Wed, 06 May 2026 06:25:07 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米国防長官 “停戦は維持” UAE “イランから攻撃”と発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115041000.html",
+        "pubDate": "Wed, 06 May 2026 06:20:07 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "マスク氏 米証券取引委員会と和解合意 2億3千万円余支払いへ",
+        "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115161000.html",
+        "pubDate": "Wed, 06 May 2026 05:22:28 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "マレーシアで特殊詐欺摘発 日本人5人含む2200人余り拘束",
+        "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115131000.html",
+        "pubDate": "Wed, 06 May 2026 05:17:30 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ハンタウイルス 一部でヒトからヒトに感染の可能性も WHO",
+        "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115141000.html",
+        "pubDate": "Wed, 06 May 2026 05:09:00 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "冥王星より外側の天体に大気の存在を確認 国立天文台など発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260505/k10015113341000.html",
+        "pubDate": "Tue, 05 May 2026 00:00:06 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "博物館資料の適切な管理考える研究会設立 収蔵庫“満杯”で",
+        "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114321000.html",
+        "pubDate": "Mon, 04 May 2026 11:33:59 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "電子レンジ 誤使用での発火事故に注意 国民生活センター",
+        "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114141000.html",
+        "pubDate": "Mon, 04 May 2026 06:12:57 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋 叡王戦第3局 斎藤八段が伊藤二冠に勝って1勝返す",
+        "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113851000.html",
+        "pubDate": "Sun, 03 May 2026 22:17:02 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】パ首位 オリックス快勝 リーグ20勝一番乗り",
+        "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114931000.html",
+        "pubDate": "Tue, 05 May 2026 21:33:00 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ホワイトソックス 村上宗隆 3試合ぶり14号本塁打 トップに並ぶ",
+        "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114911000.html",
+        "pubDate": "Tue, 05 May 2026 15:32:27 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ドジャース 山本由伸6回3失点3勝目 大谷翔平24打席ノーヒット",
+        "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114851000.html",
+        "pubDate": "Tue, 05 May 2026 15:29:50 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "カブス 鈴木誠也 6号同点スリーランなど2試合連続複数安打",
+        "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114881000.html",
+        "pubDate": "Tue, 05 May 2026 14:32:02 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ブルージェイズ 岡本和真 4試合連続安打もチームは敗れる",
+        "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114871000.html",
+        "pubDate": "Tue, 05 May 2026 13:50:16 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-05-05-daily",
     "id": "1777932700205",
     "date": "2026-05-05",
