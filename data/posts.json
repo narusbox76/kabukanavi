@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-05-07-daily",
+    "id": "1778105135950",
+    "date": "2026-05-07",
+    "generatedAt": "2026-05-07 07:05",
+    "title": "今日の株式市場メモ 2026-05-07",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 米 ガソリン平均販売価格 1ガロン当たり4ドル50セント超える （http://www3.nhk.or.jp/news/html/20260507/k10015115641000.html）\n2. [NHK 経済] NYダウ 600ドル余上昇 ナスダック・S＆P500指数は最高値更新 （http://www3.nhk.or.jp/news/html/20260507/k10015115631000.html）\n3. [NHK 経済] “米とイランが覚書作成で合意に近づく”報道 イランはけん制 （http://www3.nhk.or.jp/news/html/20260507/k10015115511000.html）\n4. [NHK 経済] ゼレンスキー大統領“ロシア軍が停戦後も攻撃”停戦違反と非難 （http://www3.nhk.or.jp/news/html/20260507/k10015115521000.html）\n5. [NHK 経済] G7貿易相会合 重要鉱物の供給網多角化に向けた連携を確認 （http://www3.nhk.or.jp/news/html/20260507/k10015115491000.html）\n6. [NHK ビジネス特集] ハンタウイルス集団感染疑いのクルーズ船 カナリア諸島へ出発 （http://www3.nhk.or.jp/news/html/20260507/k10015115531000.html）\n7. [NHK ビジネス特集] ハンタウイルス集団感染疑いの船 カナリア諸島で受け入れへ （http://www3.nhk.or.jp/news/html/20260506/k10015115241000.html）\n8. [NHK ビジネス特集] ハンタウイルスとは （http://www3.nhk.or.jp/news/html/20260506/k10015115391000.html）\n9. [NHK ビジネス特集] ハンタウイルス 一部でヒトからヒトに感染の可能性も WHO （http://www3.nhk.or.jp/news/html/20260506/k10015115141000.html）\n10. [NHK ビジネス特集] 冥王星より外側の天体に大気の存在を確認 国立天文台など発表 （http://www3.nhk.or.jp/news/html/20260505/k10015113341000.html）\n11. [NHK 国際] J1 特別大会 第15節 名古屋グランパスがWEST首位に浮上 （http://www3.nhk.or.jp/news/html/20260506/k10015115591000.html）\n12. [NHK 国際] 【プロ野球結果】セ首位 阪神の高橋遥人が3試合連続の完封勝利 （http://www3.nhk.or.jp/news/html/20260506/k10015115411000.html）\n13. [NHK 国際] レイカーズ 八村塁 18得点も昨季王者に敗れ黒星スタート （http://www3.nhk.or.jp/news/html/20260506/k10015115331000.html）\n14. [NHK 国際] ドジャース 大谷翔平 投手専念で7回2失点も援護なく2敗目 （http://www3.nhk.or.jp/news/html/20260506/k10015115291000.html）\n15. [NHK 国際] カブス 鈴木誠也 ノーヒットもチームはサヨナラ勝ちで7連勝 （http://www3.nhk.or.jp/news/html/20260506/k10015115301000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "米 ガソリン平均販売価格 1ガロン当たり4ドル50セント超える",
+        "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115641000.html",
+        "pubDate": "Thu, 07 May 2026 06:57:21 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "NYダウ 600ドル余上昇 ナスダック・S＆P500指数は最高値更新",
+        "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115631000.html",
+        "pubDate": "Thu, 07 May 2026 06:43:19 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "“米とイランが覚書作成で合意に近づく”報道 イランはけん制",
+        "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115511000.html",
+        "pubDate": "Thu, 07 May 2026 06:32:54 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ゼレンスキー大統領“ロシア軍が停戦後も攻撃”停戦違反と非難",
+        "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115521000.html",
+        "pubDate": "Thu, 07 May 2026 06:21:28 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "G7貿易相会合 重要鉱物の供給網多角化に向けた連携を確認",
+        "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115491000.html",
+        "pubDate": "Thu, 07 May 2026 06:12:09 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ハンタウイルス集団感染疑いのクルーズ船 カナリア諸島へ出発",
+        "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115531000.html",
+        "pubDate": "Thu, 07 May 2026 06:03:43 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ハンタウイルス集団感染疑いの船 カナリア諸島で受け入れへ",
+        "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115241000.html",
+        "pubDate": "Wed, 06 May 2026 20:50:55 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ハンタウイルスとは",
+        "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115391000.html",
+        "pubDate": "Wed, 06 May 2026 19:38:43 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ハンタウイルス 一部でヒトからヒトに感染の可能性も WHO",
+        "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115141000.html",
+        "pubDate": "Wed, 06 May 2026 05:09:00 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "冥王星より外側の天体に大気の存在を確認 国立天文台など発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260505/k10015113341000.html",
+        "pubDate": "Tue, 05 May 2026 00:00:06 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "J1 特別大会 第15節 名古屋グランパスがWEST首位に浮上",
+        "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115591000.html",
+        "pubDate": "Wed, 06 May 2026 22:44:19 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】セ首位 阪神の高橋遥人が3試合連続の完封勝利",
+        "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115411000.html",
+        "pubDate": "Wed, 06 May 2026 22:09:17 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "レイカーズ 八村塁 18得点も昨季王者に敗れ黒星スタート",
+        "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115331000.html",
+        "pubDate": "Wed, 06 May 2026 15:27:23 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ドジャース 大谷翔平 投手専念で7回2失点も援護なく2敗目",
+        "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115291000.html",
+        "pubDate": "Wed, 06 May 2026 14:28:14 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "カブス 鈴木誠也 ノーヒットもチームはサヨナラ勝ちで7連勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115301000.html",
+        "pubDate": "Wed, 06 May 2026 13:56:59 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-05-06-daily",
     "id": "1778018962601",
     "date": "2026-05-06",
