@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-05-09-daily",
+    "id": "1778278111123",
+    "date": "2026-05-09",
+    "generatedAt": "2026-05-09 07:08",
+    "title": "今日の株式市場メモ 2026-05-09",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] NY市場 ナスダック S＆P500株価指数が最高値更新 （http://www3.nhk.or.jp/news/html/20260509/k10015117311000.html）\n2. [NHK 経済] ハンタウイルス 下船した約30人の追跡調査を強化 WHO （http://www3.nhk.or.jp/news/html/20260509/k10015117291000.html）\n3. [NHK 経済] ロシア・ウクライナ 米提案の3日間停戦に合意 （http://www3.nhk.or.jp/news/html/20260509/k10015117301000.html）\n4. [NHK 経済] 米国務長官“8日中にイランから回答” イランの出方が焦点 （http://www3.nhk.or.jp/news/html/20260508/k10015117231000.html）\n5. [NHK 経済] 香港政府 今年度の青少年交流事業 助成対象に日本含まれず （http://www3.nhk.or.jp/news/html/20260509/k10015117241000.html）\n6. [NHK ビジネス特集] ハンタウイルス 感染した乗客と接触の客室乗務員 陰性確認 （http://www3.nhk.or.jp/news/html/20260508/k10015116921000.html）\n7. [NHK ビジネス特集] はしか感染者400人超える ワクチン接種を （http://www3.nhk.or.jp/news/html/20260508/k10015116741000.html）\n8. [NHK ビジネス特集] 関西電力 美浜原発3号機 蒸気漏れで運転停止 外部への影響なし （http://www3.nhk.or.jp/news/html/20260508/k10015116501000.html）\n9. [NHK ビジネス特集] ハンタウイルス感染拡大 WHO「公衆リスクは低い」 （http://www3.nhk.or.jp/news/html/20260508/k10015116441000.html）\n10. [NHK ビジネス特集] 集団感染疑いのクルーズ船乗客と接触の客室乗務員 感染疑い （http://www3.nhk.or.jp/news/html/20260507/k10015116251000.html）\n11. [NHK 国際] 卓球団体世界選手権 日本女子が準決勝進出でメダル確定 （http://www3.nhk.or.jp/news/html/20260508/k10015117101000.html）\n12. [NHK 国際] 【プロ野球結果】パ首位 オリックスが2本のホームランで4連勝 （http://www3.nhk.or.jp/news/html/20260508/k10015117111000.html）\n13. [NHK 国際] レイカーズ 八村塁 16得点もチームは2連敗 （http://www3.nhk.or.jp/news/html/20260508/k10015116861000.html）\n14. [NHK 国際] IOC 2030年開催冬季五輪への夏競技の一部移行見送り （http://www3.nhk.or.jp/news/html/20260508/k10015116431000.html）\n15. [NHK 国際] 女子ゴルフ 米ツアー 第1R 畑岡奈紗が3打差の6位で好スタート （http://www3.nhk.or.jp/news/html/20260508/k10015116601000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "NY市場 ナスダック S＆P500株価指数が最高値更新",
+        "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117311000.html",
+        "pubDate": "Sat, 09 May 2026 06:42:53 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ハンタウイルス 下船した約30人の追跡調査を強化 WHO",
+        "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117291000.html",
+        "pubDate": "Sat, 09 May 2026 06:41:07 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ロシア・ウクライナ 米提案の3日間停戦に合意",
+        "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117301000.html",
+        "pubDate": "Sat, 09 May 2026 06:31:58 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米国務長官“8日中にイランから回答” イランの出方が焦点",
+        "link": "http://www3.nhk.or.jp/news/html/20260508/k10015117231000.html",
+        "pubDate": "Sat, 09 May 2026 05:35:47 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "香港政府 今年度の青少年交流事業 助成対象に日本含まれず",
+        "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117241000.html",
+        "pubDate": "Sat, 09 May 2026 05:00:58 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ハンタウイルス 感染した乗客と接触の客室乗務員 陰性確認",
+        "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116921000.html",
+        "pubDate": "Fri, 08 May 2026 19:20:05 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "はしか感染者400人超える ワクチン接種を",
+        "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116741000.html",
+        "pubDate": "Fri, 08 May 2026 13:46:21 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "関西電力 美浜原発3号機 蒸気漏れで運転停止 外部への影響なし",
+        "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116501000.html",
+        "pubDate": "Fri, 08 May 2026 11:58:10 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ハンタウイルス感染拡大 WHO「公衆リスクは低い」",
+        "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116441000.html",
+        "pubDate": "Fri, 08 May 2026 11:57:18 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "集団感染疑いのクルーズ船乗客と接触の客室乗務員 感染疑い",
+        "link": "http://www3.nhk.or.jp/news/html/20260507/k10015116251000.html",
+        "pubDate": "Fri, 08 May 2026 04:33:00 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "卓球団体世界選手権 日本女子が準決勝進出でメダル確定",
+        "link": "http://www3.nhk.or.jp/news/html/20260508/k10015117101000.html",
+        "pubDate": "Fri, 08 May 2026 22:31:56 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】パ首位 オリックスが2本のホームランで4連勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260508/k10015117111000.html",
+        "pubDate": "Fri, 08 May 2026 22:09:33 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "レイカーズ 八村塁 16得点もチームは2連敗",
+        "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116861000.html",
+        "pubDate": "Fri, 08 May 2026 16:44:07 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "IOC 2030年開催冬季五輪への夏競技の一部移行見送り",
+        "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116431000.html",
+        "pubDate": "Fri, 08 May 2026 15:55:24 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "女子ゴルフ 米ツアー 第1R 畑岡奈紗が3打差の6位で好スタート",
+        "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116601000.html",
+        "pubDate": "Fri, 08 May 2026 15:54:22 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-05-08-daily",
     "id": "1778191925049",
     "date": "2026-05-08",
