@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-05-10-daily",
+    "id": "1778363802669",
+    "date": "2026-05-10",
+    "generatedAt": "2026-05-10 06:56",
+    "title": "今日の株式市場メモ 2026-05-10",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] トランプ氏 従来の発言繰り返し イランとの協議は先行き不透明 （http://www3.nhk.or.jp/news/html/20260510/k10015117611000.html）\n2. [NHK 経済] ガザ停戦7か月も現地は衛生状況が悪化 皮膚疾患が急増 （http://www3.nhk.or.jp/news/html/20260510/k10015117641000.html）\n3. [NHK 経済] 米提案の停戦 ロシアとウクライナ双方攻撃で実現困難か （http://www3.nhk.or.jp/news/html/20260510/k10015117671000.html）\n4. [NHK 経済] ハンタウイルス クルーズ船 到着へ 乗員・乗客が下船の見通し （http://www3.nhk.or.jp/news/html/20260510/k10015117661000.html）\n5. [NHK 経済] インドとパキスタン 停戦合意から1年 対抗措置継続で緊張続く （http://www3.nhk.or.jp/news/html/20260510/k10015117501000.html）\n6. [NHK ビジネス特集] ハンタウイルス クルーズ船 到着へ 乗員・乗客が下船の見通し （http://www3.nhk.or.jp/news/html/20260510/k10015117661000.html）\n7. [NHK ビジネス特集] 新型コロナワクチン副反応の心筋炎 マウス実験で再現 筑波大 （http://www3.nhk.or.jp/news/html/20260510/k10015117481000.html）\n8. [NHK ビジネス特集] 小説家の鈴木光司さん死去 68歳 「リング」「らせん」など （http://www3.nhk.or.jp/news/html/20260510/k10015117631000.html）\n9. [NHK ビジネス特集] ハンタウイルス クルーズ船到着予定の島で準備進む 抗議活動も （http://www3.nhk.or.jp/news/html/20260509/k10015117411000.html）\n10. [NHK ビジネス特集] 文化庁 ちばてつやさんの原画を保管 制作資料活用の拠点整備へ （http://www3.nhk.or.jp/news/html/20260509/k10015117351000.html）\n11. [NHK 国際] 女子ゴルフ 米ツアー 原英莉花が12位に順位上げ最終ラウンドへ （http://www3.nhk.or.jp/news/html/20260510/k10015117681000.html）\n12. [NHK 国際] 卓球 団体世界選手権 日本男子が4大会ぶりの決勝進出 （http://www3.nhk.or.jp/news/html/20260510/k10015117651000.html）\n13. [NHK 国際] 大相撲夏場所 初日の見どころ 大関復帰の霧島 隆の勝と対戦 （http://www3.nhk.or.jp/news/html/20260510/k10015117541000.html）\n14. [NHK 国際] 卓球 団体世界選手権 日本女子が6大会連続で決勝進出 （http://www3.nhk.or.jp/news/html/20260509/k10015117571000.html）\n15. [NHK 国際] ワールドクライミングシリーズ 鈴木音生が優勝 リード男子 （http://www3.nhk.or.jp/news/html/20260509/k10015117601000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "トランプ氏 従来の発言繰り返し イランとの協議は先行き不透明",
+        "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117611000.html",
+        "pubDate": "Sun, 10 May 2026 06:41:44 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ガザ停戦7か月も現地は衛生状況が悪化 皮膚疾患が急増",
+        "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117641000.html",
+        "pubDate": "Sun, 10 May 2026 06:20:34 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米提案の停戦 ロシアとウクライナ双方攻撃で実現困難か",
+        "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117671000.html",
+        "pubDate": "Sun, 10 May 2026 05:52:43 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ハンタウイルス クルーズ船 到着へ 乗員・乗客が下船の見通し",
+        "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117661000.html",
+        "pubDate": "Sun, 10 May 2026 05:50:33 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "インドとパキスタン 停戦合意から1年 対抗措置継続で緊張続く",
+        "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117501000.html",
+        "pubDate": "Sun, 10 May 2026 05:05:35 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ハンタウイルス クルーズ船 到着へ 乗員・乗客が下船の見通し",
+        "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117661000.html",
+        "pubDate": "Sun, 10 May 2026 05:50:33 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "新型コロナワクチン副反応の心筋炎 マウス実験で再現 筑波大",
+        "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117481000.html",
+        "pubDate": "Sun, 10 May 2026 05:09:10 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "小説家の鈴木光司さん死去 68歳 「リング」「らせん」など",
+        "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117631000.html",
+        "pubDate": "Sun, 10 May 2026 01:45:54 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ハンタウイルス クルーズ船到着予定の島で準備進む 抗議活動も",
+        "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117411000.html",
+        "pubDate": "Sat, 09 May 2026 19:09:41 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "文化庁 ちばてつやさんの原画を保管 制作資料活用の拠点整備へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117351000.html",
+        "pubDate": "Sat, 09 May 2026 11:04:24 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "女子ゴルフ 米ツアー 原英莉花が12位に順位上げ最終ラウンドへ",
+        "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117681000.html",
+        "pubDate": "Sun, 10 May 2026 06:54:30 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "卓球 団体世界選手権 日本男子が4大会ぶりの決勝進出",
+        "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117651000.html",
+        "pubDate": "Sun, 10 May 2026 05:10:21 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲夏場所 初日の見どころ 大関復帰の霧島 隆の勝と対戦",
+        "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117541000.html",
+        "pubDate": "Sun, 10 May 2026 04:50:28 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "卓球 団体世界選手権 日本女子が6大会連続で決勝進出",
+        "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117571000.html",
+        "pubDate": "Sun, 10 May 2026 01:50:36 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ワールドクライミングシリーズ 鈴木音生が優勝 リード男子",
+        "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117601000.html",
+        "pubDate": "Sat, 09 May 2026 23:07:01 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-05-09-daily",
     "id": "1778278111123",
     "date": "2026-05-09",
