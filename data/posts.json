@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-05-14-daily",
+    "id": "1778710921607",
+    "date": "2026-05-14",
+    "generatedAt": "2026-05-14 07:22",
+    "title": "今日の株式市場メモ 2026-05-14",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] ガザ平和評議会 イスラエルとハマスの双方と協議続ける考え （http://www3.nhk.or.jp/news/html/20260514/k10015121081000.html）\n2. [NHK 経済] FRB新議長に元理事のウォーシュ氏 米議会上院で承認 （http://www3.nhk.or.jp/news/html/20260514/k10015121011000.html）\n3. [NHK 経済] イラン情勢受け石油供給量は日量1280万バレル減 IEA （http://www3.nhk.or.jp/news/html/20260514/k10015120981000.html）\n4. [NHK 経済] カンヌ映画祭 深田晃司監督「ナギダイアリー」公式上映 （http://www3.nhk.or.jp/news/html/20260514/k10015121001000.html）\n5. [NHK 経済] ラブロフ外相 日本のロシア産原油輸入に反対しない考え示す （http://www3.nhk.or.jp/news/html/20260514/k10015121071000.html）\n6. [NHK ビジネス特集] カンヌ映画祭 深田晃司監督「ナギダイアリー」公式上映 （http://www3.nhk.or.jp/news/html/20260514/k10015121001000.html）\n7. [NHK ビジネス特集] 脳梗塞の回復に脳内の免疫細胞が関与 東京科学大など （http://www3.nhk.or.jp/news/html/20260514/k10015120961000.html）\n8. [NHK ビジネス特集] 130億年前の原始的な銀河を観測 金沢大など国際研究チーム （http://www3.nhk.or.jp/news/html/20260514/k10015120951000.html）\n9. [NHK ビジネス特集] 美浜原発３号機の蒸気漏れ 規制委員長「点検含め対策検討を」 （http://www3.nhk.or.jp/news/html/20260513/k10015120861000.html）\n10. [NHK ビジネス特集] H3ロケット 6月打ち上げ再開へ 準備「順調」 JAXA （http://www3.nhk.or.jp/news/html/20260513/k10015120871000.html）\n11. [NHK 国際] 巨人 坂本勇人が通算300号ホームラン 史上48人目 （http://www3.nhk.or.jp/news/html/20260514/k10015121051000.html）\n12. [NHK 国際] 大相撲夏場所5日目の見どころ 4連勝の大関霧島は平戸海と対戦 （http://www3.nhk.or.jp/news/html/20260514/k10015120901000.html）\n13. [NHK 国際] 【プロ野球結果】パ・リーグ 西武が今シーズン初の6連勝 （http://www3.nhk.or.jp/news/html/20260513/k10015120891000.html）\n14. [NHK 国際] 体操NHK杯 14日開幕 男子は岡慎之助や橋本大輝などが調整 （http://www3.nhk.or.jp/news/html/20260513/k10015120821000.html）\n15. [NHK 国際] J1特別大会 第12節 神戸5試合ぶり勝ち点3 首位の名古屋と並ぶ （http://www3.nhk.or.jp/news/html/20260513/k10015121021000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "ガザ平和評議会 イスラエルとハマスの双方と協議続ける考え",
+        "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121081000.html",
+        "pubDate": "Thu, 14 May 2026 06:38:53 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "FRB新議長に元理事のウォーシュ氏 米議会上院で承認",
+        "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121011000.html",
+        "pubDate": "Thu, 14 May 2026 06:33:30 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "イラン情勢受け石油供給量は日量1280万バレル減 IEA",
+        "link": "http://www3.nhk.or.jp/news/html/20260514/k10015120981000.html",
+        "pubDate": "Thu, 14 May 2026 06:16:13 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "カンヌ映画祭 深田晃司監督「ナギダイアリー」公式上映",
+        "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121001000.html",
+        "pubDate": "Thu, 14 May 2026 06:05:13 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ラブロフ外相 日本のロシア産原油輸入に反対しない考え示す",
+        "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121071000.html",
+        "pubDate": "Thu, 14 May 2026 05:25:57 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "カンヌ映画祭 深田晃司監督「ナギダイアリー」公式上映",
+        "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121001000.html",
+        "pubDate": "Thu, 14 May 2026 06:05:13 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "脳梗塞の回復に脳内の免疫細胞が関与 東京科学大など",
+        "link": "http://www3.nhk.or.jp/news/html/20260514/k10015120961000.html",
+        "pubDate": "Thu, 14 May 2026 05:37:50 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "130億年前の原始的な銀河を観測 金沢大など国際研究チーム",
+        "link": "http://www3.nhk.or.jp/news/html/20260514/k10015120951000.html",
+        "pubDate": "Thu, 14 May 2026 00:02:06 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "美浜原発３号機の蒸気漏れ 規制委員長「点検含め対策検討を」",
+        "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120861000.html",
+        "pubDate": "Wed, 13 May 2026 22:12:04 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "H3ロケット 6月打ち上げ再開へ 準備「順調」 JAXA",
+        "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120871000.html",
+        "pubDate": "Wed, 13 May 2026 22:04:44 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "巨人 坂本勇人が通算300号ホームラン 史上48人目",
+        "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121051000.html",
+        "pubDate": "Thu, 14 May 2026 06:01:19 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲夏場所5日目の見どころ 4連勝の大関霧島は平戸海と対戦",
+        "link": "http://www3.nhk.or.jp/news/html/20260514/k10015120901000.html",
+        "pubDate": "Thu, 14 May 2026 05:42:09 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】パ・リーグ 西武が今シーズン初の6連勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120891000.html",
+        "pubDate": "Thu, 14 May 2026 00:26:08 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "体操NHK杯 14日開幕 男子は岡慎之助や橋本大輝などが調整",
+        "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120821000.html",
+        "pubDate": "Wed, 13 May 2026 22:45:43 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "J1特別大会 第12節 神戸5試合ぶり勝ち点3 首位の名古屋と並ぶ",
+        "link": "http://www3.nhk.or.jp/news/html/20260513/k10015121021000.html",
+        "pubDate": "Wed, 13 May 2026 22:38:04 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-05-13-daily",
     "id": "1778624436871",
     "date": "2026-05-13",
