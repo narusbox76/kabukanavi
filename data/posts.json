@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-05-17-daily",
+    "id": "1778968769801",
+    "date": "2026-05-17",
+    "generatedAt": "2026-05-17 06:59",
+    "title": "今日の株式市場メモ 2026-05-17",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] ウクライナ政府高官 “デジタル技術で戦い方大きく変容” （http://www3.nhk.or.jp/news/html/20260517/k10015123261000.html）\n2. [NHK 経済] パキスタン内相がイランへ 戦闘終結に向けた協議進展は不透明 （http://www3.nhk.or.jp/news/html/20260517/k10015123791000.html）\n3. [NHK 経済] 米中首脳会談 中国 “一部の品目 関税引き下げで原則合意” （http://www3.nhk.or.jp/news/html/20260517/k10015123771000.html）\n4. [NHK 経済] 【詳細】ロシア ウクライナに軍事侵攻（5月16日の動き） （http://www3.nhk.or.jp/news/html/20260516/k10015107571000.html）\n5. [NHK 経済] NPT再検討会議参加の共産 志位議長“政府は成果文書へ役割を” （http://www3.nhk.or.jp/news/html/20260516/k10015123641000.html）\n6. [NHK ビジネス特集] 将棋「名人戦」 第4局始まる 藤井4連覇か 糸谷が望みつなぐか （http://www3.nhk.or.jp/news/html/20260516/k10015123391000.html）\n7. [NHK ビジネス特集] 【地震】福島第一・第二原発 新たな異常確認されず 東京電力 （http://www3.nhk.or.jp/news/html/20260515/k10015123061000.html）\n8. [NHK ビジネス特集] 「名探偵コナン」毛利蘭役 声優の山崎和佳奈さん死去 61歳 （http://www3.nhk.or.jp/news/html/20260515/k10015122711000.html）\n9. [NHK ビジネス特集] 作家 佐藤愛子さん死去 102歳 「血脈」などの小説で知られる （http://www3.nhk.or.jp/news/html/20260515/k10015122271000.html）\n10. [NHK ビジネス特集] 米高性能AIモデルの対策 来週18日に関係省庁会議開催へ （http://www3.nhk.or.jp/news/html/20260515/k10015122521000.html）\n11. [NHK 国際] 大相撲夏場所 8日目の見どころ 7連勝の霧島は豪ノ山と対戦 （http://www3.nhk.or.jp/news/html/20260517/k10015123741000.html）\n12. [NHK 国際] 体操NHK杯 女子 15歳の西山実沙が初優勝 世界選手権の代表に （http://www3.nhk.or.jp/news/html/20260516/k10015123551000.html）\n13. [NHK 国際] 【プロ野球結果】巨人 去年5月以来の5連勝 西武 連勝7で止まる （http://www3.nhk.or.jp/news/html/20260516/k10015123671000.html）\n14. [NHK 国際] サッカーW杯 チュニジア代表 26人発表 日本の第2戦の相手 （http://www3.nhk.or.jp/news/html/20260516/k10015123731000.html）\n15. [NHK 国際] 大相撲夏場所7日目 大関 霧島 ただ1人 初日から7連勝 （http://www3.nhk.or.jp/news/html/20260516/k10015123661000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナ政府高官 “デジタル技術で戦い方大きく変容”",
+        "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123261000.html",
+        "pubDate": "Sun, 17 May 2026 06:05:31 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "パキスタン内相がイランへ 戦闘終結に向けた協議進展は不透明",
+        "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123791000.html",
+        "pubDate": "Sun, 17 May 2026 05:37:42 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米中首脳会談 中国 “一部の品目 関税引き下げで原則合意”",
+        "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123771000.html",
+        "pubDate": "Sun, 17 May 2026 05:12:10 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【詳細】ロシア ウクライナに軍事侵攻（5月16日の動き）",
+        "link": "http://www3.nhk.or.jp/news/html/20260516/k10015107571000.html",
+        "pubDate": "Sat, 16 May 2026 19:36:12 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "NPT再検討会議参加の共産 志位議長“政府は成果文書へ役割を”",
+        "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123641000.html",
+        "pubDate": "Sat, 16 May 2026 19:05:30 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋「名人戦」 第4局始まる 藤井4連覇か 糸谷が望みつなぐか",
+        "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123391000.html",
+        "pubDate": "Sat, 16 May 2026 20:05:55 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "【地震】福島第一・第二原発 新たな異常確認されず 東京電力",
+        "link": "http://www3.nhk.or.jp/news/html/20260515/k10015123061000.html",
+        "pubDate": "Fri, 15 May 2026 21:17:49 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「名探偵コナン」毛利蘭役 声優の山崎和佳奈さん死去 61歳",
+        "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122711000.html",
+        "pubDate": "Fri, 15 May 2026 17:01:46 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "作家 佐藤愛子さん死去 102歳 「血脈」などの小説で知られる",
+        "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122271000.html",
+        "pubDate": "Fri, 15 May 2026 16:53:11 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "米高性能AIモデルの対策 来週18日に関係省庁会議開催へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122521000.html",
+        "pubDate": "Fri, 15 May 2026 13:22:30 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲夏場所 8日目の見どころ 7連勝の霧島は豪ノ山と対戦",
+        "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123741000.html",
+        "pubDate": "Sun, 17 May 2026 04:58:13 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "体操NHK杯 女子 15歳の西山実沙が初優勝 世界選手権の代表に",
+        "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123551000.html",
+        "pubDate": "Sat, 16 May 2026 22:49:41 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】巨人 去年5月以来の5連勝 西武 連勝7で止まる",
+        "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123671000.html",
+        "pubDate": "Sat, 16 May 2026 22:32:58 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカーW杯 チュニジア代表 26人発表 日本の第2戦の相手",
+        "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123731000.html",
+        "pubDate": "Sat, 16 May 2026 21:43:50 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲夏場所7日目 大関 霧島 ただ1人 初日から7連勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123661000.html",
+        "pubDate": "Sat, 16 May 2026 20:50:06 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-05-16-daily",
     "id": "1778882895503",
     "date": "2026-05-16",
