@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-05-18-daily",
+    "id": "1779055376971",
+    "date": "2026-05-18",
+    "generatedAt": "2026-05-18 07:02",
+    "title": "今日の株式市場メモ 2026-05-18",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] イスラエル UNRWA跡地に軍関連の施設建設へ （http://www3.nhk.or.jp/news/html/20260518/k10015124281000.html）\n2. [NHK 経済] 米政府 米中首脳会談の合意内容公表 経済面強調 台湾言及せず （http://www3.nhk.or.jp/news/html/20260518/k10015124301000.html）\n3. [NHK 経済] トランプ大統領 韓国イ大統領に米中首脳会談の内容を説明 （http://www3.nhk.or.jp/news/html/20260518/k10015124271000.html）\n4. [NHK 経済] 台湾 頼清徳総統 アメリカに武器売却の継続求める （http://www3.nhk.or.jp/news/html/20260518/k10015124261000.html）\n5. [NHK 経済] モスクワ郊外 無人機攻撃3人死亡 ウクライナ 報復だと示唆 （http://www3.nhk.or.jp/news/html/20260517/k10015123951000.html）\n6. [NHK ビジネス特集] 将棋「名人戦」 藤井聡太六冠が4連勝で4連覇 （http://www3.nhk.or.jp/news/html/20260517/k10015124171000.html）\n7. [NHK ビジネス特集] 将棋「名人戦」 第4局始まる 藤井4連覇か 糸谷が望みつなぐか （http://www3.nhk.or.jp/news/html/20260516/k10015123391000.html）\n8. [NHK ビジネス特集] 【地震】福島第一・第二原発 新たな異常確認されず 東京電力 （http://www3.nhk.or.jp/news/html/20260515/k10015123061000.html）\n9. [NHK ビジネス特集] 「名探偵コナン」毛利蘭役 声優の山崎和佳奈さん死去 61歳 （http://www3.nhk.or.jp/news/html/20260515/k10015122711000.html）\n10. [NHK ビジネス特集] 作家 佐藤愛子さん死去 102歳 「血脈」などの小説で知られる （http://www3.nhk.or.jp/news/html/20260515/k10015122271000.html）\n11. [NHK 国際] 大相撲夏場所 9日目の見どころ 大関 霧島が若元春と対戦 （http://www3.nhk.or.jp/news/html/20260518/k10015124251000.html）\n12. [NHK 国際] 体操NHK杯 男子 岡慎之助が逆転で3連覇 世界選手権の代表に （http://www3.nhk.or.jp/news/html/20260517/k10015124021000.html）\n13. [NHK 国際] J1特別大会 第17節 鹿島アントラーズ勝利 EASTの1位確定 （http://www3.nhk.or.jp/news/html/20260518/k10015124241000.html）\n14. [NHK 国際] 【プロ野球結果】西武が逆転勝ち 今シーズン初めて首位に （http://www3.nhk.or.jp/news/html/20260517/k10015124121000.html）\n15. [NHK 国際] アジアパラ会場でパラ陸上の国内大会 久野竜太朗が大会新 （http://www3.nhk.or.jp/news/html/20260517/k10015124141000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "イスラエル UNRWA跡地に軍関連の施設建設へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124281000.html",
+        "pubDate": "Mon, 18 May 2026 06:46:34 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米政府 米中首脳会談の合意内容公表 経済面強調 台湾言及せず",
+        "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124301000.html",
+        "pubDate": "Mon, 18 May 2026 06:45:47 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領 韓国イ大統領に米中首脳会談の内容を説明",
+        "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124271000.html",
+        "pubDate": "Mon, 18 May 2026 06:17:46 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "台湾 頼清徳総統 アメリカに武器売却の継続求める",
+        "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124261000.html",
+        "pubDate": "Mon, 18 May 2026 06:16:45 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "モスクワ郊外 無人機攻撃3人死亡 ウクライナ 報復だと示唆",
+        "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123951000.html",
+        "pubDate": "Mon, 18 May 2026 05:52:32 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋「名人戦」 藤井聡太六冠が4連勝で4連覇",
+        "link": "http://www3.nhk.or.jp/news/html/20260517/k10015124171000.html",
+        "pubDate": "Sun, 17 May 2026 21:07:14 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋「名人戦」 第4局始まる 藤井4連覇か 糸谷が望みつなぐか",
+        "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123391000.html",
+        "pubDate": "Sat, 16 May 2026 20:05:55 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "【地震】福島第一・第二原発 新たな異常確認されず 東京電力",
+        "link": "http://www3.nhk.or.jp/news/html/20260515/k10015123061000.html",
+        "pubDate": "Fri, 15 May 2026 21:17:49 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「名探偵コナン」毛利蘭役 声優の山崎和佳奈さん死去 61歳",
+        "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122711000.html",
+        "pubDate": "Fri, 15 May 2026 17:01:46 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "作家 佐藤愛子さん死去 102歳 「血脈」などの小説で知られる",
+        "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122271000.html",
+        "pubDate": "Fri, 15 May 2026 16:53:11 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲夏場所 9日目の見どころ 大関 霧島が若元春と対戦",
+        "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124251000.html",
+        "pubDate": "Mon, 18 May 2026 05:45:42 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "体操NHK杯 男子 岡慎之助が逆転で3連覇 世界選手権の代表に",
+        "link": "http://www3.nhk.or.jp/news/html/20260517/k10015124021000.html",
+        "pubDate": "Mon, 18 May 2026 00:24:57 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "J1特別大会 第17節 鹿島アントラーズ勝利 EASTの1位確定",
+        "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124241000.html",
+        "pubDate": "Mon, 18 May 2026 00:01:47 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】西武が逆転勝ち 今シーズン初めて首位に",
+        "link": "http://www3.nhk.or.jp/news/html/20260517/k10015124121000.html",
+        "pubDate": "Sun, 17 May 2026 21:32:28 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "アジアパラ会場でパラ陸上の国内大会 久野竜太朗が大会新",
+        "link": "http://www3.nhk.or.jp/news/html/20260517/k10015124141000.html",
+        "pubDate": "Sun, 17 May 2026 21:17:54 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-05-17-daily",
     "id": "1778968769801",
     "date": "2026-05-17",
