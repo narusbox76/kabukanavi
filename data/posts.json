@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-05-22-daily",
+    "id": "1779403075056",
+    "date": "2026-05-22",
+    "generatedAt": "2026-05-22 07:37",
+    "title": "今日の株式市場メモ 2026-05-22",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] NYダウ 3か月ぶり最高値更新 米イラン協議の進展観測で （http://www3.nhk.or.jp/news/html/20260522/k10015128321000.html）\n2. [NHK 経済] 米国務長官“キューバ外交解決望むも現状は可能性高くない” （http://www3.nhk.or.jp/news/html/20260522/k10015128311000.html）\n3. [NHK 経済] イランが米の新文書を検討か 米国務長官「よい兆しも」 （http://www3.nhk.or.jp/news/html/20260522/k10015128231000.html）\n4. [NHK 経済] ウクライナで「ビシバンカの日」市民が伝統衣装で結束を確認 （http://www3.nhk.or.jp/news/html/20260522/k10015128281000.html）\n5. [NHK 経済] ゼレンスキー大統領 “ロシア治安機関を攻撃 約100人死傷” （http://www3.nhk.or.jp/news/html/20260522/k10015128291000.html）\n6. [NHK ビジネス特集] 加熱式たばこ受動喫煙 健康影響「強い関連認められず」研究班 （http://www3.nhk.or.jp/news/html/20260521/k10015127251000.html）\n7. [NHK ビジネス特集] 高市首相 宇宙飛行士の油井さん 大西さんと面会 支援続ける （http://www3.nhk.or.jp/news/html/20260521/k10015128051000.html）\n8. [NHK ビジネス特集] エボラ出血熱 “世界的流行のリスクは低い” WHOが改めて強調 （http://www3.nhk.or.jp/news/html/20260520/k10015127161000.html）\n9. [NHK ビジネス特集] エボラ出血熱 世界中に広がるおそれは？【Q＆A】 （http://www3.nhk.or.jp/news/html/20260520/k10015126661000.html）\n10. [NHK ビジネス特集] 最も使用された曲1位はMrs. GREEN APPLEの「ライラック」 （http://www3.nhk.or.jp/news/html/20260520/k10015126941000.html）\n11. [NHK 国際] 大相撲夏場所13日目 大関 霧島 琴栄峰と2敗どうしの直接対決 （http://www3.nhk.or.jp/news/html/20260522/k10015128221000.html）\n12. [NHK 国際] 【プロ野球結果】巨人 ヤクルトに敗れ 5年ぶりの8連勝ならず （http://www3.nhk.or.jp/news/html/20260521/k10015128181000.html）\n13. [NHK 国際] 大相撲夏場所12日目 霧島が勝ち 琴栄峰とともに優勝争いトップ （http://www3.nhk.or.jp/news/html/20260521/k10015127771000.html）\n14. [NHK 国際] レスリング全日本選抜選手権 パリ五輪金の樋口実戦復帰 （http://www3.nhk.or.jp/news/html/20260521/k10015128101000.html）\n15. [NHK 国際] サッカー日本代表 吉田麻也を招集 アイスランド戦まで同行へ （http://www3.nhk.or.jp/news/html/20260521/k10015128071000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "NYダウ 3か月ぶり最高値更新 米イラン協議の進展観測で",
+        "link": "http://www3.nhk.or.jp/news/html/20260522/k10015128321000.html",
+        "pubDate": "Fri, 22 May 2026 06:49:03 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米国務長官“キューバ外交解決望むも現状は可能性高くない”",
+        "link": "http://www3.nhk.or.jp/news/html/20260522/k10015128311000.html",
+        "pubDate": "Fri, 22 May 2026 06:46:08 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "イランが米の新文書を検討か 米国務長官「よい兆しも」",
+        "link": "http://www3.nhk.or.jp/news/html/20260522/k10015128231000.html",
+        "pubDate": "Fri, 22 May 2026 05:54:37 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナで「ビシバンカの日」市民が伝統衣装で結束を確認",
+        "link": "http://www3.nhk.or.jp/news/html/20260522/k10015128281000.html",
+        "pubDate": "Fri, 22 May 2026 05:15:59 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ゼレンスキー大統領 “ロシア治安機関を攻撃 約100人死傷”",
+        "link": "http://www3.nhk.or.jp/news/html/20260522/k10015128291000.html",
+        "pubDate": "Fri, 22 May 2026 05:12:44 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "加熱式たばこ受動喫煙 健康影響「強い関連認められず」研究班",
+        "link": "http://www3.nhk.or.jp/news/html/20260521/k10015127251000.html",
+        "pubDate": "Thu, 21 May 2026 19:14:50 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "高市首相 宇宙飛行士の油井さん 大西さんと面会 支援続ける",
+        "link": "http://www3.nhk.or.jp/news/html/20260521/k10015128051000.html",
+        "pubDate": "Thu, 21 May 2026 18:45:01 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "エボラ出血熱 “世界的流行のリスクは低い” WHOが改めて強調",
+        "link": "http://www3.nhk.or.jp/news/html/20260520/k10015127161000.html",
+        "pubDate": "Wed, 20 May 2026 23:41:22 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "エボラ出血熱 世界中に広がるおそれは？【Q＆A】",
+        "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126661000.html",
+        "pubDate": "Wed, 20 May 2026 20:27:59 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "最も使用された曲1位はMrs. GREEN APPLEの「ライラック」",
+        "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126941000.html",
+        "pubDate": "Wed, 20 May 2026 19:45:33 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲夏場所13日目 大関 霧島 琴栄峰と2敗どうしの直接対決",
+        "link": "http://www3.nhk.or.jp/news/html/20260522/k10015128221000.html",
+        "pubDate": "Fri, 22 May 2026 05:04:08 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】巨人 ヤクルトに敗れ 5年ぶりの8連勝ならず",
+        "link": "http://www3.nhk.or.jp/news/html/20260521/k10015128181000.html",
+        "pubDate": "Thu, 21 May 2026 22:41:59 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲夏場所12日目 霧島が勝ち 琴栄峰とともに優勝争いトップ",
+        "link": "http://www3.nhk.or.jp/news/html/20260521/k10015127771000.html",
+        "pubDate": "Thu, 21 May 2026 21:08:43 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "レスリング全日本選抜選手権 パリ五輪金の樋口実戦復帰",
+        "link": "http://www3.nhk.or.jp/news/html/20260521/k10015128101000.html",
+        "pubDate": "Thu, 21 May 2026 19:46:08 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカー日本代表 吉田麻也を招集 アイスランド戦まで同行へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260521/k10015128071000.html",
+        "pubDate": "Thu, 21 May 2026 19:37:21 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-05-21-daily",
     "id": "1779316840949",
     "date": "2026-05-21",
