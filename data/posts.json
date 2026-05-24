@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-05-25-daily",
+    "id": "1779660348168",
+    "date": "2026-05-25",
+    "generatedAt": "2026-05-25 07:05",
+    "title": "今日の株式市場メモ 2026-05-25",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] トランプ大統領「急いで合意するなと指示」イラン情勢めぐり （http://www3.nhk.or.jp/news/html/20260525/k10015130431000.html）\n2. [NHK 経済] ホルムズ海峡通過の原油タンカー きょうにも初めて日本到着へ （http://www3.nhk.or.jp/news/html/20260525/k10015130441000.html）\n3. [NHK 経済] パキスタン南西部で爆発23人死亡 反政府武装勢力が犯行声明 （http://www3.nhk.or.jp/news/html/20260524/k10015130411000.html）\n4. [NHK 経済] トランプ大統領 イランと「最終調整の段階」詰めの協議続くか （http://www3.nhk.or.jp/news/html/20260524/k10015130141000.html）\n5. [NHK 経済] 【詳細】ロシア ウクライナに軍事侵攻（5月24日の動き） （http://www3.nhk.or.jp/news/html/20260524/k10015112821000.html）\n6. [NHK ビジネス特集] H3ロケット6号機公開 新形態で6月打ち上げ JAXA （http://www3.nhk.or.jp/news/html/20260524/k10015130361000.html）\n7. [NHK ビジネス特集] カンヌ映画祭 最優秀女優賞に岡本多緒さん 日本人初 （http://www3.nhk.or.jp/news/html/20260524/k10015129961000.html）\n8. [NHK ビジネス特集] 福島 相馬地方伝統の「相馬野馬追」 騎馬武者が練り歩く （http://www3.nhk.or.jp/news/html/20260524/k10015130161000.html）\n9. [NHK ビジネス特集] 細かい凹凸で空気抵抗抑える可能性 航空機へ応用目指す 東北大 （http://www3.nhk.or.jp/news/html/20260524/k10015130011000.html）\n10. [NHK ビジネス特集] 将棋 叡王戦第4局 斎藤八段勝って2勝2敗 決着は最終局に （http://www3.nhk.or.jp/news/html/20260523/k10015129901000.html）\n11. [NHK 国際] ブルージェイズ 岡本和真 20打席ぶりのヒット （http://www3.nhk.or.jp/news/html/20260525/k10015130531000.html）\n12. [NHK 国際] J1特別大会 第18節 WEST セレッソ大阪 3連勝で2位に順位上げる （http://www3.nhk.or.jp/news/html/20260524/k10015130501000.html）\n13. [NHK 国際] 【プロ野球結果】阪神 5連勝で首位に パ・リーグは西武が首位 （http://www3.nhk.or.jp/news/html/20260524/k10015130401000.html）\n14. [NHK 国際] 大相撲夏場所 小結 若隆景が優勝 令和4年春場所以来2回目 （http://www3.nhk.or.jp/news/html/20260524/k10015130341000.html）\n15. [NHK 国際] レスリング全日本選抜選手権 藤波朱理が優勝 公式戦連勝153に （http://www3.nhk.or.jp/news/html/20260524/k10015130471000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領「急いで合意するなと指示」イラン情勢めぐり",
+        "link": "http://www3.nhk.or.jp/news/html/20260525/k10015130431000.html",
+        "pubDate": "Mon, 25 May 2026 05:25:10 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ホルムズ海峡通過の原油タンカー きょうにも初めて日本到着へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260525/k10015130441000.html",
+        "pubDate": "Mon, 25 May 2026 05:07:08 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "パキスタン南西部で爆発23人死亡 反政府武装勢力が犯行声明",
+        "link": "http://www3.nhk.or.jp/news/html/20260524/k10015130411000.html",
+        "pubDate": "Sun, 24 May 2026 19:59:00 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領 イランと「最終調整の段階」詰めの協議続くか",
+        "link": "http://www3.nhk.or.jp/news/html/20260524/k10015130141000.html",
+        "pubDate": "Sun, 24 May 2026 19:57:01 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【詳細】ロシア ウクライナに軍事侵攻（5月24日の動き）",
+        "link": "http://www3.nhk.or.jp/news/html/20260524/k10015112821000.html",
+        "pubDate": "Sun, 24 May 2026 19:51:20 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "H3ロケット6号機公開 新形態で6月打ち上げ JAXA",
+        "link": "http://www3.nhk.or.jp/news/html/20260524/k10015130361000.html",
+        "pubDate": "Sun, 24 May 2026 18:15:51 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "カンヌ映画祭 最優秀女優賞に岡本多緒さん 日本人初",
+        "link": "http://www3.nhk.or.jp/news/html/20260524/k10015129961000.html",
+        "pubDate": "Sun, 24 May 2026 18:11:21 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "福島 相馬地方伝統の「相馬野馬追」 騎馬武者が練り歩く",
+        "link": "http://www3.nhk.or.jp/news/html/20260524/k10015130161000.html",
+        "pubDate": "Sun, 24 May 2026 14:35:17 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "細かい凹凸で空気抵抗抑える可能性 航空機へ応用目指す 東北大",
+        "link": "http://www3.nhk.or.jp/news/html/20260524/k10015130011000.html",
+        "pubDate": "Sun, 24 May 2026 05:14:54 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋 叡王戦第4局 斎藤八段勝って2勝2敗 決着は最終局に",
+        "link": "http://www3.nhk.or.jp/news/html/20260523/k10015129901000.html",
+        "pubDate": "Sat, 23 May 2026 21:31:07 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ブルージェイズ 岡本和真 20打席ぶりのヒット",
+        "link": "http://www3.nhk.or.jp/news/html/20260525/k10015130531000.html",
+        "pubDate": "Mon, 25 May 2026 06:47:54 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "J1特別大会 第18節 WEST セレッソ大阪 3連勝で2位に順位上げる",
+        "link": "http://www3.nhk.or.jp/news/html/20260524/k10015130501000.html",
+        "pubDate": "Sun, 24 May 2026 22:34:58 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】阪神 5連勝で首位に パ・リーグは西武が首位",
+        "link": "http://www3.nhk.or.jp/news/html/20260524/k10015130401000.html",
+        "pubDate": "Sun, 24 May 2026 22:13:02 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲夏場所 小結 若隆景が優勝 令和4年春場所以来2回目",
+        "link": "http://www3.nhk.or.jp/news/html/20260524/k10015130341000.html",
+        "pubDate": "Sun, 24 May 2026 21:26:17 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "レスリング全日本選抜選手権 藤波朱理が優勝 公式戦連勝153に",
+        "link": "http://www3.nhk.or.jp/news/html/20260524/k10015130471000.html",
+        "pubDate": "Sun, 24 May 2026 20:39:50 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-05-24-daily",
     "id": "1779573776146",
     "date": "2026-05-24",
