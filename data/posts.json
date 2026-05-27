@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-05-28-daily",
+    "id": "1779922072594",
+    "date": "2026-05-28",
+    "generatedAt": "2026-05-28 07:47",
+    "title": "今日の株式市場メモ 2026-05-28",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 日本企業の資産保護に向けて日本政府幹部がロシア訪問 （http://www3.nhk.or.jp/news/html/20260528/k10015133451000.html）\n2. [NHK 経済] NY株式市場 ダウ平均株価など最高値更新 ホルムズ海峡回復期待 （http://www3.nhk.or.jp/news/html/20260528/k10015133541000.html）\n3. [NHK 経済] フィリピン 日本の「武器」輸出に期待 島しょ防衛能力向上へ （http://www3.nhk.or.jp/news/html/20260528/k10015133111000.html）\n4. [NHK 経済] 高市首相 フィリピン大統領と会談し経済連携協定見直し検討へ （http://www3.nhk.or.jp/news/html/20260528/k10015133431000.html）\n5. [NHK 経済] 軍事作戦開始3か月 トランプ大統領“イランと合意に至らず” （http://www3.nhk.or.jp/news/html/20260528/k10015133441000.html）\n6. [NHK ビジネス特集] 原子力規制委 浜岡原発データ不正受け 罰則の導入検討 （http://www3.nhk.or.jp/news/html/20260527/k10015133071000.html）\n7. [NHK ビジネス特集] 大阪松竹座 最後の公演 103年の歴史に幕 大阪・道頓堀 （http://www3.nhk.or.jp/news/html/20260527/k10015132281000.html）\n8. [NHK ビジネス特集] 本の情報誌「ダ・ヴィンチ」休刊へ 10月発売号を最後に （http://www3.nhk.or.jp/news/html/20260526/k10015132001000.html）\n9. [NHK ビジネス特集] ローマ教皇 就任後初の重要文書 AIの軍事利用に懸念示す （http://www3.nhk.or.jp/news/html/20260526/k10015131961000.html）\n10. [NHK ビジネス特集] カンヌ映画祭 最優秀女優賞 岡本多緒さんら会見【動画】 （http://www3.nhk.or.jp/news/html/20260526/k10015131491000.html）\n11. [NHK 国際] 【プロ野球結果】5連敗中の巨人 ベテランの活躍で連敗止める （http://www3.nhk.or.jp/news/html/20260527/k10015133311000.html）\n12. [NHK 国際] プロ野球 FA権での移籍に伴う「選手による補償」撤廃方針 NPB （http://www3.nhk.or.jp/news/html/20260527/k10015133121000.html）\n13. [NHK 国際] ホワイトソックス村上宗隆 19号同点ツーラン 西田も攻守で活躍 （http://www3.nhk.or.jp/news/html/20260527/k10015132741000.html）\n14. [NHK 国際] 元ヤクルト ホーナー氏が死去 68歳 日本球界に鮮烈な印象 （http://www3.nhk.or.jp/news/html/20260527/k10015132581000.html）\n15. [NHK 国際] ドジャース大谷翔平 死球後代打送られる あすの登板に支障なし （http://www3.nhk.or.jp/news/html/20260527/k10015132871000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "日本企業の資産保護に向けて日本政府幹部がロシア訪問",
+        "link": "http://www3.nhk.or.jp/news/html/20260528/k10015133451000.html",
+        "pubDate": "Thu, 28 May 2026 06:46:38 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "NY株式市場 ダウ平均株価など最高値更新 ホルムズ海峡回復期待",
+        "link": "http://www3.nhk.or.jp/news/html/20260528/k10015133541000.html",
+        "pubDate": "Thu, 28 May 2026 06:38:27 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "フィリピン 日本の「武器」輸出に期待 島しょ防衛能力向上へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260528/k10015133111000.html",
+        "pubDate": "Thu, 28 May 2026 06:13:48 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "高市首相 フィリピン大統領と会談し経済連携協定見直し検討へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260528/k10015133431000.html",
+        "pubDate": "Thu, 28 May 2026 06:08:48 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "軍事作戦開始3か月 トランプ大統領“イランと合意に至らず”",
+        "link": "http://www3.nhk.or.jp/news/html/20260528/k10015133441000.html",
+        "pubDate": "Thu, 28 May 2026 05:45:59 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "原子力規制委 浜岡原発データ不正受け 罰則の導入検討",
+        "link": "http://www3.nhk.or.jp/news/html/20260527/k10015133071000.html",
+        "pubDate": "Wed, 27 May 2026 17:52:47 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "大阪松竹座 最後の公演 103年の歴史に幕 大阪・道頓堀",
+        "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132281000.html",
+        "pubDate": "Wed, 27 May 2026 04:10:13 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "本の情報誌「ダ・ヴィンチ」休刊へ 10月発売号を最後に",
+        "link": "http://www3.nhk.or.jp/news/html/20260526/k10015132001000.html",
+        "pubDate": "Tue, 26 May 2026 18:08:07 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ローマ教皇 就任後初の重要文書 AIの軍事利用に懸念示す",
+        "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131961000.html",
+        "pubDate": "Tue, 26 May 2026 18:00:47 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "カンヌ映画祭 最優秀女優賞 岡本多緒さんら会見【動画】",
+        "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131491000.html",
+        "pubDate": "Tue, 26 May 2026 17:24:41 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】5連敗中の巨人 ベテランの活躍で連敗止める",
+        "link": "http://www3.nhk.or.jp/news/html/20260527/k10015133311000.html",
+        "pubDate": "Wed, 27 May 2026 23:54:16 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "プロ野球 FA権での移籍に伴う「選手による補償」撤廃方針 NPB",
+        "link": "http://www3.nhk.or.jp/news/html/20260527/k10015133121000.html",
+        "pubDate": "Wed, 27 May 2026 18:47:01 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ホワイトソックス村上宗隆 19号同点ツーラン 西田も攻守で活躍",
+        "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132741000.html",
+        "pubDate": "Wed, 27 May 2026 17:29:57 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "元ヤクルト ホーナー氏が死去 68歳 日本球界に鮮烈な印象",
+        "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132581000.html",
+        "pubDate": "Wed, 27 May 2026 16:42:30 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ドジャース大谷翔平 死球後代打送られる あすの登板に支障なし",
+        "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132871000.html",
+        "pubDate": "Wed, 27 May 2026 15:49:51 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-05-27-daily",
     "id": "1779835010992",
     "date": "2026-05-27",
