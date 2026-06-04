@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-06-05-daily",
+    "id": "1780612875414",
+    "date": "2026-06-05",
+    "generatedAt": "2026-06-05 07:41",
+    "title": "今日の株式市場メモ 2026-06-05",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] スペースX 来週にもナスダック上場へ 調達資金は過去最大規模 （http://www3.nhk.or.jp/news/html/20260605/k10015141561000.html）\n2. [NHK 経済] “イスラエルとレバノン停戦履行で合意”米発表も先行き不透明 （http://www3.nhk.or.jp/news/html/20260605/k10015141571000.html）\n3. [NHK 経済] NYダウ平均株価最高値 半導体からの資金移転の動きで （http://www3.nhk.or.jp/news/html/20260605/k10015141631000.html）\n4. [NHK 経済] 天安門事件から37年 台湾で追悼集会 香港では追悼封じ込め続く （http://www3.nhk.or.jp/news/html/20260605/k10015141551000.html）\n5. [NHK 経済] イスラエルとレバノン停戦履行合意 米イラン協議の進展が焦点 （http://www3.nhk.or.jp/news/html/20260604/k10015140141000.html）\n6. [NHK ビジネス特集] 将棋「棋聖戦」第1局 藤井聡太六冠が白星スタート （http://www3.nhk.or.jp/news/html/20260604/k10015141591000.html）\n7. [NHK ビジネス特集] 量子技術の産業利用目指し 企業や研究者などが都内で国際会議 （http://www3.nhk.or.jp/news/html/20260604/k10015141461000.html）\n8. [NHK ビジネス特集] 2028年春の朝ドラは「ほんのモキチ」 ヒロインは河合優実さん （http://www3.nhk.or.jp/news/html/20260604/k10015140391000.html）\n9. [NHK ビジネス特集] がん予防法 最新版 お酒は「節酒」から「ひかえる」推奨に変更 （http://www3.nhk.or.jp/news/html/20260603/k10015139971000.html）\n10. [NHK ビジネス特集] IHIエアロスペース JAXAから5か月間の競争参加資格停止処分 （http://www3.nhk.or.jp/news/html/20260602/k10015138671000.html）\n11. [NHK 国際] 【プロ野球結果】ソフトバンク7連勝 DeNAは猛攻でサヨナラ勝ち （http://www3.nhk.or.jp/news/html/20260604/k10015141581000.html）\n12. [NHK 国際] 競泳日本選手権 男子100ｍ平泳ぎ 岡留大和が大橋信を破り優勝 （http://www3.nhk.or.jp/news/html/20260604/k10015141471000.html）\n13. [NHK 国際] ドジャース 大谷翔平 二刀流出場で今季6勝目 打者でも3安打 （http://www3.nhk.or.jp/news/html/20260604/k10015140821000.html）\n14. [NHK 国際] 米大リーグ オールスター ファン投票開始 大谷や村上ら候補に （http://www3.nhk.or.jp/news/html/20260604/k10015141351000.html）\n15. [NHK 国際] 決勝は最安値で100万円超？ “高すぎる”W杯にアメリカで物議 （http://www3.nhk.or.jp/news/html/20260604/k10015140841000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "スペースX 来週にもナスダック上場へ 調達資金は過去最大規模",
+        "link": "http://www3.nhk.or.jp/news/html/20260605/k10015141561000.html",
+        "pubDate": "Fri, 05 Jun 2026 07:15:56 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "“イスラエルとレバノン停戦履行で合意”米発表も先行き不透明",
+        "link": "http://www3.nhk.or.jp/news/html/20260605/k10015141571000.html",
+        "pubDate": "Fri, 05 Jun 2026 06:43:50 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "NYダウ平均株価最高値 半導体からの資金移転の動きで",
+        "link": "http://www3.nhk.or.jp/news/html/20260605/k10015141631000.html",
+        "pubDate": "Fri, 05 Jun 2026 06:34:48 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "天安門事件から37年 台湾で追悼集会 香港では追悼封じ込め続く",
+        "link": "http://www3.nhk.or.jp/news/html/20260605/k10015141551000.html",
+        "pubDate": "Fri, 05 Jun 2026 05:44:49 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "イスラエルとレバノン停戦履行合意 米イラン協議の進展が焦点",
+        "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140141000.html",
+        "pubDate": "Thu, 04 Jun 2026 23:02:24 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋「棋聖戦」第1局 藤井聡太六冠が白星スタート",
+        "link": "http://www3.nhk.or.jp/news/html/20260604/k10015141591000.html",
+        "pubDate": "Thu, 04 Jun 2026 21:59:00 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "量子技術の産業利用目指し 企業や研究者などが都内で国際会議",
+        "link": "http://www3.nhk.or.jp/news/html/20260604/k10015141461000.html",
+        "pubDate": "Thu, 04 Jun 2026 20:39:24 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "2028年春の朝ドラは「ほんのモキチ」 ヒロインは河合優実さん",
+        "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140391000.html",
+        "pubDate": "Thu, 04 Jun 2026 15:52:24 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "がん予防法 最新版 お酒は「節酒」から「ひかえる」推奨に変更",
+        "link": "http://www3.nhk.or.jp/news/html/20260603/k10015139971000.html",
+        "pubDate": "Wed, 03 Jun 2026 20:28:12 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "IHIエアロスペース JAXAから5か月間の競争参加資格停止処分",
+        "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138671000.html",
+        "pubDate": "Tue, 02 Jun 2026 20:56:37 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】ソフトバンク7連勝 DeNAは猛攻でサヨナラ勝ち",
+        "link": "http://www3.nhk.or.jp/news/html/20260604/k10015141581000.html",
+        "pubDate": "Fri, 05 Jun 2026 00:14:38 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "競泳日本選手権 男子100ｍ平泳ぎ 岡留大和が大橋信を破り優勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260604/k10015141471000.html",
+        "pubDate": "Thu, 04 Jun 2026 20:58:14 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ドジャース 大谷翔平 二刀流出場で今季6勝目 打者でも3安打",
+        "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140821000.html",
+        "pubDate": "Thu, 04 Jun 2026 19:20:10 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "米大リーグ オールスター ファン投票開始 大谷や村上ら候補に",
+        "link": "http://www3.nhk.or.jp/news/html/20260604/k10015141351000.html",
+        "pubDate": "Thu, 04 Jun 2026 18:57:19 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "決勝は最安値で100万円超？ “高すぎる”W杯にアメリカで物議",
+        "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140841000.html",
+        "pubDate": "Thu, 04 Jun 2026 18:27:35 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-06-04-daily",
     "id": "1780528128992",
     "date": "2026-06-04",
