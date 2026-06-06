@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-06-07-daily",
+    "id": "1780783999415",
+    "date": "2026-06-07",
+    "generatedAt": "2026-06-07 07:13",
+    "title": "今日の株式市場メモ 2026-06-07",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 中国が台湾東の海域で特別取り締まり 日本とフィリピンに対抗 （http://www3.nhk.or.jp/news/html/20260607/k10015143151000.html）\n2. [NHK 経済] 米・イスラエル イランへの軍事作戦100日 終結見通せず （http://www3.nhk.or.jp/news/html/20260607/k10015143161000.html）\n3. [NHK 経済] カンボジア詐欺拠点の幹部か タイで日本人の男を拘束 警察発表 （http://www3.nhk.or.jp/news/html/20260607/k10015143041000.html）\n4. [NHK 経済] ウクライナがロシアの石油施設など攻撃 戦闘終結に向け圧力か （http://www3.nhk.or.jp/news/html/20260607/k10015143171000.html）\n5. [NHK 経済] パレスチナ・ヨルダン川西岸で乳児がイスラエル軍に撃たれ死亡 （http://www3.nhk.or.jp/news/html/20260607/k10015143131000.html）\n6. [NHK ビジネス特集] 日本列島のナウマンゾウ これまでの推定より1万年早く絶滅か （http://www3.nhk.or.jp/news/html/20260607/k10015143021000.html）\n7. [NHK ビジネス特集] 福島県内の7割の地域 放射線量が全国と同レベルに （http://www3.nhk.or.jp/news/html/20260606/k10015142831000.html）\n8. [NHK ビジネス特集] 将棋 加藤一二三さんお別れの会 連盟から「名誉十段」贈られる （http://www3.nhk.or.jp/news/html/20260606/k10015142901000.html）\n9. [NHK ビジネス特集] 奈良の「飛鳥・藤原の宮都」世界文化遺産に登録される見通しに （http://www3.nhk.or.jp/news/html/20260606/k10015142291000.html）\n10. [NHK ビジネス特集] 将棋 編入試験の資格3回でプロ棋士案 反対多数で否決 （http://www3.nhk.or.jp/news/html/20260606/k10015142531000.html）\n11. [NHK 国際] 小田凱人4連覇 テニス全仏オープン 車いすの部 男子シングルス （http://www3.nhk.or.jp/news/html/20260606/k10015143121000.html）\n12. [NHK 国際] 【プロ野球結果】阪神 ルーキー立石が適時打 リーグ首位に浮上 （http://www3.nhk.or.jp/news/html/20260606/k10015143101000.html）\n13. [NHK 国際] トランプ政権 “W杯イラン選手にビザ発給”も一部は発給拒否か （http://www3.nhk.or.jp/news/html/20260606/k10015142751000.html）\n14. [NHK 国際] サッカーJ1特別大会 ヴィッセル神戸が優勝 鹿島に2戦合計 勝利 （http://www3.nhk.or.jp/news/html/20260606/k10015142991000.html）\n15. [NHK 国際] 世界を見据えた“好奇心” バレーボール女子日本代表 宮部藍梨 （http://www3.nhk.or.jp/news/html/20260606/k10015142391000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "中国が台湾東の海域で特別取り締まり 日本とフィリピンに対抗",
+        "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143151000.html",
+        "pubDate": "Sun, 07 Jun 2026 06:42:58 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米・イスラエル イランへの軍事作戦100日 終結見通せず",
+        "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143161000.html",
+        "pubDate": "Sun, 07 Jun 2026 06:23:02 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "カンボジア詐欺拠点の幹部か タイで日本人の男を拘束 警察発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143041000.html",
+        "pubDate": "Sun, 07 Jun 2026 06:17:27 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナがロシアの石油施設など攻撃 戦闘終結に向け圧力か",
+        "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143171000.html",
+        "pubDate": "Sun, 07 Jun 2026 05:47:41 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "パレスチナ・ヨルダン川西岸で乳児がイスラエル軍に撃たれ死亡",
+        "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143131000.html",
+        "pubDate": "Sun, 07 Jun 2026 05:13:27 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "日本列島のナウマンゾウ これまでの推定より1万年早く絶滅か",
+        "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143021000.html",
+        "pubDate": "Sun, 07 Jun 2026 05:45:34 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "福島県内の7割の地域 放射線量が全国と同レベルに",
+        "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142831000.html",
+        "pubDate": "Sat, 06 Jun 2026 18:19:19 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋 加藤一二三さんお別れの会 連盟から「名誉十段」贈られる",
+        "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142901000.html",
+        "pubDate": "Sat, 06 Jun 2026 16:13:56 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "奈良の「飛鳥・藤原の宮都」世界文化遺産に登録される見通しに",
+        "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142291000.html",
+        "pubDate": "Sat, 06 Jun 2026 15:23:45 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋 編入試験の資格3回でプロ棋士案 反対多数で否決",
+        "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142531000.html",
+        "pubDate": "Sat, 06 Jun 2026 08:19:39 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "小田凱人4連覇 テニス全仏オープン 車いすの部 男子シングルス",
+        "link": "http://www3.nhk.or.jp/news/html/20260606/k10015143121000.html",
+        "pubDate": "Sat, 06 Jun 2026 23:29:47 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】阪神 ルーキー立石が適時打 リーグ首位に浮上",
+        "link": "http://www3.nhk.or.jp/news/html/20260606/k10015143101000.html",
+        "pubDate": "Sat, 06 Jun 2026 22:54:55 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "トランプ政権 “W杯イラン選手にビザ発給”も一部は発給拒否か",
+        "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142751000.html",
+        "pubDate": "Sat, 06 Jun 2026 22:32:31 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカーJ1特別大会 ヴィッセル神戸が優勝 鹿島に2戦合計 勝利",
+        "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142991000.html",
+        "pubDate": "Sat, 06 Jun 2026 22:14:30 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "世界を見据えた“好奇心” バレーボール女子日本代表 宮部藍梨",
+        "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142391000.html",
+        "pubDate": "Sat, 06 Jun 2026 21:22:22 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-06-06-daily",
     "id": "1780698108485",
     "date": "2026-06-06",
