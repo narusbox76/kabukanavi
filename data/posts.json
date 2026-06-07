@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-06-08-daily",
+    "id": "1780870474040",
+    "date": "2026-06-08",
+    "generatedAt": "2026-06-08 07:14",
+    "title": "今日の株式市場メモ 2026-06-08",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] “核兵器への依存強まり核軍縮に逆行”スウェーデン研究機関 （http://www3.nhk.or.jp/news/html/20260608/k10015143671000.html）\n2. [NHK 経済] “イランからミサイル発射”イスラエル軍発表 攻撃応酬が激化 （http://www3.nhk.or.jp/news/html/20260608/k10015143631000.html）\n3. [NHK 経済] OPECプラスの7か国 7月も増産へ ホルムズ海峡開放の場合に備え （http://www3.nhk.or.jp/news/html/20260608/k10015143681000.html）\n4. [NHK 経済] 中国 習近平国家主席 きょうから北朝鮮訪問へ （http://www3.nhk.or.jp/news/html/20260608/k10015143601000.html）\n5. [NHK 経済] ゼレンスキー大統領が英仏独首脳と会談 打開策探るねらいか （http://www3.nhk.or.jp/news/html/20260608/k10015143701000.html）\n6. [NHK ビジネス特集] 打ち上げ失敗から再起かけるH3ロケット 10日に6号機打ち上げへ （http://www3.nhk.or.jp/news/html/20260608/k10015143691000.html）\n7. [NHK ビジネス特集] 日本列島のナウマンゾウ これまでの推定より1万年早く絶滅か （http://www3.nhk.or.jp/news/html/20260607/k10015143021000.html）\n8. [NHK ビジネス特集] 福島県内の7割の地域 放射線量が全国と同レベルに （http://www3.nhk.or.jp/news/html/20260606/k10015142831000.html）\n9. [NHK ビジネス特集] 将棋 加藤一二三さんお別れの会 連盟から「名誉十段」贈られる （http://www3.nhk.or.jp/news/html/20260606/k10015142901000.html）\n10. [NHK ビジネス特集] 奈良の「飛鳥・藤原の宮都」世界文化遺産に登録される見通しに （http://www3.nhk.or.jp/news/html/20260606/k10015142291000.html）\n11. [NHK 国際] W杯イラン代表がキャンプ地メキシコ到着 当初の米国から変更 （http://www3.nhk.or.jp/news/html/20260608/k10015143661000.html）\n12. [NHK 国際] カーリング日本選手権が開幕 フォルティウス 勝利で好スタート （http://www3.nhk.or.jp/news/html/20260607/k10015143651000.html）\n13. [NHK 国際] 競泳日本選手権 35歳の鈴木聡美 50m平泳ぎで9連覇 今大会3冠 （http://www3.nhk.or.jp/news/html/20260607/k10015143571000.html）\n14. [NHK 国際] 【プロ野球結果】ソフトバンク 延長戦を制し交流戦首位を守る （http://www3.nhk.or.jp/news/html/20260607/k10015143581000.html）\n15. [NHK 国際] ラグビーリーグワン コベルコ神戸スティーラーズが初優勝 （http://www3.nhk.or.jp/news/html/20260607/k10015143461000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "“核兵器への依存強まり核軍縮に逆行”スウェーデン研究機関",
+        "link": "http://www3.nhk.or.jp/news/html/20260608/k10015143671000.html",
+        "pubDate": "Mon, 08 Jun 2026 07:01:42 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "“イランからミサイル発射”イスラエル軍発表 攻撃応酬が激化",
+        "link": "http://www3.nhk.or.jp/news/html/20260608/k10015143631000.html",
+        "pubDate": "Mon, 08 Jun 2026 06:43:33 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "OPECプラスの7か国 7月も増産へ ホルムズ海峡開放の場合に備え",
+        "link": "http://www3.nhk.or.jp/news/html/20260608/k10015143681000.html",
+        "pubDate": "Mon, 08 Jun 2026 06:09:43 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "中国 習近平国家主席 きょうから北朝鮮訪問へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260608/k10015143601000.html",
+        "pubDate": "Mon, 08 Jun 2026 05:41:45 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ゼレンスキー大統領が英仏独首脳と会談 打開策探るねらいか",
+        "link": "http://www3.nhk.or.jp/news/html/20260608/k10015143701000.html",
+        "pubDate": "Mon, 08 Jun 2026 05:32:47 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "打ち上げ失敗から再起かけるH3ロケット 10日に6号機打ち上げへ",
+        "link": "http://www3.nhk.or.jp/news/html/20260608/k10015143691000.html",
+        "pubDate": "Mon, 08 Jun 2026 06:31:40 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "日本列島のナウマンゾウ これまでの推定より1万年早く絶滅か",
+        "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143021000.html",
+        "pubDate": "Sun, 07 Jun 2026 05:45:34 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "福島県内の7割の地域 放射線量が全国と同レベルに",
+        "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142831000.html",
+        "pubDate": "Sat, 06 Jun 2026 18:19:19 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋 加藤一二三さんお別れの会 連盟から「名誉十段」贈られる",
+        "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142901000.html",
+        "pubDate": "Sat, 06 Jun 2026 16:13:56 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "奈良の「飛鳥・藤原の宮都」世界文化遺産に登録される見通しに",
+        "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142291000.html",
+        "pubDate": "Sat, 06 Jun 2026 15:23:45 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "W杯イラン代表がキャンプ地メキシコ到着 当初の米国から変更",
+        "link": "http://www3.nhk.or.jp/news/html/20260608/k10015143661000.html",
+        "pubDate": "Mon, 08 Jun 2026 00:12:17 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "カーリング日本選手権が開幕 フォルティウス 勝利で好スタート",
+        "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143651000.html",
+        "pubDate": "Sun, 07 Jun 2026 22:55:39 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "競泳日本選手権 35歳の鈴木聡美 50m平泳ぎで9連覇 今大会3冠",
+        "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143571000.html",
+        "pubDate": "Sun, 07 Jun 2026 22:27:26 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】ソフトバンク 延長戦を制し交流戦首位を守る",
+        "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143581000.html",
+        "pubDate": "Sun, 07 Jun 2026 22:18:16 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ラグビーリーグワン コベルコ神戸スティーラーズが初優勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143461000.html",
+        "pubDate": "Sun, 07 Jun 2026 21:25:30 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-06-07-daily",
     "id": "1780783999415",
     "date": "2026-06-07",
