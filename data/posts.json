@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-06-14-daily",
+    "id": "1781388910895",
+    "date": "2026-06-14",
+    "generatedAt": "2026-06-14 07:15",
+    "title": "今日の株式市場メモ 2026-06-14",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] トランプ大統領 覚書に「14日署名」イラン側「14日ではない」 （http://www3.nhk.or.jp/news/html/20260614/k10015149471000.html）\n2. [NHK 経済] 31年ぶりの大相撲パリ公演 会場は熱気と大歓声 （http://www3.nhk.or.jp/news/html/20260614/k10015149311000.html）\n3. [NHK 経済] ウクライナ ロシアのエネルギー施設への攻撃続ける （http://www3.nhk.or.jp/news/html/20260614/k10015149301000.html）\n4. [NHK 経済] サッカーW杯 日本初戦前にダラスへサポーターが到着 （http://www3.nhk.or.jp/news/html/20260614/k10015149511000.html）\n5. [NHK 経済] 米・イラン覚書“数日中に署名の可能性”双方が言及 （http://www3.nhk.or.jp/news/html/20260613/k10015148801000.html）\n6. [NHK ビジネス特集] 31年ぶりの大相撲パリ公演 会場は熱気と大歓声 （http://www3.nhk.or.jp/news/html/20260614/k10015149311000.html）\n7. [NHK ビジネス特集] 歌詞も曲もAIが生成した音楽「著作物に該当しない」JASRAC方針 （http://www3.nhk.or.jp/news/html/20260613/k10015148991000.html）\n8. [NHK ビジネス特集] H3ロケット打ち上げ成功 6つの小型衛星を軌道に投入 JAXA （http://www3.nhk.or.jp/news/html/20260612/k10015148131000.html）\n9. [NHK ビジネス特集] 北陸電力が志賀原発の津波想定を引き上げ 能登半島地震を受け （http://www3.nhk.or.jp/news/html/20260612/k10015148751000.html）\n10. [NHK ビジネス特集] 俳優 中村玉緒さん死去 86歳 映画やバラエティー番組で活躍 （http://www3.nhk.or.jp/news/html/20260612/k10015148421000.html）\n11. [NHK 国際] サッカーＷ杯北中米大会 日本が会場のある米ダラスで最終調整 （http://www3.nhk.or.jp/news/html/20260614/k10015149481000.html）\n12. [NHK 国際] サッカーW杯 カタール対スイスは引き分け （http://www3.nhk.or.jp/news/html/20260614/k10015149521000.html）\n13. [NHK 国際] ドジャース大谷翔平 2試合ぶり先発復帰で14号先頭打者本塁打 （http://www3.nhk.or.jp/news/html/20260614/k10015149321000.html）\n14. [NHK 国際] サッカーW杯 日本初戦前にダラスへサポーターが到着 （http://www3.nhk.or.jp/news/html/20260614/k10015149511000.html）\n15. [NHK 国際] Jリーグで17年ぶりにオールスターゲーム カズも登場 （http://www3.nhk.or.jp/news/html/20260613/k10015149451000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領 覚書に「14日署名」イラン側「14日ではない」",
+        "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149471000.html",
+        "pubDate": "Sun, 14 Jun 2026 06:14:52 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "31年ぶりの大相撲パリ公演 会場は熱気と大歓声",
+        "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149311000.html",
+        "pubDate": "Sun, 14 Jun 2026 05:57:29 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナ ロシアのエネルギー施設への攻撃続ける",
+        "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149301000.html",
+        "pubDate": "Sun, 14 Jun 2026 05:55:53 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "サッカーW杯 日本初戦前にダラスへサポーターが到着",
+        "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149511000.html",
+        "pubDate": "Sun, 14 Jun 2026 05:48:16 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米・イラン覚書“数日中に署名の可能性”双方が言及",
+        "link": "http://www3.nhk.or.jp/news/html/20260613/k10015148801000.html",
+        "pubDate": "Sat, 13 Jun 2026 23:10:03 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "31年ぶりの大相撲パリ公演 会場は熱気と大歓声",
+        "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149311000.html",
+        "pubDate": "Sun, 14 Jun 2026 05:57:29 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "歌詞も曲もAIが生成した音楽「著作物に該当しない」JASRAC方針",
+        "link": "http://www3.nhk.or.jp/news/html/20260613/k10015148991000.html",
+        "pubDate": "Sat, 13 Jun 2026 08:43:40 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "H3ロケット打ち上げ成功 6つの小型衛星を軌道に投入 JAXA",
+        "link": "http://www3.nhk.or.jp/news/html/20260612/k10015148131000.html",
+        "pubDate": "Fri, 12 Jun 2026 20:19:53 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "北陸電力が志賀原発の津波想定を引き上げ 能登半島地震を受け",
+        "link": "http://www3.nhk.or.jp/news/html/20260612/k10015148751000.html",
+        "pubDate": "Fri, 12 Jun 2026 19:35:05 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "俳優 中村玉緒さん死去 86歳 映画やバラエティー番組で活躍",
+        "link": "http://www3.nhk.or.jp/news/html/20260612/k10015148421000.html",
+        "pubDate": "Fri, 12 Jun 2026 19:23:58 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカーＷ杯北中米大会 日本が会場のある米ダラスで最終調整",
+        "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149481000.html",
+        "pubDate": "Sun, 14 Jun 2026 06:56:59 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカーW杯 カタール対スイスは引き分け",
+        "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149521000.html",
+        "pubDate": "Sun, 14 Jun 2026 06:29:08 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ドジャース大谷翔平 2試合ぶり先発復帰で14号先頭打者本塁打",
+        "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149321000.html",
+        "pubDate": "Sun, 14 Jun 2026 06:19:20 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカーW杯 日本初戦前にダラスへサポーターが到着",
+        "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149511000.html",
+        "pubDate": "Sun, 14 Jun 2026 05:48:16 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "Jリーグで17年ぶりにオールスターゲーム カズも登場",
+        "link": "http://www3.nhk.or.jp/news/html/20260613/k10015149451000.html",
+        "pubDate": "Sat, 13 Jun 2026 22:45:46 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-06-13-daily",
     "id": "1781304173937",
     "date": "2026-06-13",
