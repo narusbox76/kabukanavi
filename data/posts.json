@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-06-17-daily",
+    "id": "1781650546068",
+    "date": "2026-06-17",
+    "generatedAt": "2026-06-17 07:55",
+    "title": "今日の株式市場メモ 2026-06-17",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 高市首相 仏マクロン大統領と会談 経済安保など緊密連携で一致 （http://www3.nhk.or.jp/news/html/20260617/k10015152001000.html）\n2. [NHK 経済] スペースX 一時時価総額世界4位に マイクロソフト抜く （http://www3.nhk.or.jp/news/html/20260617/k10015152021000.html）\n3. [NHK 経済] 高市首相 石油備蓄支援強化など3項目提案 G7サミット （http://www3.nhk.or.jp/news/html/20260617/k10015151951000.html）\n4. [NHK 経済] NYダウ最高値更新 原油は一時75ドル台に下落 （http://www3.nhk.or.jp/news/html/20260617/k10015152041000.html）\n5. [NHK 経済] G7サミット 中東やウクライナ情勢への対応を議論 （http://www3.nhk.or.jp/news/html/20260616/k10015151271000.html）\n6. [NHK ビジネス特集] 映画『火垂るの墓』公開当初の“幻”となっていたフィルム発見 （http://www3.nhk.or.jp/news/html/20260617/k10015151911000.html）\n7. [NHK ビジネス特集] 福島第一・第二原発 地震による新たな異常なし （http://www3.nhk.or.jp/news/html/20260616/k10015151721000.html）\n8. [NHK ビジネス特集] 東海第二原発 地震による異常確認されず 運転は停止中 （http://www3.nhk.or.jp/news/html/20260616/k10015151611000.html）\n9. [NHK ビジネス特集] 佐賀県沖の有明海にアザラシ 専門家「非常に珍しい」 （http://www3.nhk.or.jp/news/html/20260616/k10015151311000.html）\n10. [NHK ビジネス特集] 英国舞踊批評家協会賞に新国立劇場バレエ団 （http://www3.nhk.or.jp/news/html/20260616/k10015151121000.html）\n11. [NHK 国際] サッカーW杯 フランスがセネガルに勝利 エムバペが2得点 （http://www3.nhk.or.jp/news/html/20260617/k10015152061000.html）\n12. [NHK 国際] サッカーW杯 日本代表 キャンプ地ナッシュビルの施設を公開 （http://www3.nhk.or.jp/news/html/20260617/k10015152071000.html）\n13. [NHK 国際] プロ野球交流戦 西武が初優勝 勝率は過去最高 （http://www3.nhk.or.jp/news/html/20260616/k10015151871000.html）\n14. [NHK 国際] 【プロ野球結果】交流戦 西武が阪神に勝ち初の優勝 （http://www3.nhk.or.jp/news/html/20260616/k10015151851000.html）\n15. [NHK 国際] 浦和レッズ 新監督にチョウ 貴裁氏が就任 サッカーJ1 （http://www3.nhk.or.jp/news/html/20260616/k10015151531000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "高市首相 仏マクロン大統領と会談 経済安保など緊密連携で一致",
+        "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152001000.html",
+        "pubDate": "Wed, 17 Jun 2026 07:54:44 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "スペースX 一時時価総額世界4位に マイクロソフト抜く",
+        "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152021000.html",
+        "pubDate": "Wed, 17 Jun 2026 06:35:54 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "高市首相 石油備蓄支援強化など3項目提案 G7サミット",
+        "link": "http://www3.nhk.or.jp/news/html/20260617/k10015151951000.html",
+        "pubDate": "Wed, 17 Jun 2026 06:13:51 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "NYダウ最高値更新 原油は一時75ドル台に下落",
+        "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152041000.html",
+        "pubDate": "Wed, 17 Jun 2026 06:06:23 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "G7サミット 中東やウクライナ情勢への対応を議論",
+        "link": "http://www3.nhk.or.jp/news/html/20260616/k10015151271000.html",
+        "pubDate": "Wed, 17 Jun 2026 05:53:11 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "映画『火垂るの墓』公開当初の“幻”となっていたフィルム発見",
+        "link": "http://www3.nhk.or.jp/news/html/20260617/k10015151911000.html",
+        "pubDate": "Wed, 17 Jun 2026 03:58:26 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "福島第一・第二原発 地震による新たな異常なし",
+        "link": "http://www3.nhk.or.jp/news/html/20260616/k10015151721000.html",
+        "pubDate": "Tue, 16 Jun 2026 20:16:38 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "東海第二原発 地震による異常確認されず 運転は停止中",
+        "link": "http://www3.nhk.or.jp/news/html/20260616/k10015151611000.html",
+        "pubDate": "Tue, 16 Jun 2026 20:03:53 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "佐賀県沖の有明海にアザラシ 専門家「非常に珍しい」",
+        "link": "http://www3.nhk.or.jp/news/html/20260616/k10015151311000.html",
+        "pubDate": "Tue, 16 Jun 2026 16:15:09 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "英国舞踊批評家協会賞に新国立劇場バレエ団",
+        "link": "http://www3.nhk.or.jp/news/html/20260616/k10015151121000.html",
+        "pubDate": "Tue, 16 Jun 2026 13:31:06 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカーW杯 フランスがセネガルに勝利 エムバペが2得点",
+        "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152061000.html",
+        "pubDate": "Wed, 17 Jun 2026 07:47:54 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカーW杯 日本代表 キャンプ地ナッシュビルの施設を公開",
+        "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152071000.html",
+        "pubDate": "Wed, 17 Jun 2026 06:53:22 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "プロ野球交流戦 西武が初優勝 勝率は過去最高",
+        "link": "http://www3.nhk.or.jp/news/html/20260616/k10015151871000.html",
+        "pubDate": "Tue, 16 Jun 2026 23:28:46 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】交流戦 西武が阪神に勝ち初の優勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260616/k10015151851000.html",
+        "pubDate": "Tue, 16 Jun 2026 22:58:06 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "浦和レッズ 新監督にチョウ 貴裁氏が就任 サッカーJ1",
+        "link": "http://www3.nhk.or.jp/news/html/20260616/k10015151531000.html",
+        "pubDate": "Tue, 16 Jun 2026 20:35:42 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-06-16-daily",
     "id": "1781564831085",
     "date": "2026-06-16",
