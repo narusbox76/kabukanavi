@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-06-18-daily",
+    "id": "1781736632172",
+    "date": "2026-06-18",
+    "generatedAt": "2026-06-18 07:50",
+    "title": "今日の株式市場メモ 2026-06-18",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] ホワイトハウス “覚書に電子的に署名 すでに効力生じている” （http://www3.nhk.or.jp/news/html/20260618/k10015153101000.html）\n2. [NHK 経済] 米FRB 政策金利据え置き ウォーシュ議長「物価安定を実現」 （http://www3.nhk.or.jp/news/html/20260618/k10015152921000.html）\n3. [NHK 経済] 天皇陛下 オランダ西部 世界有数の水に関する研究所を視察 （http://www3.nhk.or.jp/news/html/20260618/k10015152901000.html）\n4. [NHK 経済] トランプ大統領“60日で合意なければイラン爆撃する”とけん制 （http://www3.nhk.or.jp/news/html/20260618/k10015152981000.html）\n5. [NHK 経済] イギリス議会下院の補欠選挙へ 首相進退に影響か注目 （http://www3.nhk.or.jp/news/html/20260618/k10015152911000.html）\n6. [NHK ビジネス特集] ひざ治療に“エクソソーム” 臨床研究で痛み改善 （http://www3.nhk.or.jp/news/html/20260617/k10015152611000.html）\n7. [NHK ビジネス特集] 改正著作権法が成立 歌手らに音楽使用料を分配 参院本会議 （http://www3.nhk.or.jp/news/html/20260617/k10015152361000.html）\n8. [NHK ビジネス特集] 【1分解説】アメリカでAIへの期待が急落 なぜ？ （http://www3.nhk.or.jp/news/html/20260617/k10015150201000.html）\n9. [NHK ビジネス特集] “AI・データセンターにNO” アメリカで広がる反発 （http://www3.nhk.or.jp/news/html/20260617/k10015151261000.html）\n10. [NHK ビジネス特集] 映画『火垂るの墓』公開当初の“幻”となっていたフィルム発見 （http://www3.nhk.or.jp/news/html/20260617/k10015151911000.html）\n11. [NHK 国際] サッカーW杯 イングランドがクロアチアに勝利 （http://www3.nhk.or.jp/news/html/20260618/k10015153151000.html）\n12. [NHK 国際] ドジャース 大谷翔平 6回4失点で降板 7勝目の権利あり （http://www3.nhk.or.jp/news/html/20260618/k10015153141000.html）\n13. [NHK 国際] サッカーW杯 チュニジア戦へ日本が調整再開 久保は左ひざ負傷 （http://www3.nhk.or.jp/news/html/20260618/k10015153091000.html）\n14. [NHK 国際] プロ野球 交流戦の全日程終了 ことしもパ・リーグが圧倒 （http://www3.nhk.or.jp/news/html/20260618/k10015152991000.html）\n15. [NHK 国際] サッカーW杯 ポルトガル対コンゴ民主共和国は引き分け （http://www3.nhk.or.jp/news/html/20260618/k10015153061000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "ホワイトハウス “覚書に電子的に署名 すでに効力生じている”",
+        "link": "http://www3.nhk.or.jp/news/html/20260618/k10015153101000.html",
+        "pubDate": "Thu, 18 Jun 2026 07:06:06 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米FRB 政策金利据え置き ウォーシュ議長「物価安定を実現」",
+        "link": "http://www3.nhk.or.jp/news/html/20260618/k10015152921000.html",
+        "pubDate": "Thu, 18 Jun 2026 06:52:21 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "天皇陛下 オランダ西部 世界有数の水に関する研究所を視察",
+        "link": "http://www3.nhk.or.jp/news/html/20260618/k10015152901000.html",
+        "pubDate": "Thu, 18 Jun 2026 06:43:58 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領“60日で合意なければイラン爆撃する”とけん制",
+        "link": "http://www3.nhk.or.jp/news/html/20260618/k10015152981000.html",
+        "pubDate": "Thu, 18 Jun 2026 05:46:07 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "イギリス議会下院の補欠選挙へ 首相進退に影響か注目",
+        "link": "http://www3.nhk.or.jp/news/html/20260618/k10015152911000.html",
+        "pubDate": "Thu, 18 Jun 2026 05:33:49 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ひざ治療に“エクソソーム” 臨床研究で痛み改善",
+        "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152611000.html",
+        "pubDate": "Wed, 17 Jun 2026 17:41:03 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "改正著作権法が成立 歌手らに音楽使用料を分配 参院本会議",
+        "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152361000.html",
+        "pubDate": "Wed, 17 Jun 2026 14:28:02 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "【1分解説】アメリカでAIへの期待が急落 なぜ？",
+        "link": "http://www3.nhk.or.jp/news/html/20260617/k10015150201000.html",
+        "pubDate": "Wed, 17 Jun 2026 14:16:19 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "“AI・データセンターにNO” アメリカで広がる反発",
+        "link": "http://www3.nhk.or.jp/news/html/20260617/k10015151261000.html",
+        "pubDate": "Wed, 17 Jun 2026 12:40:30 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "映画『火垂るの墓』公開当初の“幻”となっていたフィルム発見",
+        "link": "http://www3.nhk.or.jp/news/html/20260617/k10015151911000.html",
+        "pubDate": "Wed, 17 Jun 2026 03:58:26 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカーW杯 イングランドがクロアチアに勝利",
+        "link": "http://www3.nhk.or.jp/news/html/20260618/k10015153151000.html",
+        "pubDate": "Thu, 18 Jun 2026 07:27:20 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ドジャース 大谷翔平 6回4失点で降板 7勝目の権利あり",
+        "link": "http://www3.nhk.or.jp/news/html/20260618/k10015153141000.html",
+        "pubDate": "Thu, 18 Jun 2026 06:50:55 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカーW杯 チュニジア戦へ日本が調整再開 久保は左ひざ負傷",
+        "link": "http://www3.nhk.or.jp/news/html/20260618/k10015153091000.html",
+        "pubDate": "Thu, 18 Jun 2026 06:31:23 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "プロ野球 交流戦の全日程終了 ことしもパ・リーグが圧倒",
+        "link": "http://www3.nhk.or.jp/news/html/20260618/k10015152991000.html",
+        "pubDate": "Thu, 18 Jun 2026 06:04:54 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカーW杯 ポルトガル対コンゴ民主共和国は引き分け",
+        "link": "http://www3.nhk.or.jp/news/html/20260618/k10015153061000.html",
+        "pubDate": "Thu, 18 Jun 2026 05:35:30 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-06-17-daily",
     "id": "1781650546068",
     "date": "2026-06-17",
