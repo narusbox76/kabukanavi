@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-06-26-daily",
+    "id": "1782427258643",
+    "date": "2026-06-26",
+    "generatedAt": "2026-06-26 07:40",
+    "title": "今日の株式市場メモ 2026-06-26",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] ラグビー 新たな国際大会開幕前に優勝トロフィーお披露目 （http://www3.nhk.or.jp/news/html/20260626/k10015160601000.html）\n2. [NHK 経済] NYダウ 一時800ドル超上昇 取引時間中の最高値更新 AI期待で （http://www3.nhk.or.jp/news/html/20260626/k10015160551000.html）\n3. [NHK 経済] EU 米からの工業製品の関税撤廃 近く発効へ （http://www3.nhk.or.jp/news/html/20260626/k10015160491000.html）\n4. [NHK 経済] ベネズエラ M7超地震 首都周辺被害深刻も全容不明 （http://www3.nhk.or.jp/news/html/20260626/k10015160641000.html）\n5. [NHK 経済] ゼレンスキー大統領 長距離攻撃でロシアに和平迫る考え強調 （http://www3.nhk.or.jp/news/html/20260626/k10015160611000.html）\n6. [NHK ビジネス特集] ザ・ビートルズ来日から60年で特設店舗がオープン 東京 原宿 （http://www3.nhk.or.jp/news/html/20260625/k10015159891000.html）\n7. [NHK ビジネス特集] 国立映画アーカイブ 交付金減で資金難 1億円の資金募る （http://www3.nhk.or.jp/news/html/20260625/k10015159801000.html）\n8. [NHK ビジネス特集] みらい 与野党の議員対象にAI勉強会を開催 安野党首が講師 （http://www3.nhk.or.jp/news/html/20260625/k10015159441000.html）\n9. [NHK ビジネス特集] 小児がん薬 薬価引き下げなどで11医薬品で採算割れ 供給不安も （http://www3.nhk.or.jp/news/html/20260624/k10015158601000.html）\n10. [NHK ビジネス特集] 探査機「はやぶさ2」7月5日に小惑星に接近し高速で通過へ （http://www3.nhk.or.jp/news/html/20260624/k10015158471000.html）\n11. [NHK 国際] W杯 日本×スウェーデン【速報予定】日本代表 先発3人入れ替え （http://www3.nhk.or.jp/news/html/20260626/k10015160411000.html）\n12. [NHK 国際] ラグビー 新たな国際大会開幕前に優勝トロフィーお披露目 （http://www3.nhk.or.jp/news/html/20260626/k10015160601000.html）\n13. [NHK 国際] W杯 エクアドルがドイツに逆転勝ち 決勝トーナメント進出 （http://www3.nhk.or.jp/news/html/20260626/k10015160681000.html）\n14. [NHK 国際] 【プロ野球結果】楽天 前田健太が首位 西武相手に今季初勝利 （http://www3.nhk.or.jp/news/html/20260625/k10015160331000.html）\n15. [NHK 国際] W杯 ボスニア・ヘルツェゴビナが勝利 グループ3位で決勝Tへ （http://www3.nhk.or.jp/news/html/20260625/k10015158951000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "ラグビー 新たな国際大会開幕前に優勝トロフィーお披露目",
+        "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160601000.html",
+        "pubDate": "Fri, 26 Jun 2026 07:32:25 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "NYダウ 一時800ドル超上昇 取引時間中の最高値更新 AI期待で",
+        "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160551000.html",
+        "pubDate": "Fri, 26 Jun 2026 06:51:52 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "EU 米からの工業製品の関税撤廃 近く発効へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160491000.html",
+        "pubDate": "Fri, 26 Jun 2026 06:20:10 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ベネズエラ M7超地震 首都周辺被害深刻も全容不明",
+        "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160641000.html",
+        "pubDate": "Fri, 26 Jun 2026 06:17:57 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ゼレンスキー大統領 長距離攻撃でロシアに和平迫る考え強調",
+        "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160611000.html",
+        "pubDate": "Fri, 26 Jun 2026 06:14:05 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ザ・ビートルズ来日から60年で特設店舗がオープン 東京 原宿",
+        "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159891000.html",
+        "pubDate": "Thu, 25 Jun 2026 17:49:23 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "国立映画アーカイブ 交付金減で資金難 1億円の資金募る",
+        "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159801000.html",
+        "pubDate": "Thu, 25 Jun 2026 16:30:56 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "みらい 与野党の議員対象にAI勉強会を開催 安野党首が講師",
+        "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159441000.html",
+        "pubDate": "Thu, 25 Jun 2026 13:28:31 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "小児がん薬 薬価引き下げなどで11医薬品で採算割れ 供給不安も",
+        "link": "http://www3.nhk.or.jp/news/html/20260624/k10015158601000.html",
+        "pubDate": "Wed, 24 Jun 2026 22:17:55 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "探査機「はやぶさ2」7月5日に小惑星に接近し高速で通過へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260624/k10015158471000.html",
+        "pubDate": "Wed, 24 Jun 2026 17:56:37 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "W杯 日本×スウェーデン【速報予定】日本代表 先発3人入れ替え",
+        "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160411000.html",
+        "pubDate": "Fri, 26 Jun 2026 07:33:12 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ラグビー 新たな国際大会開幕前に優勝トロフィーお披露目",
+        "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160601000.html",
+        "pubDate": "Fri, 26 Jun 2026 07:32:25 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "W杯 エクアドルがドイツに逆転勝ち 決勝トーナメント進出",
+        "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160681000.html",
+        "pubDate": "Fri, 26 Jun 2026 07:27:32 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】楽天 前田健太が首位 西武相手に今季初勝利",
+        "link": "http://www3.nhk.or.jp/news/html/20260625/k10015160331000.html",
+        "pubDate": "Thu, 25 Jun 2026 22:48:54 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "W杯 ボスニア・ヘルツェゴビナが勝利 グループ3位で決勝Tへ",
+        "link": "http://www3.nhk.or.jp/news/html/20260625/k10015158951000.html",
+        "pubDate": "Thu, 25 Jun 2026 19:56:46 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-06-25-daily",
     "id": "1782340551889",
     "date": "2026-06-25",
