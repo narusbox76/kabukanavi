@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-06-30-daily",
+    "id": "1782771433565",
+    "date": "2026-06-30",
+    "generatedAt": "2026-06-30 07:17",
+    "title": "今日の株式市場メモ 2026-06-30",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] ブラジル サンパウロは逆転勝ちに歓喜 （http://www3.nhk.or.jp/news/html/20260630/k10015164291000.html）\n2. [NHK 経済] NYダウ平均株価 終値で初の5万2000ドル台 大手IT中心に買い （http://www3.nhk.or.jp/news/html/20260630/k10015164301000.html）\n3. [NHK 経済] トランプ大統領「30日にドーハでイランと協議」イラン側は否定 （http://www3.nhk.or.jp/news/html/20260630/k10015164111000.html）\n4. [NHK 経済] 米連邦最高裁判所 トランプ大統領によるFRB理事解任は無効 （http://www3.nhk.or.jp/news/html/20260629/k10015164241000.html）\n5. [NHK 経済] 円相場 一時1ドル＝161円90銭台後半 約39年半ぶりの円安水準に （http://www3.nhk.or.jp/news/html/20260629/k10015164231000.html）\n6. [NHK ビジネス特集] AI活用歩行型ロボの実証実験推進を 規制改革推進会議 答申決定 （http://www3.nhk.or.jp/news/html/20260629/k10015163811000.html）\n7. [NHK ビジネス特集] ブタの腎臓ヒトに“異種移植”の治験 北大などで実施へ （http://www3.nhk.or.jp/news/html/20260629/k10015163271000.html）\n8. [NHK ビジネス特集] 北辰一刀流 千葉周作の生誕地“気仙沼”史料発見 論争終止符か （http://www3.nhk.or.jp/news/html/20260628/k10015162871000.html）\n9. [NHK ビジネス特集] チョルノービリ原発周辺自治体 復興で福島県双葉町と協定締結 （http://www3.nhk.or.jp/news/html/20260626/k10015161591000.html）\n10. [NHK ビジネス特集] ザ・ビートルズ来日から60年で特設店舗がオープン 東京 原宿 （http://www3.nhk.or.jp/news/html/20260625/k10015159891000.html）\n11. [NHK 国際] W杯 ブラジルに逆転負け 日本代表を海外メディア どう報じた？ （http://www3.nhk.or.jp/news/html/20260630/k10015164311000.html）\n12. [NHK 国際] 歓声 ため息 拍手 W杯ブラジル戦 未明の観戦で声援 国内では （http://www3.nhk.or.jp/news/html/20260630/k10015164281000.html）\n13. [NHK 国際] W杯 日本がブラジルに逆転負け 決勝T 1回戦で敗退【詳しく】 （http://www3.nhk.or.jp/news/html/20260629/k10015163871000.html）\n14. [NHK 国際] ブラジル サンパウロは逆転勝ちに歓喜 （http://www3.nhk.or.jp/news/html/20260630/k10015164291000.html）\n15. [NHK 国際] 【随時更新】サッカーＷ杯 決勝トーナメント日程・結果 動画も （http://www3.nhk.or.jp/news/html/20260628/k10015163051000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "ブラジル サンパウロは逆転勝ちに歓喜",
+        "link": "http://www3.nhk.or.jp/news/html/20260630/k10015164291000.html",
+        "pubDate": "Tue, 30 Jun 2026 06:38:26 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "NYダウ平均株価 終値で初の5万2000ドル台 大手IT中心に買い",
+        "link": "http://www3.nhk.or.jp/news/html/20260630/k10015164301000.html",
+        "pubDate": "Tue, 30 Jun 2026 06:35:17 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領「30日にドーハでイランと協議」イラン側は否定",
+        "link": "http://www3.nhk.or.jp/news/html/20260630/k10015164111000.html",
+        "pubDate": "Tue, 30 Jun 2026 06:32:02 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米連邦最高裁判所 トランプ大統領によるFRB理事解任は無効",
+        "link": "http://www3.nhk.or.jp/news/html/20260629/k10015164241000.html",
+        "pubDate": "Tue, 30 Jun 2026 05:31:55 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "円相場 一時1ドル＝161円90銭台後半 約39年半ぶりの円安水準に",
+        "link": "http://www3.nhk.or.jp/news/html/20260629/k10015164231000.html",
+        "pubDate": "Tue, 30 Jun 2026 05:29:52 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "AI活用歩行型ロボの実証実験推進を 規制改革推進会議 答申決定",
+        "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163811000.html",
+        "pubDate": "Mon, 29 Jun 2026 17:15:32 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ブタの腎臓ヒトに“異種移植”の治験 北大などで実施へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163271000.html",
+        "pubDate": "Mon, 29 Jun 2026 06:38:58 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "北辰一刀流 千葉周作の生誕地“気仙沼”史料発見 論争終止符か",
+        "link": "http://www3.nhk.or.jp/news/html/20260628/k10015162871000.html",
+        "pubDate": "Sun, 28 Jun 2026 16:30:07 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "チョルノービリ原発周辺自治体 復興で福島県双葉町と協定締結",
+        "link": "http://www3.nhk.or.jp/news/html/20260626/k10015161591000.html",
+        "pubDate": "Fri, 26 Jun 2026 18:59:50 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ザ・ビートルズ来日から60年で特設店舗がオープン 東京 原宿",
+        "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159891000.html",
+        "pubDate": "Thu, 25 Jun 2026 17:49:23 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "W杯 ブラジルに逆転負け 日本代表を海外メディア どう報じた？",
+        "link": "http://www3.nhk.or.jp/news/html/20260630/k10015164311000.html",
+        "pubDate": "Tue, 30 Jun 2026 07:13:48 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "歓声 ため息 拍手 W杯ブラジル戦 未明の観戦で声援 国内では",
+        "link": "http://www3.nhk.or.jp/news/html/20260630/k10015164281000.html",
+        "pubDate": "Tue, 30 Jun 2026 07:05:31 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "W杯 日本がブラジルに逆転負け 決勝T 1回戦で敗退【詳しく】",
+        "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163871000.html",
+        "pubDate": "Tue, 30 Jun 2026 06:50:19 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ブラジル サンパウロは逆転勝ちに歓喜",
+        "link": "http://www3.nhk.or.jp/news/html/20260630/k10015164291000.html",
+        "pubDate": "Tue, 30 Jun 2026 06:38:26 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【随時更新】サッカーＷ杯 決勝トーナメント日程・結果 動画も",
+        "link": "http://www3.nhk.or.jp/news/html/20260628/k10015163051000.html",
+        "pubDate": "Tue, 30 Jun 2026 06:02:35 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-06-29-daily",
     "id": "1782684692227",
     "date": "2026-06-29",
