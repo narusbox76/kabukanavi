@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-07-02-daily",
+    "id": "1782944666685",
+    "date": "2026-07-02",
+    "generatedAt": "2026-07-02 07:24",
+    "title": "今日の株式市場メモ 2026-07-02",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] インドネシア 特殊詐欺対策 SIMカード開通に「顔認証」導入 （http://www3.nhk.or.jp/news/html/20260702/k10015166271000.html）\n2. [NHK 経済] 茂木外相 ウクライナ外相に支援と対ロシア制裁の推進を伝達 （http://www3.nhk.or.jp/news/html/20260702/k10015166391000.html）\n3. [NHK 経済] 米中外相が電話会談 王毅外相「台湾問題は慎重に」 （http://www3.nhk.or.jp/news/html/20260702/k10015166641000.html）\n4. [NHK 経済] アメリカとイラン双方の担当者 それぞれ仲介国カタールと協議 （http://www3.nhk.or.jp/news/html/20260702/k10015166461000.html）\n5. [NHK 経済] きょう日印首脳会談 経済安保など協力進展図る 成果文書も調整 （http://www3.nhk.or.jp/news/html/20260702/k10015166401000.html）\n6. [NHK ビジネス特集] 世界で最も細い直径約4ミリの胃カメラ開発 大阪大発ベンチャー （http://www3.nhk.or.jp/news/html/20260702/k10015166561000.html）\n7. [NHK ビジネス特集] 将棋「棋聖戦」 藤井聡太六冠 3連勝でタイトル防衛 7連覇 （http://www3.nhk.or.jp/news/html/20260701/k10015166231000.html）\n8. [NHK ビジネス特集] 浜岡原発データ不正問題 中部電力が規制委指摘後もデータ操作 （http://www3.nhk.or.jp/news/html/20260701/k10015166151000.html）\n9. [NHK ビジネス特集] ミュトス提供再開 “情報収集進める”国内金融機関 （http://www3.nhk.or.jp/news/html/20260701/k10015165431000.html）\n10. [NHK ビジネス特集] 「キャプテン翼」高橋陽一さん“4年後は翼くんの夢W杯優勝を” （http://www3.nhk.or.jp/news/html/20260630/k10015165111000.html）\n11. [NHK 国際] W杯 イングランドがコンゴ民主共和国に逆転勝ち 2回戦進出へ （http://www3.nhk.or.jp/news/html/20260702/k10015166691000.html）\n12. [NHK 国際] W杯 日本代表が帰国へ 森保監督 去就は「何も聞いていない」 （http://www3.nhk.or.jp/news/html/20260702/k10015166671000.html）\n13. [NHK 国際] 【プロ野球結果】ソフトバンクが快勝で首位キープ （http://www3.nhk.or.jp/news/html/20260701/k10015166371000.html）\n14. [NHK 国際] 【随時更新】サッカーＷ杯 決勝トーナメント日程・結果 動画も （http://www3.nhk.or.jp/news/html/20260628/k10015163051000.html）\n15. [NHK 国際] テニス ウィンブルドン選手権 大坂なおみ 2年連続3回戦進出 （http://www3.nhk.or.jp/news/html/20260701/k10015166381000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "インドネシア 特殊詐欺対策 SIMカード開通に「顔認証」導入",
+        "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166271000.html",
+        "pubDate": "Thu, 02 Jul 2026 06:34:34 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "茂木外相 ウクライナ外相に支援と対ロシア制裁の推進を伝達",
+        "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166391000.html",
+        "pubDate": "Thu, 02 Jul 2026 06:25:57 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米中外相が電話会談 王毅外相「台湾問題は慎重に」",
+        "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166641000.html",
+        "pubDate": "Thu, 02 Jul 2026 06:22:20 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "アメリカとイラン双方の担当者 それぞれ仲介国カタールと協議",
+        "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166461000.html",
+        "pubDate": "Thu, 02 Jul 2026 05:57:57 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "きょう日印首脳会談 経済安保など協力進展図る 成果文書も調整",
+        "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166401000.html",
+        "pubDate": "Thu, 02 Jul 2026 05:33:10 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "世界で最も細い直径約4ミリの胃カメラ開発 大阪大発ベンチャー",
+        "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166561000.html",
+        "pubDate": "Thu, 02 Jul 2026 05:06:05 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋「棋聖戦」 藤井聡太六冠 3連勝でタイトル防衛 7連覇",
+        "link": "http://www3.nhk.or.jp/news/html/20260701/k10015166231000.html",
+        "pubDate": "Wed, 01 Jul 2026 21:45:52 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "浜岡原発データ不正問題 中部電力が規制委指摘後もデータ操作",
+        "link": "http://www3.nhk.or.jp/news/html/20260701/k10015166151000.html",
+        "pubDate": "Wed, 01 Jul 2026 21:41:03 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ミュトス提供再開 “情報収集進める”国内金融機関",
+        "link": "http://www3.nhk.or.jp/news/html/20260701/k10015165431000.html",
+        "pubDate": "Wed, 01 Jul 2026 13:58:53 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「キャプテン翼」高橋陽一さん“4年後は翼くんの夢W杯優勝を”",
+        "link": "http://www3.nhk.or.jp/news/html/20260630/k10015165111000.html",
+        "pubDate": "Tue, 30 Jun 2026 21:16:09 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "W杯 イングランドがコンゴ民主共和国に逆転勝ち 2回戦進出へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166691000.html",
+        "pubDate": "Thu, 02 Jul 2026 06:07:58 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "W杯 日本代表が帰国へ 森保監督 去就は「何も聞いていない」",
+        "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166671000.html",
+        "pubDate": "Thu, 02 Jul 2026 05:28:24 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】ソフトバンクが快勝で首位キープ",
+        "link": "http://www3.nhk.or.jp/news/html/20260701/k10015166371000.html",
+        "pubDate": "Thu, 02 Jul 2026 00:09:03 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【随時更新】サッカーＷ杯 決勝トーナメント日程・結果 動画も",
+        "link": "http://www3.nhk.or.jp/news/html/20260628/k10015163051000.html",
+        "pubDate": "Wed, 01 Jul 2026 22:55:23 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "テニス ウィンブルドン選手権 大坂なおみ 2年連続3回戦進出",
+        "link": "http://www3.nhk.or.jp/news/html/20260701/k10015166381000.html",
+        "pubDate": "Wed, 01 Jul 2026 22:50:50 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-07-01-daily",
     "id": "1782858105480",
     "date": "2026-07-01",
