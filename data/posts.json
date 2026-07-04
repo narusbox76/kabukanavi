@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-07-05-daily",
+    "id": "1783202840164",
+    "date": "2026-07-05",
+    "generatedAt": "2026-07-05 07:07",
+    "title": "今日の株式市場メモ 2026-07-05",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] アメリカ建国250年 各地で祝賀イベント 政権に抗議の声も （http://www3.nhk.or.jp/news/html/20260705/k10015168981000.html）\n2. [NHK 経済] ゼレンスキー大統領 ロシアによる東部要衝の掌握主張を否定 （http://www3.nhk.or.jp/news/html/20260705/k10015169001000.html）\n3. [NHK 経済] イラン ハメネイ師葬儀続く “米と1週間 協議中断合意”報道も （http://www3.nhk.or.jp/news/html/20260705/k10015168971000.html）\n4. [NHK 経済] 【詳細】ロシア ウクライナに軍事侵攻（7月4日の動き） （http://www3.nhk.or.jp/news/html/20260705/k10015140541000.html）\n5. [NHK 経済] 中国 台湾東海域パトロール「常態的に実施」台湾当局は非難 （http://www3.nhk.or.jp/news/html/20260705/k10015168911000.html）\n6. [NHK ビジネス特集] はやぶさ2が小惑星「トリフネ」に今夜 接近 高速で通過へ （http://www3.nhk.or.jp/news/html/20260705/k10015168951000.html）\n7. [NHK ビジネス特集] 「尾高賞」に我妻英さんの「管弦楽のための《祀》」が選ばれる （http://www3.nhk.or.jp/news/html/20260704/k10015168491000.html）\n8. [NHK ビジネス特集] 国立映画アーカイブが存続の危機 なぜ？【Q＆Aで詳しく】 （http://www3.nhk.or.jp/news/html/20260703/k10015168051000.html）\n9. [NHK ビジネス特集] 村上春樹さん 3年ぶり新作長編小説発売 書店にファン集まる （http://www3.nhk.or.jp/news/html/20260703/k10015167631000.html）\n10. [NHK ビジネス特集] 福島第一原発 核燃料デブリ 3回目の試験的取り出しへ （http://www3.nhk.or.jp/news/html/20260702/k10015167451000.html）\n11. [NHK 国際] サッカーW杯 モロッコがベスト8へ カナダに勝利 ウナヒが2得点 （http://www3.nhk.or.jp/news/html/20260705/k10015169031000.html）\n12. [NHK 国際] 【随時更新】Ｗ杯 決勝トーナメント日程・結果 動画 8強かけて （http://www3.nhk.or.jp/news/html/20260628/k10015163051000.html）\n13. [NHK 国際] カボベルデ どんな国？W杯で大躍進 日本と意外なつながりも （http://www3.nhk.or.jp/news/html/20260704/k10015169011000.html）\n14. [NHK 国際] ラグビー日本代表 イタリアに勝利 新設の国際大会初戦で （http://www3.nhk.or.jp/news/html/20260704/k10015168991000.html）\n15. [NHK 国際] 【プロ野球結果】ソフトバンク 連勝6で止まる 新人が初登板も （http://www3.nhk.or.jp/news/html/20260704/k10015168931000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "アメリカ建国250年 各地で祝賀イベント 政権に抗議の声も",
+        "link": "http://www3.nhk.or.jp/news/html/20260705/k10015168981000.html",
+        "pubDate": "Sun, 05 Jul 2026 06:57:20 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ゼレンスキー大統領 ロシアによる東部要衝の掌握主張を否定",
+        "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169001000.html",
+        "pubDate": "Sun, 05 Jul 2026 06:36:59 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "イラン ハメネイ師葬儀続く “米と1週間 協議中断合意”報道も",
+        "link": "http://www3.nhk.or.jp/news/html/20260705/k10015168971000.html",
+        "pubDate": "Sun, 05 Jul 2026 06:16:46 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【詳細】ロシア ウクライナに軍事侵攻（7月4日の動き）",
+        "link": "http://www3.nhk.or.jp/news/html/20260705/k10015140541000.html",
+        "pubDate": "Sun, 05 Jul 2026 05:55:16 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "中国 台湾東海域パトロール「常態的に実施」台湾当局は非難",
+        "link": "http://www3.nhk.or.jp/news/html/20260705/k10015168911000.html",
+        "pubDate": "Sun, 05 Jul 2026 05:12:24 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "はやぶさ2が小惑星「トリフネ」に今夜 接近 高速で通過へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260705/k10015168951000.html",
+        "pubDate": "Sun, 05 Jul 2026 05:01:08 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「尾高賞」に我妻英さんの「管弦楽のための《祀》」が選ばれる",
+        "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168491000.html",
+        "pubDate": "Sat, 04 Jul 2026 04:40:44 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "国立映画アーカイブが存続の危機 なぜ？【Q＆Aで詳しく】",
+        "link": "http://www3.nhk.or.jp/news/html/20260703/k10015168051000.html",
+        "pubDate": "Fri, 03 Jul 2026 16:47:12 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "村上春樹さん 3年ぶり新作長編小説発売 書店にファン集まる",
+        "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167631000.html",
+        "pubDate": "Fri, 03 Jul 2026 05:01:29 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "福島第一原発 核燃料デブリ 3回目の試験的取り出しへ",
+        "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167451000.html",
+        "pubDate": "Thu, 02 Jul 2026 21:26:44 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカーW杯 モロッコがベスト8へ カナダに勝利 ウナヒが2得点",
+        "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169031000.html",
+        "pubDate": "Sun, 05 Jul 2026 05:45:28 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【随時更新】Ｗ杯 決勝トーナメント日程・結果 動画 8強かけて",
+        "link": "http://www3.nhk.or.jp/news/html/20260628/k10015163051000.html",
+        "pubDate": "Sun, 05 Jul 2026 01:48:41 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "カボベルデ どんな国？W杯で大躍進 日本と意外なつながりも",
+        "link": "http://www3.nhk.or.jp/news/html/20260704/k10015169011000.html",
+        "pubDate": "Sun, 05 Jul 2026 00:20:31 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ラグビー日本代表 イタリアに勝利 新設の国際大会初戦で",
+        "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168991000.html",
+        "pubDate": "Sat, 04 Jul 2026 22:52:43 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】ソフトバンク 連勝6で止まる 新人が初登板も",
+        "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168931000.html",
+        "pubDate": "Sat, 04 Jul 2026 22:46:24 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-07-04-daily",
     "id": "1783116772298",
     "date": "2026-07-04",
