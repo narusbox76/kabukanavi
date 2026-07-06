@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-07-07-daily",
+    "id": "1783376548982",
+    "date": "2026-07-07",
+    "generatedAt": "2026-07-07 07:22",
+    "title": "今日の株式市場メモ 2026-07-07",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] Ｗ杯1次リーグ敗退の韓国 サッカー協会の会長が辞任 （http://www3.nhk.or.jp/news/html/20260707/k10015170441000.html）\n2. [NHK 経済] 英テレビ局スカイ 国内民放ITVの放送・動画配信事業買収へ （http://www3.nhk.or.jp/news/html/20260707/k10015170471000.html）\n3. [NHK 経済] ダウ平均株価が再び最高値 AI期待で半導体などに買い戻し （http://www3.nhk.or.jp/news/html/20260707/k10015170501000.html）\n4. [NHK 経済] キーウで15人死亡 ゼレンスキー氏 各国に防空強化決定呼びかけ （http://www3.nhk.or.jp/news/html/20260707/k10015170481000.html）\n5. [NHK 経済] 経団連会長 “中国への訪問団派遣へ中国側と対話進める” （http://www3.nhk.or.jp/news/html/20260707/k10015170221000.html）\n6. [NHK ビジネス特集] ネアンデルタール人と現生人類 文化交流か トルコの洞窟で発見 （http://www3.nhk.or.jp/news/html/20260707/k10015170291000.html）\n7. [NHK ビジネス特集] KDDI提供のメールシステム アドレスなど1223万人分流出を確認 （http://www3.nhk.or.jp/news/html/20260706/k10015170191000.html）\n8. [NHK ビジネス特集] はやぶさ2が撮影した小惑星「トリフネ」の画像公開 JAXA （http://www3.nhk.or.jp/news/html/20260706/k10015169991000.html）\n9. [NHK ビジネス特集] モスクワ国際バレエコンクール グジェレフ瞭舞さんが金賞 （http://www3.nhk.or.jp/news/html/20260706/k10015169561000.html）\n10. [NHK ビジネス特集] はやぶさ2が小惑星「トリフネ」に接近 無事通過 JAXA （http://www3.nhk.or.jp/news/html/20260705/k10015168951000.html）\n11. [NHK 国際] Ｗ杯1次リーグ敗退の韓国 サッカー協会の会長が辞任 （http://www3.nhk.or.jp/news/html/20260707/k10015170441000.html）\n12. [NHK 国際] NBA八村 クリッパーズと“２年契約に合意”米複数メディア （http://www3.nhk.or.jp/news/html/20260707/k10015170491000.html）\n13. [NHK 国際] トランプ大統領 FIFA会長に再検討求めるも「指示はせず」 （http://www3.nhk.or.jp/news/html/20260707/k10015170451000.html）\n14. [NHK 国際] バスケ男子日本代表 韓国に79-81の惜敗 課題残す （http://www3.nhk.or.jp/news/html/20260707/k10015170391000.html）\n15. [NHK 国際] 野球日本代表 次期監督の人選 NPB “ことし秋までに決定を” （http://www3.nhk.or.jp/news/html/20260706/k10015170281000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "Ｗ杯1次リーグ敗退の韓国 サッカー協会の会長が辞任",
+        "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170441000.html",
+        "pubDate": "Tue, 07 Jul 2026 06:42:45 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "英テレビ局スカイ 国内民放ITVの放送・動画配信事業買収へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170471000.html",
+        "pubDate": "Tue, 07 Jul 2026 06:41:57 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ダウ平均株価が再び最高値 AI期待で半導体などに買い戻し",
+        "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170501000.html",
+        "pubDate": "Tue, 07 Jul 2026 06:40:55 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "キーウで15人死亡 ゼレンスキー氏 各国に防空強化決定呼びかけ",
+        "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170481000.html",
+        "pubDate": "Tue, 07 Jul 2026 06:21:29 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "経団連会長 “中国への訪問団派遣へ中国側と対話進める”",
+        "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170221000.html",
+        "pubDate": "Tue, 07 Jul 2026 05:41:48 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ネアンデルタール人と現生人類 文化交流か トルコの洞窟で発見",
+        "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170291000.html",
+        "pubDate": "Tue, 07 Jul 2026 04:56:23 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "KDDI提供のメールシステム アドレスなど1223万人分流出を確認",
+        "link": "http://www3.nhk.or.jp/news/html/20260706/k10015170191000.html",
+        "pubDate": "Mon, 06 Jul 2026 20:19:11 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "はやぶさ2が撮影した小惑星「トリフネ」の画像公開 JAXA",
+        "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169991000.html",
+        "pubDate": "Mon, 06 Jul 2026 18:08:33 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "モスクワ国際バレエコンクール グジェレフ瞭舞さんが金賞",
+        "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169561000.html",
+        "pubDate": "Mon, 06 Jul 2026 05:58:11 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "はやぶさ2が小惑星「トリフネ」に接近 無事通過 JAXA",
+        "link": "http://www3.nhk.or.jp/news/html/20260705/k10015168951000.html",
+        "pubDate": "Sun, 05 Jul 2026 21:41:16 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "Ｗ杯1次リーグ敗退の韓国 サッカー協会の会長が辞任",
+        "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170441000.html",
+        "pubDate": "Tue, 07 Jul 2026 06:42:45 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "NBA八村 クリッパーズと“２年契約に合意”米複数メディア",
+        "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170491000.html",
+        "pubDate": "Tue, 07 Jul 2026 06:37:53 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "トランプ大統領 FIFA会長に再検討求めるも「指示はせず」",
+        "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170451000.html",
+        "pubDate": "Tue, 07 Jul 2026 05:35:30 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "バスケ男子日本代表 韓国に79-81の惜敗 課題残す",
+        "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170391000.html",
+        "pubDate": "Tue, 07 Jul 2026 00:05:34 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "野球日本代表 次期監督の人選 NPB “ことし秋までに決定を”",
+        "link": "http://www3.nhk.or.jp/news/html/20260706/k10015170281000.html",
+        "pubDate": "Mon, 06 Jul 2026 23:10:07 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-07-06-daily",
     "id": "1783289383993",
     "date": "2026-07-06",
