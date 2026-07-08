@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-07-09-daily",
+    "id": "1783548870561",
+    "date": "2026-07-09",
+    "generatedAt": "2026-07-09 07:14",
+    "title": "今日の株式市場メモ 2026-07-09",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] NY株式市場 ダウ 570ドル余り値下がり イラン情勢への懸念で （http://www3.nhk.or.jp/news/html/20260709/k10015172411000.html）\n2. [NHK 経済] 米中央軍 イランに対し追加攻撃 両国の協議いっそう不透明に （http://www3.nhk.or.jp/news/html/20260709/k10015172441000.html）\n3. [NHK 経済] NATO首脳会議閉幕 “米以外の加盟国が防衛により大きな役割” （http://www3.nhk.or.jp/news/html/20260709/k10015172311000.html）\n4. [NHK 経済] 新議長のもとでの6月のFRB会合議事録 金利の見通し分かれる （http://www3.nhk.or.jp/news/html/20260709/k10015172451000.html）\n5. [NHK 経済] ベネズエラ地震 国連が継続支援を各国に呼びかけ （http://www3.nhk.or.jp/news/html/20260709/k10015172431000.html）\n6. [NHK ビジネス特集] 「はじめてのおつかい」 絵本作家の林明子さん死去 81歳 （http://www3.nhk.or.jp/news/html/20260708/k10015171741000.html）\n7. [NHK ビジネス特集] ネアンデルタール人と現生人類 文化交流か トルコの洞窟で発見 （http://www3.nhk.or.jp/news/html/20260707/k10015170291000.html）\n8. [NHK ビジネス特集] KDDI提供のメールシステム アドレスなど1223万人分流出を確認 （http://www3.nhk.or.jp/news/html/20260706/k10015170191000.html）\n9. [NHK ビジネス特集] はやぶさ2が撮影した小惑星「トリフネ」の画像公開 JAXA （http://www3.nhk.or.jp/news/html/20260706/k10015169991000.html）\n10. [NHK ビジネス特集] モスクワ国際バレエコンクール グジェレフ瞭舞さんが金賞 （http://www3.nhk.or.jp/news/html/20260706/k10015169561000.html）\n11. [NHK 国際] バレーボール女子 ネーションズリーグ 日本はブラジルに敗れる （http://www3.nhk.or.jp/news/html/20260709/k10015172401000.html）\n12. [NHK 国際] 【プロ野球結果】広島が2試合連続のサヨナラ勝ち （http://www3.nhk.or.jp/news/html/20260709/k10015172331000.html）\n13. [NHK 国際] 【随時更新】Ｗ杯 決勝トーナメント日程・結果 動画 4強進出は （http://www3.nhk.or.jp/news/html/20260708/k10015172211000.html）\n14. [NHK 国際] サッカー日本代表監督人選「23日が1つのタイミング」宮本会長 （http://www3.nhk.or.jp/news/html/20260708/k10015172201000.html）\n15. [NHK 国際] 【随時更新】Ｗ杯 得点ランキング スーパースターのゴール動画 （http://www3.nhk.or.jp/news/html/20260705/k10015169231000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "NY株式市場 ダウ 570ドル余り値下がり イラン情勢への懸念で",
+        "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172411000.html",
+        "pubDate": "Thu, 09 Jul 2026 07:08:00 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米中央軍 イランに対し追加攻撃 両国の協議いっそう不透明に",
+        "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172441000.html",
+        "pubDate": "Thu, 09 Jul 2026 06:49:36 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "NATO首脳会議閉幕 “米以外の加盟国が防衛により大きな役割”",
+        "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172311000.html",
+        "pubDate": "Thu, 09 Jul 2026 06:14:04 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "新議長のもとでの6月のFRB会合議事録 金利の見通し分かれる",
+        "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172451000.html",
+        "pubDate": "Thu, 09 Jul 2026 06:06:37 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ベネズエラ地震 国連が継続支援を各国に呼びかけ",
+        "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172431000.html",
+        "pubDate": "Thu, 09 Jul 2026 05:09:04 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「はじめてのおつかい」 絵本作家の林明子さん死去 81歳",
+        "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171741000.html",
+        "pubDate": "Wed, 08 Jul 2026 14:00:57 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ネアンデルタール人と現生人類 文化交流か トルコの洞窟で発見",
+        "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170291000.html",
+        "pubDate": "Tue, 07 Jul 2026 04:56:23 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "KDDI提供のメールシステム アドレスなど1223万人分流出を確認",
+        "link": "http://www3.nhk.or.jp/news/html/20260706/k10015170191000.html",
+        "pubDate": "Mon, 06 Jul 2026 20:19:11 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "はやぶさ2が撮影した小惑星「トリフネ」の画像公開 JAXA",
+        "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169991000.html",
+        "pubDate": "Mon, 06 Jul 2026 18:08:33 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "モスクワ国際バレエコンクール グジェレフ瞭舞さんが金賞",
+        "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169561000.html",
+        "pubDate": "Mon, 06 Jul 2026 05:58:11 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "バレーボール女子 ネーションズリーグ 日本はブラジルに敗れる",
+        "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172401000.html",
+        "pubDate": "Thu, 09 Jul 2026 00:25:05 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】広島が2試合連続のサヨナラ勝ち",
+        "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172331000.html",
+        "pubDate": "Thu, 09 Jul 2026 00:13:51 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【随時更新】Ｗ杯 決勝トーナメント日程・結果 動画 4強進出は",
+        "link": "http://www3.nhk.or.jp/news/html/20260708/k10015172211000.html",
+        "pubDate": "Wed, 08 Jul 2026 22:04:54 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカー日本代表監督人選「23日が1つのタイミング」宮本会長",
+        "link": "http://www3.nhk.or.jp/news/html/20260708/k10015172201000.html",
+        "pubDate": "Wed, 08 Jul 2026 20:59:40 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【随時更新】Ｗ杯 得点ランキング スーパースターのゴール動画",
+        "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169231000.html",
+        "pubDate": "Wed, 08 Jul 2026 20:59:08 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-07-08-daily",
     "id": "1783462752884",
     "date": "2026-07-08",
