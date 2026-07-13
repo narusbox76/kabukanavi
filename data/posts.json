@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-07-14-daily",
+    "id": "1783980254358",
+    "date": "2026-07-14",
+    "generatedAt": "2026-07-14 07:04",
+    "title": "今日の株式市場メモ 2026-07-14",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] ナスダック株価指数1.5％超の下落 日韓ハイテク株安や原油高で （http://www3.nhk.or.jp/news/html/20260714/k10015176201000.html）\n2. [NHK 経済] アメリカ中央軍 “イランに3日連続 攻撃開始” （http://www3.nhk.or.jp/news/html/20260714/k10015176211000.html）\n3. [NHK 経済] ベネズエラ大地震 死者4500人超に 捜索は難航 （http://www3.nhk.or.jp/news/html/20260714/k10015176181000.html）\n4. [NHK 経済] トランプ大統領「海上封鎖再開 20％対価も」 イラン反発 （http://www3.nhk.or.jp/news/html/20260714/k10015176161000.html）\n5. [NHK 経済] 韓国株価8％超の大幅な下落 売買を一時的に中断する措置も （http://www3.nhk.or.jp/news/html/20260713/k10015175941000.html）\n6. [NHK ビジネス特集] 科学技術・イノベーション白書 基礎研究の成果を社会実装へ （http://www3.nhk.or.jp/news/html/20260713/k10015175221000.html）\n7. [NHK ビジネス特集] 仏像から平安時代末期の古文書 大量に見つかる 源義仲の記述も （http://www3.nhk.or.jp/news/html/20260712/k10015174831000.html）\n8. [NHK ビジネス特集] JAXA 再使用型ロケット実験機の試験 正常に飛行し着陸 （http://www3.nhk.or.jp/news/html/20260711/k10015174461000.html）\n9. [NHK ビジネス特集] 五輪コンサート 五輪・パラリンピックのメダリストが思い語る （http://www3.nhk.or.jp/news/html/20260711/k10015174111000.html）\n10. [NHK ビジネス特集] 米オープンAI 新型AI 一般への提供開始 「ミュトス」超えも （http://www3.nhk.or.jp/news/html/20260710/k10015173691000.html）\n11. [NHK 国際] サッカーＷ杯 スペインが準決勝へ最終調整 （http://www3.nhk.or.jp/news/html/20260714/k10015176191000.html）\n12. [NHK 国際] 大相撲名古屋場所 3日目見どころ 豊昇龍は藤ノ川と （http://www3.nhk.or.jp/news/html/20260714/k10015176081000.html）\n13. [NHK 国際] 大相撲名古屋場所2日目 休場明けの横綱 大の里 初日から2連敗 （http://www3.nhk.or.jp/news/html/20260713/k10015175701000.html）\n14. [NHK 国際] ドジャース 大谷翔平 22号ホームラン 日米通算350号に到達 （http://www3.nhk.or.jp/news/html/20260713/k10015175311000.html）\n15. [NHK 国際] サッカーW杯 日本代表 板倉滉 “優勝の目標 絶対変えずに” （http://www3.nhk.or.jp/news/html/20260713/k10015175881000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "ナスダック株価指数1.5％超の下落 日韓ハイテク株安や原油高で",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176201000.html",
+        "pubDate": "Tue, 14 Jul 2026 07:02:35 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "アメリカ中央軍 “イランに3日連続 攻撃開始”",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176211000.html",
+        "pubDate": "Tue, 14 Jul 2026 06:49:02 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ベネズエラ大地震 死者4500人超に 捜索は難航",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176181000.html",
+        "pubDate": "Tue, 14 Jul 2026 05:44:50 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "トランプ大統領「海上封鎖再開 20％対価も」 イラン反発",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176161000.html",
+        "pubDate": "Tue, 14 Jul 2026 05:34:27 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "韓国株価8％超の大幅な下落 売買を一時的に中断する措置も",
+        "link": "http://www3.nhk.or.jp/news/html/20260713/k10015175941000.html",
+        "pubDate": "Mon, 13 Jul 2026 21:58:04 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "科学技術・イノベーション白書 基礎研究の成果を社会実装へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260713/k10015175221000.html",
+        "pubDate": "Mon, 13 Jul 2026 08:13:55 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "仏像から平安時代末期の古文書 大量に見つかる 源義仲の記述も",
+        "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174831000.html",
+        "pubDate": "Sun, 12 Jul 2026 11:45:02 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "JAXA 再使用型ロケット実験機の試験 正常に飛行し着陸",
+        "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174461000.html",
+        "pubDate": "Sat, 11 Jul 2026 18:57:27 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "五輪コンサート 五輪・パラリンピックのメダリストが思い語る",
+        "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174111000.html",
+        "pubDate": "Sat, 11 Jul 2026 05:07:37 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "米オープンAI 新型AI 一般への提供開始 「ミュトス」超えも",
+        "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173691000.html",
+        "pubDate": "Fri, 10 Jul 2026 16:09:22 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカーＷ杯 スペインが準決勝へ最終調整",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176191000.html",
+        "pubDate": "Tue, 14 Jul 2026 06:40:29 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲名古屋場所 3日目見どころ 豊昇龍は藤ノ川と",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176081000.html",
+        "pubDate": "Tue, 14 Jul 2026 05:20:33 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲名古屋場所2日目 休場明けの横綱 大の里 初日から2連敗",
+        "link": "http://www3.nhk.or.jp/news/html/20260713/k10015175701000.html",
+        "pubDate": "Mon, 13 Jul 2026 21:00:35 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ドジャース 大谷翔平 22号ホームラン 日米通算350号に到達",
+        "link": "http://www3.nhk.or.jp/news/html/20260713/k10015175311000.html",
+        "pubDate": "Mon, 13 Jul 2026 18:58:26 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカーW杯 日本代表 板倉滉 “優勝の目標 絶対変えずに”",
+        "link": "http://www3.nhk.or.jp/news/html/20260713/k10015175881000.html",
+        "pubDate": "Mon, 13 Jul 2026 18:52:03 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-07-13-daily",
     "id": "1783893708018",
     "date": "2026-07-13",
