@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-07-15-daily",
+    "id": "1784066903903",
+    "date": "2026-07-15",
+    "generatedAt": "2026-07-15 07:08",
+    "title": "今日の株式市場メモ 2026-07-15",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] FRB ウォーシュ議長「高いインフレ率の継続 容認しない」 （http://www3.nhk.or.jp/news/html/20260715/k10015177191000.html）\n2. [NHK 経済] 米がホルムズ海峡を再び封鎖 トランプ大統領 対価要求は撤回 （http://www3.nhk.or.jp/news/html/20260715/k10015177001000.html）\n3. [NHK 経済] 米物価上昇率3.5％ 伸び率縮小で早期利上げ観測 やや後退 （http://www3.nhk.or.jp/news/html/20260714/k10015177041000.html）\n4. [NHK 経済] 中国共産党指導部の幹部1人が汚職で党籍剥奪の処分 （http://www3.nhk.or.jp/news/html/20260714/k10015176841000.html）\n5. [NHK 経済] カンボジアの虐殺博物館など世界遺産登録から1年で記念式典 （http://www3.nhk.or.jp/news/html/20260714/k10015176831000.html）\n6. [NHK ビジネス特集] きょう 第175回芥川賞・直木賞の選考会 候補作の詳細も （http://www3.nhk.or.jp/news/html/20260715/k10015176901000.html）\n7. [NHK ビジネス特集] ソフトバンクG 孫社長 “AIエージェント普及で景色変わる” （http://www3.nhk.or.jp/news/html/20260714/k10015176631000.html）\n8. [NHK ビジネス特集] 来年秋の朝ドラ 新米獣医師の成長描く「なぎさの進化論」 （http://www3.nhk.or.jp/news/html/20260714/k10015176491000.html）\n9. [NHK ビジネス特集] 関西電力 大飯原発運転差し止め訴訟 きょう判決 京都地裁 （http://www3.nhk.or.jp/news/html/20260714/k10015176141000.html）\n10. [NHK ビジネス特集] 科学技術・イノベーション白書 基礎研究の成果を社会実装へ （http://www3.nhk.or.jp/news/html/20260713/k10015175221000.html）\n11. [NHK 国際] W杯 スペイン 4大会ぶり決勝進出 フランス3大会連続決勝ならず （http://www3.nhk.or.jp/news/html/20260715/k10015177181000.html）\n12. [NHK 国際] 大リーグオールスター 村上・山本がレッドカーペットに登場 （http://www3.nhk.or.jp/news/html/20260715/k10015177201000.html）\n13. [NHK 国際] 大相撲名古屋場所 4日目見どころ 大の里は平幕の豪ノ山と （http://www3.nhk.or.jp/news/html/20260715/k10015177091000.html）\n14. [NHK 国際] 【プロ野球結果】ソフトバンクが両リーグ1番乗りで50勝到達 （http://www3.nhk.or.jp/news/html/20260714/k10015177051000.html）\n15. [NHK 国際] バドミントン ジャパンオープン開幕 期待の19歳宮崎は初戦敗退 （http://www3.nhk.or.jp/news/html/20260714/k10015177031000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "FRB ウォーシュ議長「高いインフレ率の継続 容認しない」",
+        "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177191000.html",
+        "pubDate": "Wed, 15 Jul 2026 06:40:20 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米がホルムズ海峡を再び封鎖 トランプ大統領 対価要求は撤回",
+        "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177001000.html",
+        "pubDate": "Wed, 15 Jul 2026 06:12:42 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米物価上昇率3.5％ 伸び率縮小で早期利上げ観測 やや後退",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015177041000.html",
+        "pubDate": "Wed, 15 Jul 2026 05:45:26 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "中国共産党指導部の幹部1人が汚職で党籍剥奪の処分",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176841000.html",
+        "pubDate": "Tue, 14 Jul 2026 23:32:52 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "カンボジアの虐殺博物館など世界遺産登録から1年で記念式典",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176831000.html",
+        "pubDate": "Tue, 14 Jul 2026 23:31:50 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "きょう 第175回芥川賞・直木賞の選考会 候補作の詳細も",
+        "link": "http://www3.nhk.or.jp/news/html/20260715/k10015176901000.html",
+        "pubDate": "Wed, 15 Jul 2026 06:18:23 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ソフトバンクG 孫社長 “AIエージェント普及で景色変わる”",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176631000.html",
+        "pubDate": "Tue, 14 Jul 2026 20:59:32 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "来年秋の朝ドラ 新米獣医師の成長描く「なぎさの進化論」",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176491000.html",
+        "pubDate": "Tue, 14 Jul 2026 13:29:05 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "関西電力 大飯原発運転差し止め訴訟 きょう判決 京都地裁",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176141000.html",
+        "pubDate": "Tue, 14 Jul 2026 07:18:55 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "科学技術・イノベーション白書 基礎研究の成果を社会実装へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260713/k10015175221000.html",
+        "pubDate": "Mon, 13 Jul 2026 08:13:55 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "W杯 スペイン 4大会ぶり決勝進出 フランス3大会連続決勝ならず",
+        "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177181000.html",
+        "pubDate": "Wed, 15 Jul 2026 06:53:49 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大リーグオールスター 村上・山本がレッドカーペットに登場",
+        "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177201000.html",
+        "pubDate": "Wed, 15 Jul 2026 06:47:22 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲名古屋場所 4日目見どころ 大の里は平幕の豪ノ山と",
+        "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177091000.html",
+        "pubDate": "Wed, 15 Jul 2026 05:50:48 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】ソフトバンクが両リーグ1番乗りで50勝到達",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015177051000.html",
+        "pubDate": "Tue, 14 Jul 2026 23:43:02 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "バドミントン ジャパンオープン開幕 期待の19歳宮崎は初戦敗退",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015177031000.html",
+        "pubDate": "Tue, 14 Jul 2026 22:11:25 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-07-14-daily",
     "id": "1783980254358",
     "date": "2026-07-14",
