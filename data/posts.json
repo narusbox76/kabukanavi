@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-07-17-daily",
+    "id": "1784239914134",
+    "date": "2026-07-17",
+    "generatedAt": "2026-07-17 07:11",
+    "title": "今日の株式市場メモ 2026-07-17",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 米が6日連続攻撃 イランはバーブルマンデブ海峡封鎖を要請か （http://www3.nhk.or.jp/news/html/20260717/k10015178751000.html）\n2. [NHK 経済] ウクライナ国防相 後任にフマラ氏指名 解任に反発広がる （http://www3.nhk.or.jp/news/html/20260717/k10015178731000.html）\n3. [NHK 経済] イギリス労働党 新党首にバーナム氏選出へ 新首相就任の見込み （http://www3.nhk.or.jp/news/html/20260717/k10015178741000.html）\n4. [NHK 経済] 米 ブラジルに25％追加関税 ブラジル「正当化の根拠ない」 （http://www3.nhk.or.jp/news/html/20260717/k10015178861000.html）\n5. [NHK 経済] 米 6月の小売業売上高 前月比0.2％増 消費堅調続くか焦点 （http://www3.nhk.or.jp/news/html/20260716/k10015178831000.html）\n6. [NHK ビジネス特集] 芥川賞に小砂川チトさん 直木賞に朝倉かすみさん （http://www3.nhk.or.jp/news/html/20260715/k10015176901000.html）\n7. [NHK ビジネス特集] 小型ロケット「イプシロンS」今月23日燃焼試験へ JAXA （http://www3.nhk.or.jp/news/html/20260715/k10015177271000.html）\n8. [NHK ビジネス特集] ソフトバンクG 孫社長 “AIエージェント普及で景色変わる” （http://www3.nhk.or.jp/news/html/20260714/k10015176631000.html）\n9. [NHK ビジネス特集] 来年秋の朝ドラ 新米獣医師の成長描く「なぎさの進化論」 （http://www3.nhk.or.jp/news/html/20260714/k10015176491000.html）\n10. [NHK ビジネス特集] 関西電力 大飯原発運転差し止め訴訟 きょう判決 京都地裁 （http://www3.nhk.or.jp/news/html/20260714/k10015176141000.html）\n11. [NHK 国際] W杯北中米大会 スペインがアルゼンチンとの決勝へ 練習再開 （http://www3.nhk.or.jp/news/html/20260717/k10015178871000.html）\n12. [NHK 国際] 水泳授業の実態調査 暑さ対応やプール老朽化に課題 スポーツ庁 （http://www3.nhk.or.jp/news/html/20260717/k10015178641000.html）\n13. [NHK 国際] 大相撲名古屋場所 6日目見どころ 綱とりの霧島は義ノ富士と （http://www3.nhk.or.jp/news/html/20260717/k10015178781000.html）\n14. [NHK 国際] 五輪除外のスキーノルディック複合 山本涼太 ジャンプに転向へ （http://www3.nhk.or.jp/news/html/20260717/k10015178801000.html）\n15. [NHK 国際] 野球日本代表 井口資仁氏が監督の有力候補として浮上 （http://www3.nhk.or.jp/news/html/20260717/k10015178851000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "米が6日連続攻撃 イランはバーブルマンデブ海峡封鎖を要請か",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178751000.html",
+        "pubDate": "Fri, 17 Jul 2026 06:11:51 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナ国防相 後任にフマラ氏指名 解任に反発広がる",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178731000.html",
+        "pubDate": "Fri, 17 Jul 2026 06:11:11 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "イギリス労働党 新党首にバーナム氏選出へ 新首相就任の見込み",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178741000.html",
+        "pubDate": "Fri, 17 Jul 2026 05:27:56 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米 ブラジルに25％追加関税 ブラジル「正当化の根拠ない」",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178861000.html",
+        "pubDate": "Fri, 17 Jul 2026 03:57:34 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米 6月の小売業売上高 前月比0.2％増 消費堅調続くか焦点",
+        "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178831000.html",
+        "pubDate": "Thu, 16 Jul 2026 23:57:12 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "芥川賞に小砂川チトさん 直木賞に朝倉かすみさん",
+        "link": "http://www3.nhk.or.jp/news/html/20260715/k10015176901000.html",
+        "pubDate": "Wed, 15 Jul 2026 22:51:52 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "小型ロケット「イプシロンS」今月23日燃焼試験へ JAXA",
+        "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177271000.html",
+        "pubDate": "Wed, 15 Jul 2026 11:33:34 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ソフトバンクG 孫社長 “AIエージェント普及で景色変わる”",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176631000.html",
+        "pubDate": "Tue, 14 Jul 2026 20:59:32 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "来年秋の朝ドラ 新米獣医師の成長描く「なぎさの進化論」",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176491000.html",
+        "pubDate": "Tue, 14 Jul 2026 13:29:05 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "関西電力 大飯原発運転差し止め訴訟 きょう判決 京都地裁",
+        "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176141000.html",
+        "pubDate": "Tue, 14 Jul 2026 07:18:55 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "W杯北中米大会 スペインがアルゼンチンとの決勝へ 練習再開",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178871000.html",
+        "pubDate": "Fri, 17 Jul 2026 06:46:01 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "水泳授業の実態調査 暑さ対応やプール老朽化に課題 スポーツ庁",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178641000.html",
+        "pubDate": "Fri, 17 Jul 2026 05:50:57 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲名古屋場所 6日目見どころ 綱とりの霧島は義ノ富士と",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178781000.html",
+        "pubDate": "Fri, 17 Jul 2026 05:17:52 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "五輪除外のスキーノルディック複合 山本涼太 ジャンプに転向へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178801000.html",
+        "pubDate": "Fri, 17 Jul 2026 04:10:58 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "野球日本代表 井口資仁氏が監督の有力候補として浮上",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178851000.html",
+        "pubDate": "Fri, 17 Jul 2026 01:33:04 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-07-16-daily",
     "id": "1784153399944",
     "date": "2026-07-16",
