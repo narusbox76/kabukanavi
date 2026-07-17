@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-07-18-daily",
+    "id": "1784325731038",
+    "date": "2026-07-18",
+    "generatedAt": "2026-07-18 07:02",
+    "title": "今日の株式市場メモ 2026-07-18",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] メキシコ南部の沖合で大地震 M7.3 大きな被害報告なし （http://www3.nhk.or.jp/news/html/20260718/k10015179891000.html）\n2. [NHK 経済] ゼレンスキー大統領 安全保障政策担う重要ポストを内相に打診 （http://www3.nhk.or.jp/news/html/20260718/k10015179981000.html）\n3. [NHK 経済] 中国 重慶 山の斜面崩れ8人死亡 34人と連絡取れず 捜索は難航 （http://www3.nhk.or.jp/news/html/20260718/k10015179961000.html）\n4. [NHK 経済] ICC赤根所長 “国際法は強い圧力にさらされている” （http://www3.nhk.or.jp/news/html/20260718/k10015179791000.html）\n5. [NHK 経済] 中国で日系企業ら会合 金杉大使「輸出規制強化に留意を」 （http://www3.nhk.or.jp/news/html/20260718/k10015179691000.html）\n6. [NHK ビジネス特集] 「ABC予想」の証明 検証プロジェクト“結論見通し立たず” （http://www3.nhk.or.jp/news/html/20260717/k10015179631000.html）\n7. [NHK ビジネス特集] 浜岡原発データ不正「原子力事業への信頼失墜」電事連会長 （http://www3.nhk.or.jp/news/html/20260717/k10015179491000.html）\n8. [NHK ビジネス特集] 法隆寺金堂壁画 焼損前の姿を最新技術で鮮明に復元 （http://www3.nhk.or.jp/news/html/20260717/k10015179411000.html）\n9. [NHK ビジネス特集] 人間国宝 新たに4人を認定へ 芸能・工芸の分野で （http://www3.nhk.or.jp/news/html/20260717/k10015179351000.html）\n10. [NHK ビジネス特集] ゲノム編集した受精卵などの移植原則禁止 罰則も 新法成立 （http://www3.nhk.or.jp/news/html/20260717/k10015179281000.html）\n11. [NHK 国際] 大相撲名古屋場所 7日目見どころ 大の里は伯乃富士と （http://www3.nhk.or.jp/news/html/20260718/k10015179741000.html）\n12. [NHK 国際] 【プロ野球結果】巨人 坂本勇人のホームランでサヨナラ勝ち （http://www3.nhk.or.jp/news/html/20260717/k10015179701000.html）\n13. [NHK 国際] W杯北中米大会 ベーグルで決勝進出の両チームを応援 （http://www3.nhk.or.jp/news/html/20260717/k10015179661000.html）\n14. [NHK 国際] 【随時更新】Ｗ杯 決勝トーナメント日程・結果 動画 残り2試合 （http://www3.nhk.or.jp/news/html/20260708/k10015172211000.html）\n15. [NHK 国際] 大相撲名古屋場所6日目 横綱 豊昇龍 物言いの末に2敗目 （http://www3.nhk.or.jp/news/html/20260717/k10015179301000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "メキシコ南部の沖合で大地震 M7.3 大きな被害報告なし",
+        "link": "http://www3.nhk.or.jp/news/html/20260718/k10015179891000.html",
+        "pubDate": "Sat, 18 Jul 2026 06:53:11 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ゼレンスキー大統領 安全保障政策担う重要ポストを内相に打診",
+        "link": "http://www3.nhk.or.jp/news/html/20260718/k10015179981000.html",
+        "pubDate": "Sat, 18 Jul 2026 06:41:52 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "中国 重慶 山の斜面崩れ8人死亡 34人と連絡取れず 捜索は難航",
+        "link": "http://www3.nhk.or.jp/news/html/20260718/k10015179961000.html",
+        "pubDate": "Sat, 18 Jul 2026 06:16:08 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ICC赤根所長 “国際法は強い圧力にさらされている”",
+        "link": "http://www3.nhk.or.jp/news/html/20260718/k10015179791000.html",
+        "pubDate": "Sat, 18 Jul 2026 05:45:28 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "中国で日系企業ら会合 金杉大使「輸出規制強化に留意を」",
+        "link": "http://www3.nhk.or.jp/news/html/20260718/k10015179691000.html",
+        "pubDate": "Sat, 18 Jul 2026 05:36:37 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「ABC予想」の証明 検証プロジェクト“結論見通し立たず”",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179631000.html",
+        "pubDate": "Fri, 17 Jul 2026 20:59:44 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "浜岡原発データ不正「原子力事業への信頼失墜」電事連会長",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179491000.html",
+        "pubDate": "Fri, 17 Jul 2026 18:36:26 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "法隆寺金堂壁画 焼損前の姿を最新技術で鮮明に復元",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179411000.html",
+        "pubDate": "Fri, 17 Jul 2026 17:02:42 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "人間国宝 新たに4人を認定へ 芸能・工芸の分野で",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179351000.html",
+        "pubDate": "Fri, 17 Jul 2026 17:01:07 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ゲノム編集した受精卵などの移植原則禁止 罰則も 新法成立",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179281000.html",
+        "pubDate": "Fri, 17 Jul 2026 16:58:13 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲名古屋場所 7日目見どころ 大の里は伯乃富士と",
+        "link": "http://www3.nhk.or.jp/news/html/20260718/k10015179741000.html",
+        "pubDate": "Sat, 18 Jul 2026 05:40:47 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】巨人 坂本勇人のホームランでサヨナラ勝ち",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179701000.html",
+        "pubDate": "Fri, 17 Jul 2026 23:11:26 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "W杯北中米大会 ベーグルで決勝進出の両チームを応援",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179661000.html",
+        "pubDate": "Fri, 17 Jul 2026 21:31:24 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【随時更新】Ｗ杯 決勝トーナメント日程・結果 動画 残り2試合",
+        "link": "http://www3.nhk.or.jp/news/html/20260708/k10015172211000.html",
+        "pubDate": "Fri, 17 Jul 2026 21:07:39 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲名古屋場所6日目 横綱 豊昇龍 物言いの末に2敗目",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179301000.html",
+        "pubDate": "Fri, 17 Jul 2026 20:50:11 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-07-17-daily",
     "id": "1784239914134",
     "date": "2026-07-17",
