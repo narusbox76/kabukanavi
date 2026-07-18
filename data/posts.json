@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-07-19-daily",
+    "id": "1784412024163",
+    "date": "2026-07-19",
+    "generatedAt": "2026-07-19 07:00",
+    "title": "今日の株式市場メモ 2026-07-19",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] イラン“覚書の履行停止” 米はイラン攻撃対応で2人死亡と発表 （http://www3.nhk.or.jp/news/html/20260719/k10015180431000.html）\n2. [NHK 経済] 【詳細】ロシア ウクライナに軍事侵攻（7月18日の動き） （http://www3.nhk.or.jp/news/html/20260718/k10015141091000.html）\n3. [NHK 経済] アメリカとイラン 覚書署名から1か月 合意形がい化で被害拡大 （http://www3.nhk.or.jp/news/html/20260718/k10015179971000.html）\n4. [NHK 経済] ウクライナ ロシア大手通信販売会社の倉庫などを攻撃 （http://www3.nhk.or.jp/news/html/20260718/k10015180421000.html）\n5. [NHK 経済] 中国と北朝鮮の貿易総額 ことし上半期はコロナ拡大前の水準超 （http://www3.nhk.or.jp/news/html/20260718/k10015180311000.html）\n6. [NHK ビジネス特集] 喜劇王チャップリンの「街の灯」が人形浄瑠璃文楽に 大阪 （http://www3.nhk.or.jp/news/html/20260719/k10015180401000.html）\n7. [NHK ビジネス特集] きょうから世界遺産委員会「飛鳥・藤原の宮都」登録の見通し （http://www3.nhk.or.jp/news/html/20260719/k10015180351000.html）\n8. [NHK ビジネス特集] 「ABC予想」の証明 検証プロジェクト“結論見通し立たず” （http://www3.nhk.or.jp/news/html/20260717/k10015179631000.html）\n9. [NHK ビジネス特集] 浜岡原発データ不正「原子力事業への信頼失墜」電事連会長 （http://www3.nhk.or.jp/news/html/20260717/k10015179491000.html）\n10. [NHK ビジネス特集] 法隆寺金堂壁画 焼損前の姿を最新技術で鮮明に復元 （http://www3.nhk.or.jp/news/html/20260717/k10015179411000.html）\n11. [NHK 国際] 【速報中】W杯 イングランドがリードで前半終了 フランス戦 （http://www3.nhk.or.jp/news/html/20260719/k10015180461000.html）\n12. [NHK 国際] アルゼンチン メッシの地元でサッカーW杯連覇に期待の声 （http://www3.nhk.or.jp/news/html/20260719/k10015180411000.html）\n13. [NHK 国際] W杯 アルゼンチンが決勝へ調整 スペインは雷影響で屋外中止に （http://www3.nhk.or.jp/news/html/20260719/k10015180551000.html）\n14. [NHK 国際] 【プロ野球結果】阪神 巨人 ヤクルト セ上位3チームが敗戦 （http://www3.nhk.or.jp/news/html/20260718/k10015180521000.html）\n15. [NHK 国際] 大相撲名古屋場所 中日8日目の見どころ 大関 霧島は熱海富士と （http://www3.nhk.or.jp/news/html/20260719/k10015180511000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "イラン“覚書の履行停止” 米はイラン攻撃対応で2人死亡と発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180431000.html",
+        "pubDate": "Sun, 19 Jul 2026 06:57:26 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【詳細】ロシア ウクライナに軍事侵攻（7月18日の動き）",
+        "link": "http://www3.nhk.or.jp/news/html/20260718/k10015141091000.html",
+        "pubDate": "Sun, 19 Jul 2026 00:09:11 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "アメリカとイラン 覚書署名から1か月 合意形がい化で被害拡大",
+        "link": "http://www3.nhk.or.jp/news/html/20260718/k10015179971000.html",
+        "pubDate": "Sat, 18 Jul 2026 22:36:42 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナ ロシア大手通信販売会社の倉庫などを攻撃",
+        "link": "http://www3.nhk.or.jp/news/html/20260718/k10015180421000.html",
+        "pubDate": "Sat, 18 Jul 2026 22:04:20 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "中国と北朝鮮の貿易総額 ことし上半期はコロナ拡大前の水準超",
+        "link": "http://www3.nhk.or.jp/news/html/20260718/k10015180311000.html",
+        "pubDate": "Sat, 18 Jul 2026 18:16:05 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "喜劇王チャップリンの「街の灯」が人形浄瑠璃文楽に 大阪",
+        "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180401000.html",
+        "pubDate": "Sun, 19 Jul 2026 06:20:40 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "きょうから世界遺産委員会「飛鳥・藤原の宮都」登録の見通し",
+        "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180351000.html",
+        "pubDate": "Sun, 19 Jul 2026 05:04:49 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「ABC予想」の証明 検証プロジェクト“結論見通し立たず”",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179631000.html",
+        "pubDate": "Fri, 17 Jul 2026 20:59:44 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "浜岡原発データ不正「原子力事業への信頼失墜」電事連会長",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179491000.html",
+        "pubDate": "Fri, 17 Jul 2026 18:36:26 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "法隆寺金堂壁画 焼損前の姿を最新技術で鮮明に復元",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179411000.html",
+        "pubDate": "Fri, 17 Jul 2026 17:02:42 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【速報中】W杯 イングランドがリードで前半終了 フランス戦",
+        "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180461000.html",
+        "pubDate": "Sun, 19 Jul 2026 06:54:45 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "アルゼンチン メッシの地元でサッカーW杯連覇に期待の声",
+        "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180411000.html",
+        "pubDate": "Sun, 19 Jul 2026 06:29:28 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "W杯 アルゼンチンが決勝へ調整 スペインは雷影響で屋外中止に",
+        "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180551000.html",
+        "pubDate": "Sun, 19 Jul 2026 05:39:27 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】阪神 巨人 ヤクルト セ上位3チームが敗戦",
+        "link": "http://www3.nhk.or.jp/news/html/20260718/k10015180521000.html",
+        "pubDate": "Sun, 19 Jul 2026 05:08:58 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲名古屋場所 中日8日目の見どころ 大関 霧島は熱海富士と",
+        "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180511000.html",
+        "pubDate": "Sun, 19 Jul 2026 04:54:55 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-07-18-daily",
     "id": "1784325731038",
     "date": "2026-07-18",
