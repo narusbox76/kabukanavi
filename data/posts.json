@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-07-20-daily",
+    "id": "1784498581653",
+    "date": "2026-07-20",
+    "generatedAt": "2026-07-20 07:03",
+    "title": "今日の株式市場メモ 2026-07-20",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 米イラン攻撃応酬続く 新たに米兵1人の死亡を発表 （http://www3.nhk.or.jp/news/html/20260720/k10015180931000.html）\n2. [NHK 経済] ロシアがウクライナに弾道ミサイルで攻撃 過去最大規模か （http://www3.nhk.or.jp/news/html/20260720/k10015181001000.html）\n3. [NHK 経済] 台湾の与党・民進党が党大会 統一地方選挙に向け団結呼びかけ （http://www3.nhk.or.jp/news/html/20260719/k10015180911000.html）\n4. [NHK 経済] 米軍8日連続の攻撃完了 イラン「壊滅的な反撃招く」とけん制 （http://www3.nhk.or.jp/news/html/20260719/k10015180851000.html）\n5. [NHK 経済] OSAの枠組み通じ初めてカンボジアに通信機材など供与合意 日本 （http://www3.nhk.or.jp/news/html/20260719/k10015180841000.html）\n6. [NHK ビジネス特集] 競技かるたの高校日本一決める全国大会 高校生が熱い戦い 滋賀 （http://www3.nhk.or.jp/news/html/20260719/k10015180761000.html）\n7. [NHK ビジネス特集] 喜劇王チャップリンの「街の灯」が人形浄瑠璃文楽に 大阪 （http://www3.nhk.or.jp/news/html/20260719/k10015180401000.html）\n8. [NHK ビジネス特集] きょうから世界遺産委員会「飛鳥・藤原の宮都」登録の見通し （http://www3.nhk.or.jp/news/html/20260719/k10015180351000.html）\n9. [NHK ビジネス特集] 「ABC予想」の証明 検証プロジェクト“結論見通し立たず” （http://www3.nhk.or.jp/news/html/20260717/k10015179631000.html）\n10. [NHK ビジネス特集] 浜岡原発データ不正「原子力事業への信頼失墜」電事連会長 （http://www3.nhk.or.jp/news/html/20260717/k10015179491000.html）\n11. [NHK 国際] 【速報中】決勝 スペインが先制 延長後半に アルゼンチン戦 （http://www3.nhk.or.jp/news/html/20260720/k10015180471000.html）\n12. [NHK 国際] ゴルフ全英オープン 松山英樹は14位で大会終える （http://www3.nhk.or.jp/news/html/20260720/k10015181021000.html）\n13. [NHK 国際] 大相撲名古屋場所 9日目の見どころ 安青錦は大の里に挑む （http://www3.nhk.or.jp/news/html/20260720/k10015180961000.html）\n14. [NHK 国際] メッシと赤ちゃん時代のヤマル 撮影の舞台裏は ユニセフ （http://www3.nhk.or.jp/news/html/20260720/k10015180991000.html）\n15. [NHK 国際] 【プロ野球結果】巨人 小笠原慎之介 国内復帰後初勝利 （http://www3.nhk.or.jp/news/html/20260719/k10015180971000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "米イラン攻撃応酬続く 新たに米兵1人の死亡を発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260720/k10015180931000.html",
+        "pubDate": "Mon, 20 Jul 2026 06:19:28 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ロシアがウクライナに弾道ミサイルで攻撃 過去最大規模か",
+        "link": "http://www3.nhk.or.jp/news/html/20260720/k10015181001000.html",
+        "pubDate": "Mon, 20 Jul 2026 04:56:13 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "台湾の与党・民進党が党大会 統一地方選挙に向け団結呼びかけ",
+        "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180911000.html",
+        "pubDate": "Sun, 19 Jul 2026 21:02:03 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米軍8日連続の攻撃完了 イラン「壊滅的な反撃招く」とけん制",
+        "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180851000.html",
+        "pubDate": "Sun, 19 Jul 2026 19:15:21 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "OSAの枠組み通じ初めてカンボジアに通信機材など供与合意 日本",
+        "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180841000.html",
+        "pubDate": "Sun, 19 Jul 2026 19:09:04 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "競技かるたの高校日本一決める全国大会 高校生が熱い戦い 滋賀",
+        "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180761000.html",
+        "pubDate": "Sun, 19 Jul 2026 16:23:43 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "喜劇王チャップリンの「街の灯」が人形浄瑠璃文楽に 大阪",
+        "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180401000.html",
+        "pubDate": "Sun, 19 Jul 2026 08:42:39 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "きょうから世界遺産委員会「飛鳥・藤原の宮都」登録の見通し",
+        "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180351000.html",
+        "pubDate": "Sun, 19 Jul 2026 05:04:49 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「ABC予想」の証明 検証プロジェクト“結論見通し立たず”",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179631000.html",
+        "pubDate": "Fri, 17 Jul 2026 20:59:44 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "浜岡原発データ不正「原子力事業への信頼失墜」電事連会長",
+        "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179491000.html",
+        "pubDate": "Fri, 17 Jul 2026 18:36:26 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【速報中】決勝 スペインが先制 延長後半に アルゼンチン戦",
+        "link": "http://www3.nhk.or.jp/news/html/20260720/k10015180471000.html",
+        "pubDate": "Mon, 20 Jul 2026 07:01:35 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ゴルフ全英オープン 松山英樹は14位で大会終える",
+        "link": "http://www3.nhk.or.jp/news/html/20260720/k10015181021000.html",
+        "pubDate": "Mon, 20 Jul 2026 05:45:09 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲名古屋場所 9日目の見どころ 安青錦は大の里に挑む",
+        "link": "http://www3.nhk.or.jp/news/html/20260720/k10015180961000.html",
+        "pubDate": "Mon, 20 Jul 2026 05:17:04 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "メッシと赤ちゃん時代のヤマル 撮影の舞台裏は ユニセフ",
+        "link": "http://www3.nhk.or.jp/news/html/20260720/k10015180991000.html",
+        "pubDate": "Mon, 20 Jul 2026 03:40:57 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】巨人 小笠原慎之介 国内復帰後初勝利",
+        "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180971000.html",
+        "pubDate": "Sun, 19 Jul 2026 23:34:40 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-07-19-daily",
     "id": "1784412024163",
     "date": "2026-07-19",
