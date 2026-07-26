@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-07-27-daily",
+    "id": "1785103703382",
+    "date": "2026-07-27",
+    "generatedAt": "2026-07-27 07:08",
+    "title": "今日の株式市場メモ 2026-07-27",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 米国産生鮮ジャガイモ 輸入解禁手続き進む一方で懸念の声も （http://www3.nhk.or.jp/news/html/20260727/k10015186811000.html）\n2. [NHK 経済] 米国連大使“協議の余地残す” イラン高官“懐疑的見方強い” （http://www3.nhk.or.jp/news/html/20260727/k10015186961000.html）\n3. [NHK 経済] ウクライナ“ロシア・イラン間の輸送船を攻撃” イランは反発 （http://www3.nhk.or.jp/news/html/20260727/k10015186911000.html）\n4. [NHK 経済] 米FRB会合 イラン情勢によるインフレ再加速懸念で判断注目 （http://www3.nhk.or.jp/news/html/20260727/k10015186781000.html）\n5. [NHK 経済] 【詳細】ロシア ウクライナに軍事侵攻（7月26日の動き） （http://www3.nhk.or.jp/news/html/20260726/k10015141171000.html）\n6. [NHK ビジネス特集] 秀吉が恭順の毛利側を盛大にもてなしたこと示す文書発見 （http://www3.nhk.or.jp/news/html/20260727/k10015186821000.html）\n7. [NHK ビジネス特集] 「飛鳥・藤原の宮都」世界文化遺産に登録決定 国内で27件に （http://www3.nhk.or.jp/news/html/20260726/k10015186101000.html）\n8. [NHK ビジネス特集] 「超新星背景ニュートリノ」の存在示す“兆候”初めて捉えたか （http://www3.nhk.or.jp/news/html/20260726/k10015186081000.html）\n9. [NHK ビジネス特集] 彬子さま 大英博物館展の開会式に 東京 上野 （http://www3.nhk.or.jp/news/html/20260725/k10015185611000.html）\n10. [NHK ビジネス特集] 世界遺産登録の審議始まる 「飛鳥・藤原の宮都」は26日か （http://www3.nhk.or.jp/news/html/20260724/k10015185361000.html）\n11. [NHK 国際] ホワイトソックス 村上宗隆 21号22号 1試合2本塁打は2回目 （http://www3.nhk.or.jp/news/html/20260727/k10015186951000.html）\n12. [NHK 国際] 【プロ野球結果】阪神 村上頌樹が巨人に完封勝利 首位に並ぶ （http://www3.nhk.or.jp/news/html/20260726/k10015186861000.html）\n13. [NHK 国際] 大相撲名古屋場所 安青錦が優勝 ことし初場所以来3回目 （http://www3.nhk.or.jp/news/html/20260726/k10015186751000.html）\n14. [NHK 国際] フェンシング世界選手権 男子エペ 山田優が銅メダル （http://www3.nhk.or.jp/news/html/20260726/k10015186831000.html）\n15. [NHK 国際] 安青錦が技能賞 熱海富士が敢闘賞 大相撲名古屋場所 （http://www3.nhk.or.jp/news/html/20260726/k10015186531000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "米国産生鮮ジャガイモ 輸入解禁手続き進む一方で懸念の声も",
+        "link": "http://www3.nhk.or.jp/news/html/20260727/k10015186811000.html",
+        "pubDate": "Mon, 27 Jul 2026 07:06:59 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米国連大使“協議の余地残す” イラン高官“懐疑的見方強い”",
+        "link": "http://www3.nhk.or.jp/news/html/20260727/k10015186961000.html",
+        "pubDate": "Mon, 27 Jul 2026 05:32:47 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナ“ロシア・イラン間の輸送船を攻撃” イランは反発",
+        "link": "http://www3.nhk.or.jp/news/html/20260727/k10015186911000.html",
+        "pubDate": "Mon, 27 Jul 2026 05:30:26 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米FRB会合 イラン情勢によるインフレ再加速懸念で判断注目",
+        "link": "http://www3.nhk.or.jp/news/html/20260727/k10015186781000.html",
+        "pubDate": "Mon, 27 Jul 2026 05:02:21 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【詳細】ロシア ウクライナに軍事侵攻（7月26日の動き）",
+        "link": "http://www3.nhk.or.jp/news/html/20260726/k10015141171000.html",
+        "pubDate": "Sun, 26 Jul 2026 21:03:17 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "秀吉が恭順の毛利側を盛大にもてなしたこと示す文書発見",
+        "link": "http://www3.nhk.or.jp/news/html/20260727/k10015186821000.html",
+        "pubDate": "Mon, 27 Jul 2026 05:12:50 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「飛鳥・藤原の宮都」世界文化遺産に登録決定 国内で27件に",
+        "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186101000.html",
+        "pubDate": "Sun, 26 Jul 2026 19:03:28 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「超新星背景ニュートリノ」の存在示す“兆候”初めて捉えたか",
+        "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186081000.html",
+        "pubDate": "Sun, 26 Jul 2026 06:26:14 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "彬子さま 大英博物館展の開会式に 東京 上野",
+        "link": "http://www3.nhk.or.jp/news/html/20260725/k10015185611000.html",
+        "pubDate": "Sat, 25 Jul 2026 05:11:19 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "世界遺産登録の審議始まる 「飛鳥・藤原の宮都」は26日か",
+        "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185361000.html",
+        "pubDate": "Fri, 24 Jul 2026 19:16:30 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ホワイトソックス 村上宗隆 21号22号 1試合2本塁打は2回目",
+        "link": "http://www3.nhk.or.jp/news/html/20260727/k10015186951000.html",
+        "pubDate": "Mon, 27 Jul 2026 06:15:26 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】阪神 村上頌樹が巨人に完封勝利 首位に並ぶ",
+        "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186861000.html",
+        "pubDate": "Sun, 26 Jul 2026 23:09:09 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "大相撲名古屋場所 安青錦が優勝 ことし初場所以来3回目",
+        "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186751000.html",
+        "pubDate": "Sun, 26 Jul 2026 21:52:51 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "フェンシング世界選手権 男子エペ 山田優が銅メダル",
+        "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186831000.html",
+        "pubDate": "Sun, 26 Jul 2026 21:28:36 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "安青錦が技能賞 熱海富士が敢闘賞 大相撲名古屋場所",
+        "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186531000.html",
+        "pubDate": "Sun, 26 Jul 2026 19:09:06 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-07-26-daily",
     "id": "1785017034131",
     "date": "2026-07-26",
