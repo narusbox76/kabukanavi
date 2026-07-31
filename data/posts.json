@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-08-01-daily",
+    "id": "1785535967272",
+    "date": "2026-08-01",
+    "generatedAt": "2026-08-01 07:12",
+    "title": "今日の株式市場メモ 2026-08-01",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 円相場 再び急激な円買い 米財務省が市場介入の可能性伝達 （http://www3.nhk.or.jp/news/html/20260801/k10015193171000.html）\n2. [NHK 経済] スペイン飛び地に移民殺到 周辺国は警戒強める （http://www3.nhk.or.jp/news/html/20260801/k10015193141000.html）\n3. [NHK 経済] 東シナ海で中国による新構造物設置の動き確認 日本政府が抗議 （http://www3.nhk.or.jp/news/html/20260801/k10015192951000.html）\n4. [NHK 経済] 日米など11か国 北朝鮮IT労働者への注意求める文書公表 （http://www3.nhk.or.jp/news/html/20260731/k10015193011000.html）\n5. [NHK 経済] ポーランドに飛しょう体が落下 “ロシアのミサイルの可能性” （http://www3.nhk.or.jp/news/html/20260731/k10015191301000.html）\n6. [NHK ビジネス特集] 松本清張デビュー前の作品発見 ミステリー仕立てなど2小説 （http://www3.nhk.or.jp/news/html/20260731/k10015191911000.html）\n7. [NHK ビジネス特集] はやぶさ2は小惑星表面から約400メートルを通過 JAXA （http://www3.nhk.or.jp/news/html/20260731/k10015191781000.html）\n8. [NHK ビジネス特集] 子どもSNS利用 一律の年齢制限必要か議論継続へ 国の作業部会 （http://www3.nhk.or.jp/news/html/20260730/k10015191101000.html）\n9. [NHK ビジネス特集] 中部電力 浜岡原発データ不正 現場は審査の早期終了を意図か （http://www3.nhk.or.jp/news/html/20260730/k10015191061000.html）\n10. [NHK ビジネス特集] 熊本県内のモニタリングポストが復旧 （http://www3.nhk.or.jp/news/html/20260730/k10015190991000.html）\n11. [NHK 国際] 【プロ野球結果】首位に同率で並ぶ巨人 3本のホームランで快勝 （http://www3.nhk.or.jp/news/html/20260731/k10015192901000.html）\n12. [NHK 国際] 熊本出身の菊池が帰国 フェンシング世界選手権銅メダル （http://www3.nhk.or.jp/news/html/20260731/k10015193021000.html）\n13. [NHK 国際] ボッチャ世界選手権へ日本代表が合宿 パラ金の杉村英孝が決意 （http://www3.nhk.or.jp/news/html/20260731/k10015192801000.html）\n14. [NHK 国際] ラグビーＷ杯出場の中島イシレリ選手引退へ 新規定の影響も （http://www3.nhk.or.jp/news/html/20260731/k10015192781000.html）\n15. [NHK 国際] 五十嵐有紗 志田千陽がペア解消 バドミントン女子ダブルス （http://www3.nhk.or.jp/news/html/20260731/k10015192841000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "円相場 再び急激な円買い 米財務省が市場介入の可能性伝達",
+        "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193171000.html",
+        "pubDate": "Sat, 01 Aug 2026 06:35:27 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "スペイン飛び地に移民殺到 周辺国は警戒強める",
+        "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193141000.html",
+        "pubDate": "Sat, 01 Aug 2026 06:30:25 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "東シナ海で中国による新構造物設置の動き確認 日本政府が抗議",
+        "link": "http://www3.nhk.or.jp/news/html/20260801/k10015192951000.html",
+        "pubDate": "Sat, 01 Aug 2026 01:03:28 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "日米など11か国 北朝鮮IT労働者への注意求める文書公表",
+        "link": "http://www3.nhk.or.jp/news/html/20260731/k10015193011000.html",
+        "pubDate": "Fri, 31 Jul 2026 22:57:42 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ポーランドに飛しょう体が落下 “ロシアのミサイルの可能性”",
+        "link": "http://www3.nhk.or.jp/news/html/20260731/k10015191301000.html",
+        "pubDate": "Fri, 31 Jul 2026 18:36:06 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "松本清張デビュー前の作品発見 ミステリー仕立てなど2小説",
+        "link": "http://www3.nhk.or.jp/news/html/20260731/k10015191911000.html",
+        "pubDate": "Fri, 31 Jul 2026 13:57:53 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "はやぶさ2は小惑星表面から約400メートルを通過 JAXA",
+        "link": "http://www3.nhk.or.jp/news/html/20260731/k10015191781000.html",
+        "pubDate": "Fri, 31 Jul 2026 12:19:35 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "子どもSNS利用 一律の年齢制限必要か議論継続へ 国の作業部会",
+        "link": "http://www3.nhk.or.jp/news/html/20260730/k10015191101000.html",
+        "pubDate": "Thu, 30 Jul 2026 19:16:25 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "中部電力 浜岡原発データ不正 現場は審査の早期終了を意図か",
+        "link": "http://www3.nhk.or.jp/news/html/20260730/k10015191061000.html",
+        "pubDate": "Thu, 30 Jul 2026 19:11:58 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "熊本県内のモニタリングポストが復旧",
+        "link": "http://www3.nhk.or.jp/news/html/20260730/k10015190991000.html",
+        "pubDate": "Thu, 30 Jul 2026 17:58:38 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】首位に同率で並ぶ巨人 3本のホームランで快勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260731/k10015192901000.html",
+        "pubDate": "Sat, 01 Aug 2026 00:41:49 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "熊本出身の菊池が帰国 フェンシング世界選手権銅メダル",
+        "link": "http://www3.nhk.or.jp/news/html/20260731/k10015193021000.html",
+        "pubDate": "Fri, 31 Jul 2026 23:33:27 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ボッチャ世界選手権へ日本代表が合宿 パラ金の杉村英孝が決意",
+        "link": "http://www3.nhk.or.jp/news/html/20260731/k10015192801000.html",
+        "pubDate": "Fri, 31 Jul 2026 21:33:46 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ラグビーＷ杯出場の中島イシレリ選手引退へ 新規定の影響も",
+        "link": "http://www3.nhk.or.jp/news/html/20260731/k10015192781000.html",
+        "pubDate": "Fri, 31 Jul 2026 21:32:51 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "五十嵐有紗 志田千陽がペア解消 バドミントン女子ダブルス",
+        "link": "http://www3.nhk.or.jp/news/html/20260731/k10015192841000.html",
+        "pubDate": "Fri, 31 Jul 2026 21:31:42 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-07-31-daily",
     "id": "1785449719822",
     "date": "2026-07-31",
