@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-08-02-daily",
+    "id": "1785621914260",
+    "date": "2026-08-02",
+    "generatedAt": "2026-08-02 07:05",
+    "title": "今日の株式市場メモ 2026-08-02",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] モスクワで爆発 3人死亡 15人けが 原因や背景を捜査 （http://www3.nhk.or.jp/news/html/20260802/k10015193971000.html）\n2. [NHK 経済] 米報道“週末にも攻撃計画” イランもけん制 攻撃応酬に懸念 （http://www3.nhk.or.jp/news/html/20260802/k10015193951000.html）\n3. [NHK 経済] 台湾で熊本支援の動き広がる 寄付表明や義援金 メッセージなど （http://www3.nhk.or.jp/news/html/20260801/k10015193681000.html）\n4. [NHK 経済] FIFAが子会社設立計画を撤回 UEFAなどの反発受け （http://www3.nhk.or.jp/news/html/20260801/k10015193461000.html）\n5. [NHK 経済] フィリピン スカボロー礁海図を国連に 中国は反発し軍事演習も （http://www3.nhk.or.jp/news/html/20260801/k10015193821000.html）\n6. [NHK ビジネス特集] ジャワ原人 赤ちゃんを未発達なまま出産し協力して子育てか （http://www3.nhk.or.jp/news/html/20260801/k10015192831000.html）\n7. [NHK ビジネス特集] 松本清張デビュー前の作品発見 ミステリー仕立てなど2小説 （http://www3.nhk.or.jp/news/html/20260731/k10015191911000.html）\n8. [NHK ビジネス特集] はやぶさ2は小惑星表面から約400メートルを通過 JAXA （http://www3.nhk.or.jp/news/html/20260731/k10015191781000.html）\n9. [NHK ビジネス特集] 子どもSNS利用 一律の年齢制限必要か議論継続へ 国の作業部会 （http://www3.nhk.or.jp/news/html/20260730/k10015191101000.html）\n10. [NHK ビジネス特集] 中部電力 浜岡原発データ不正 現場は審査の早期終了を意図か （http://www3.nhk.or.jp/news/html/20260730/k10015191061000.html）\n11. [NHK 国際] バレーボール国際大会 日本男子は準決勝で米に敗れ3位決定戦へ （http://www3.nhk.or.jp/news/html/20260802/k10015193891000.html）\n12. [NHK 国際] 【プロ野球結果】ソフトバンクが快勝 阪神3連勝 セ単独首位に （http://www3.nhk.or.jp/news/html/20260802/k10015193841000.html）\n13. [NHK 国際] FIFAが子会社設立計画を撤回 UEFAなどの反発受け （http://www3.nhk.or.jp/news/html/20260801/k10015193461000.html）\n14. [NHK 国際] 夏の甲子園 連覇目指す沖縄尚学は横浜と【全組み合わせ】 （http://www3.nhk.or.jp/news/html/20260801/k10015192981000.html）\n15. [NHK 国際] バスケットボール男子 八村塁 日本代表への復帰の意向を示す （http://www3.nhk.or.jp/news/html/20260801/k10015193781000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "モスクワで爆発 3人死亡 15人けが 原因や背景を捜査",
+        "link": "http://www3.nhk.or.jp/news/html/20260802/k10015193971000.html",
+        "pubDate": "Sun, 02 Aug 2026 05:31:37 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "米報道“週末にも攻撃計画” イランもけん制 攻撃応酬に懸念",
+        "link": "http://www3.nhk.or.jp/news/html/20260802/k10015193951000.html",
+        "pubDate": "Sun, 02 Aug 2026 05:12:18 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "台湾で熊本支援の動き広がる 寄付表明や義援金 メッセージなど",
+        "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193681000.html",
+        "pubDate": "Sun, 02 Aug 2026 02:17:30 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "FIFAが子会社設立計画を撤回 UEFAなどの反発受け",
+        "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193461000.html",
+        "pubDate": "Sat, 01 Aug 2026 22:55:39 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "フィリピン スカボロー礁海図を国連に 中国は反発し軍事演習も",
+        "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193821000.html",
+        "pubDate": "Sat, 01 Aug 2026 22:04:42 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ジャワ原人 赤ちゃんを未発達なまま出産し協力して子育てか",
+        "link": "http://www3.nhk.or.jp/news/html/20260801/k10015192831000.html",
+        "pubDate": "Sat, 01 Aug 2026 15:14:20 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "松本清張デビュー前の作品発見 ミステリー仕立てなど2小説",
+        "link": "http://www3.nhk.or.jp/news/html/20260731/k10015191911000.html",
+        "pubDate": "Fri, 31 Jul 2026 13:57:53 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "はやぶさ2は小惑星表面から約400メートルを通過 JAXA",
+        "link": "http://www3.nhk.or.jp/news/html/20260731/k10015191781000.html",
+        "pubDate": "Fri, 31 Jul 2026 12:19:35 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "子どもSNS利用 一律の年齢制限必要か議論継続へ 国の作業部会",
+        "link": "http://www3.nhk.or.jp/news/html/20260730/k10015191101000.html",
+        "pubDate": "Thu, 30 Jul 2026 19:16:25 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "中部電力 浜岡原発データ不正 現場は審査の早期終了を意図か",
+        "link": "http://www3.nhk.or.jp/news/html/20260730/k10015191061000.html",
+        "pubDate": "Thu, 30 Jul 2026 19:11:58 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "バレーボール国際大会 日本男子は準決勝で米に敗れ3位決定戦へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260802/k10015193891000.html",
+        "pubDate": "Sun, 02 Aug 2026 00:21:04 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】ソフトバンクが快勝 阪神3連勝 セ単独首位に",
+        "link": "http://www3.nhk.or.jp/news/html/20260802/k10015193841000.html",
+        "pubDate": "Sun, 02 Aug 2026 00:05:50 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "FIFAが子会社設立計画を撤回 UEFAなどの反発受け",
+        "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193461000.html",
+        "pubDate": "Sat, 01 Aug 2026 22:55:39 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "夏の甲子園 連覇目指す沖縄尚学は横浜と【全組み合わせ】",
+        "link": "http://www3.nhk.or.jp/news/html/20260801/k10015192981000.html",
+        "pubDate": "Sat, 01 Aug 2026 22:49:10 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "バスケットボール男子 八村塁 日本代表への復帰の意向を示す",
+        "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193781000.html",
+        "pubDate": "Sat, 01 Aug 2026 21:19:29 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-08-01-daily",
     "id": "1785535967272",
     "date": "2026-08-01",
