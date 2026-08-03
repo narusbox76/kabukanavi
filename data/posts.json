@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-08-04-daily",
+    "id": "1785795337381",
+    "date": "2026-08-04",
+    "generatedAt": "2026-08-04 07:15",
+    "title": "今日の株式市場メモ 2026-08-04",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] 日米 追加協調介入も辞さず 米当局のドル調達の仕組み活用で （http://www3.nhk.or.jp/news/html/20260804/k10015195341000.html）\n2. [NHK 経済] ウクライナ対外情報局長官にウメロフ氏 無人機協力推進へ （http://www3.nhk.or.jp/news/html/20260804/k10015195371000.html）\n3. [NHK 経済] 【随時更新】ロシア ウクライナに軍事侵攻（8月3日の動き） （http://www3.nhk.or.jp/news/html/20260804/k10015192421000.html）\n4. [NHK 経済] 7月31日介入は4兆円超える規模か 民間仲介会社の分析 （http://www3.nhk.or.jp/news/html/20260803/k10015195391000.html）\n5. [NHK 経済] イスラエル軍攻撃で18人死亡の報道 ガザ地区和平へ影響懸念 （http://www3.nhk.or.jp/news/html/20260803/k10015195301000.html）\n6. [NHK ビジネス特集] 豊臣秀吉の妻ゆかりの京都 高台寺の敷地内で火事 ほぼ消し止め （http://www3.nhk.or.jp/news/html/20260803/k10015195201000.html）\n7. [NHK ビジネス特集] 小学館 漫画家起用問題で第三者委“人権侵害 助長または加担” （http://www3.nhk.or.jp/news/html/20260803/k10015195291000.html）\n8. [NHK ビジネス特集] 「みちびき7号機」7日の打ち上げは延期 台風影響で JAXA （http://www3.nhk.or.jp/news/html/20260803/k10015195091000.html）\n9. [NHK ビジネス特集] ジャワ原人 赤ちゃんを未発達なまま出産し協力して子育てか （http://www3.nhk.or.jp/news/html/20260801/k10015192831000.html）\n10. [NHK ビジネス特集] 松本清張デビュー前の作品発見 ミステリー仕立てなど2小説 （http://www3.nhk.or.jp/news/html/20260731/k10015191911000.html）\n11. [NHK 国際] プロ野球実行委員会 ピッチクロック導入承認 時期は今後検討 （http://www3.nhk.or.jp/news/html/20260803/k10015195221000.html）\n12. [NHK 国際] 【プロ野球結果】オリックスが楽天にサヨナラ勝ち （http://www3.nhk.or.jp/news/html/20260803/k10015195421000.html）\n13. [NHK 国際] 日本サッカー殿堂に元なでしこジャパンの澤穂希さんら3人 （http://www3.nhk.or.jp/news/html/20260803/k10015195431000.html）\n14. [NHK 国際] プロ野球2軍戦 新たな暑熱対策 主催球団が中止や時間変更判断 （http://www3.nhk.or.jp/news/html/20260803/k10015195281000.html）\n15. [NHK 国際] バスケットボール 八村塁が約2年ぶりに日本代表に復帰 （http://www3.nhk.or.jp/news/html/20260803/k10015195261000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "日米 追加協調介入も辞さず 米当局のドル調達の仕組み活用で",
+        "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195341000.html",
+        "pubDate": "Tue, 04 Aug 2026 06:45:11 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ウクライナ対外情報局長官にウメロフ氏 無人機協力推進へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195371000.html",
+        "pubDate": "Tue, 04 Aug 2026 05:55:45 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【随時更新】ロシア ウクライナに軍事侵攻（8月3日の動き）",
+        "link": "http://www3.nhk.or.jp/news/html/20260804/k10015192421000.html",
+        "pubDate": "Tue, 04 Aug 2026 00:38:42 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "7月31日介入は4兆円超える規模か 民間仲介会社の分析",
+        "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195391000.html",
+        "pubDate": "Mon, 03 Aug 2026 22:42:20 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "イスラエル軍攻撃で18人死亡の報道 ガザ地区和平へ影響懸念",
+        "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195301000.html",
+        "pubDate": "Mon, 03 Aug 2026 22:30:34 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "豊臣秀吉の妻ゆかりの京都 高台寺の敷地内で火事 ほぼ消し止め",
+        "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195201000.html",
+        "pubDate": "Mon, 03 Aug 2026 21:41:30 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "小学館 漫画家起用問題で第三者委“人権侵害 助長または加担”",
+        "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195291000.html",
+        "pubDate": "Mon, 03 Aug 2026 21:29:59 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「みちびき7号機」7日の打ち上げは延期 台風影響で JAXA",
+        "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195091000.html",
+        "pubDate": "Mon, 03 Aug 2026 17:43:56 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "ジャワ原人 赤ちゃんを未発達なまま出産し協力して子育てか",
+        "link": "http://www3.nhk.or.jp/news/html/20260801/k10015192831000.html",
+        "pubDate": "Sat, 01 Aug 2026 15:14:20 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "松本清張デビュー前の作品発見 ミステリー仕立てなど2小説",
+        "link": "http://www3.nhk.or.jp/news/html/20260731/k10015191911000.html",
+        "pubDate": "Fri, 31 Jul 2026 13:57:53 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "プロ野球実行委員会 ピッチクロック導入承認 時期は今後検討",
+        "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195221000.html",
+        "pubDate": "Mon, 03 Aug 2026 23:14:37 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】オリックスが楽天にサヨナラ勝ち",
+        "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195421000.html",
+        "pubDate": "Mon, 03 Aug 2026 23:01:16 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "日本サッカー殿堂に元なでしこジャパンの澤穂希さんら3人",
+        "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195431000.html",
+        "pubDate": "Mon, 03 Aug 2026 22:55:13 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "プロ野球2軍戦 新たな暑熱対策 主催球団が中止や時間変更判断",
+        "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195281000.html",
+        "pubDate": "Mon, 03 Aug 2026 21:40:30 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "バスケットボール 八村塁が約2年ぶりに日本代表に復帰",
+        "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195261000.html",
+        "pubDate": "Mon, 03 Aug 2026 20:50:42 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-08-03-daily",
     "id": "1785708274317",
     "date": "2026-08-03",
