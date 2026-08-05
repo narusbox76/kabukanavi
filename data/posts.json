@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-08-06-daily",
+    "id": "1785968233172",
+    "date": "2026-08-06",
+    "generatedAt": "2026-08-06 07:17",
+    "title": "今日の株式市場メモ 2026-08-06",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] イスラエル ネタニヤフ首相 ハマス武装解除まで軍は撤退しない （http://www3.nhk.or.jp/news/html/20260806/k10015197631000.html）\n2. [NHK 経済] “迎撃ミサイル供給3分の1” ゼレンスキー大統領 供与呼びかけ （http://www3.nhk.or.jp/news/html/20260806/k10015197601000.html）\n3. [NHK 経済] ドイツ東部の空港 滑走路付近で爆発物搭載のドローン見つかる （http://www3.nhk.or.jp/news/html/20260806/k10015197711000.html）\n4. [NHK 経済] NYダウ 3日連続最高値 ホルムズ海峡開放への期待感から （http://www3.nhk.or.jp/news/html/20260806/k10015197701000.html）\n5. [NHK 経済] AI 実在の人標的にメッセージ“自律的に人だますリスク” （http://www3.nhk.or.jp/news/html/20260805/k10015197651000.html）\n6. [NHK ビジネス特集] OTC類似薬の追加負担 がん患者ら対象外に 中間とりまとめ （http://www3.nhk.or.jp/news/html/20260806/k10015197641000.html）\n7. [NHK ビジネス特集] 将棋 女性初プロ棋士へ 西山朋佳女流三冠 「白玲戦」前に抱負 （http://www3.nhk.or.jp/news/html/20260805/k10015197421000.html）\n8. [NHK ビジネス特集] スペースXのロケット残骸 月面に衝突予定 NASAが観測へ （http://www3.nhk.or.jp/news/html/20260805/k10015196961000.html）\n9. [NHK ビジネス特集] 先月死去の東野圭吾さん 最新作発売 歴代編集者が魅力語る （http://www3.nhk.or.jp/news/html/20260805/k10015196601000.html）\n10. [NHK ビジネス特集] 豊臣秀吉の妻ゆかりの京都 高台寺の敷地内で火事 ほぼ消し止め （http://www3.nhk.or.jp/news/html/20260803/k10015195201000.html）\n11. [NHK 国際] ドジャース 大谷 カブス戦で25号ソロ 26号ツーランホームラン （http://www3.nhk.or.jp/news/html/20260806/k10015197681000.html）\n12. [NHK 国際] 高校野球 夏の甲子園【大会2日目の見どころ】 （http://www3.nhk.or.jp/news/html/20260806/k10015196501000.html）\n13. [NHK 国際] 【プロ野球結果】ソフトバンク マジックナンバー37点灯 （http://www3.nhk.or.jp/news/html/20260805/k10015197531000.html）\n14. [NHK 国際] 高校野球 第1試合 仙台育英が札幌日大に勝利 2回戦へ （http://www3.nhk.or.jp/news/html/20260805/k10015197431000.html）\n15. [NHK 国際] 高校野球 夏の甲子園 全試合をハイライト動画で【随時更新】 （http://www3.nhk.or.jp/news/html/20260805/k10015196491000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "イスラエル ネタニヤフ首相 ハマス武装解除まで軍は撤退しない",
+        "link": "http://www3.nhk.or.jp/news/html/20260806/k10015197631000.html",
+        "pubDate": "Thu, 06 Aug 2026 07:09:46 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "“迎撃ミサイル供給3分の1” ゼレンスキー大統領 供与呼びかけ",
+        "link": "http://www3.nhk.or.jp/news/html/20260806/k10015197601000.html",
+        "pubDate": "Thu, 06 Aug 2026 07:04:01 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ドイツ東部の空港 滑走路付近で爆発物搭載のドローン見つかる",
+        "link": "http://www3.nhk.or.jp/news/html/20260806/k10015197711000.html",
+        "pubDate": "Thu, 06 Aug 2026 06:51:53 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "NYダウ 3日連続最高値 ホルムズ海峡開放への期待感から",
+        "link": "http://www3.nhk.or.jp/news/html/20260806/k10015197701000.html",
+        "pubDate": "Thu, 06 Aug 2026 06:32:07 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "AI 実在の人標的にメッセージ“自律的に人だますリスク”",
+        "link": "http://www3.nhk.or.jp/news/html/20260805/k10015197651000.html",
+        "pubDate": "Wed, 05 Aug 2026 23:33:07 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "OTC類似薬の追加負担 がん患者ら対象外に 中間とりまとめ",
+        "link": "http://www3.nhk.or.jp/news/html/20260806/k10015197641000.html",
+        "pubDate": "Thu, 06 Aug 2026 05:21:43 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "将棋 女性初プロ棋士へ 西山朋佳女流三冠 「白玲戦」前に抱負",
+        "link": "http://www3.nhk.or.jp/news/html/20260805/k10015197421000.html",
+        "pubDate": "Wed, 05 Aug 2026 19:16:04 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "スペースXのロケット残骸 月面に衝突予定 NASAが観測へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260805/k10015196961000.html",
+        "pubDate": "Wed, 05 Aug 2026 12:08:24 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "先月死去の東野圭吾さん 最新作発売 歴代編集者が魅力語る",
+        "link": "http://www3.nhk.or.jp/news/html/20260805/k10015196601000.html",
+        "pubDate": "Wed, 05 Aug 2026 05:18:33 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "豊臣秀吉の妻ゆかりの京都 高台寺の敷地内で火事 ほぼ消し止め",
+        "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195201000.html",
+        "pubDate": "Mon, 03 Aug 2026 21:41:30 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ドジャース 大谷 カブス戦で25号ソロ 26号ツーランホームラン",
+        "link": "http://www3.nhk.or.jp/news/html/20260806/k10015197681000.html",
+        "pubDate": "Thu, 06 Aug 2026 06:25:14 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "高校野球 夏の甲子園【大会2日目の見どころ】",
+        "link": "http://www3.nhk.or.jp/news/html/20260806/k10015196501000.html",
+        "pubDate": "Thu, 06 Aug 2026 05:07:38 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】ソフトバンク マジックナンバー37点灯",
+        "link": "http://www3.nhk.or.jp/news/html/20260805/k10015197531000.html",
+        "pubDate": "Wed, 05 Aug 2026 22:54:46 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "高校野球 第1試合 仙台育英が札幌日大に勝利 2回戦へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260805/k10015197431000.html",
+        "pubDate": "Wed, 05 Aug 2026 22:53:01 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "高校野球 夏の甲子園 全試合をハイライト動画で【随時更新】",
+        "link": "http://www3.nhk.or.jp/news/html/20260805/k10015196491000.html",
+        "pubDate": "Wed, 05 Aug 2026 22:19:06 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-08-05-daily",
     "id": "1785881944456",
     "date": "2026-08-05",
