@@ -1,5 +1,106 @@
 [
   {
+    "slug": "2026-08-21-daily",
+    "id": "1787261816082",
+    "date": "2026-08-21",
+    "generatedAt": "2026-08-21 06:36",
+    "title": "今日の株式市場メモ 2026-08-21",
+    "body": "※これは自動更新の「ダミー記事」です（OpenAIが使えない場合のフォールバック）。\n※投資助言ではありません。売買の断定はしていません。\n\n## 今日の注目ニュース（見出し）\n1. [NHK 経済] イチローさん マリナーズOBのホームラン競争でファンわかせる （http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html）\n2. [NHK 経済] 【動画】中国 北京で人気のレトロ写真館 （http://www3.nhk.or.jp/news/html/20260808/k10015199681000.html）\n3. [NHK 経済] 「韓国サッカー協会が外国人審判員に性的接待」韓国メディア （http://www3.nhk.or.jp/news/html/20260808/k10015200271000.html）\n4. [NHK 経済] 【詳細】ロシア ウクライナに軍事侵攻（8月8日の動き） （http://www3.nhk.or.jp/news/html/20260808/k10015192491000.html）\n5. [NHK 経済] ロシアの攻撃でキーウ州3人死亡 ウクライナは物流インフラ攻撃 （http://www3.nhk.or.jp/news/html/20260808/k10015200231000.html）\n6. [NHK ビジネス特集] 「みちびき」打ち上げは11日に再延期 気象条件が整わず JAXA （http://www3.nhk.or.jp/news/html/20260808/k10015200241000.html）\n7. [NHK ビジネス特集] 台風で打ち上げ延期「みちびき7号機」 8月10日打ち上げ JAXA （http://www3.nhk.or.jp/news/html/20260807/k10015199251000.html）\n8. [NHK ビジネス特集] 人気雑誌グッズを大量注文しキャンセル疑い 32歳を逮捕 警視庁 （http://www3.nhk.or.jp/news/html/20260806/k10015197981000.html）\n9. [NHK ビジネス特集] 俳優 寿美花代さん死去 宝塚歌劇団で男役トップスター 94歳 （http://www3.nhk.or.jp/news/html/20260806/k10015198081000.html）\n10. [NHK ビジネス特集] 秘匿性高い通信アプリを遠隔解析 トクリュウ対策で検討へ （http://www3.nhk.or.jp/news/html/20260806/k10015197961000.html）\n11. [NHK 国際] 【プロ野球結果】中日 首位阪神に勝利 今シーズン初の5連勝 （http://www3.nhk.or.jp/news/html/20260808/k10015200281000.html）\n12. [NHK 国際] 高校野球 夏の甲子園【大会5日目の見どころ】 （http://www3.nhk.or.jp/news/html/20260809/k10015200371000.html）\n13. [NHK 国際] 高校野球 英明が関東第一に逆転勝ち 夏の甲子園15年ぶり勝ち星 （http://www3.nhk.or.jp/news/html/20260808/k10015200321000.html）\n14. [NHK 国際] ラグビー日本代表 3点及ばず テストマッチで豪州に競り負ける （http://www3.nhk.or.jp/news/html/20260808/k10015200361000.html）\n15. [NHK 国際] サッカーJ3 ロアッソ熊本 大地震を乗り越え開幕戦 大きな拍手 （http://www3.nhk.or.jp/news/html/20260808/k10015200391000.html）\n\n## 今日の市場への影響（テンプレ分析）\n- 金利・為替：利上げ/利下げ観測、円高/円安で輸出入株に影響しやすい\n- 資源：原油/資源高は素材・エネルギー、コスト増は輸送/小売に影響しやすい\n- 地政学/規制：防衛、半導体、海運、資源に波及しやすい\n- 個別企業：決算、上方/下方修正、M&A等は短期ボラが出やすい\n\n## ウォッチリスト（断定しない）\n- 「追い風/逆風」になり得るセクターを中心に監視\n- 決算発表、日銀/FRB、CPI、雇用統計、為替急変を注視\n\n---\n\n### 生成モード\ndummy\n### メモ\n429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\n\n",
+    "sources": [
+      {
+        "source": "NHK 経済",
+        "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
+        "pubDate": "Sat, 08 Aug 2026 20:55:50 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【動画】中国 北京で人気のレトロ写真館",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199681000.html",
+        "pubDate": "Sat, 08 Aug 2026 20:25:15 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200271000.html",
+        "pubDate": "Sat, 08 Aug 2026 18:38:23 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "【詳細】ロシア ウクライナに軍事侵攻（8月8日の動き）",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015192491000.html",
+        "pubDate": "Sat, 08 Aug 2026 16:25:42 +0900"
+      },
+      {
+        "source": "NHK 経済",
+        "title": "ロシアの攻撃でキーウ州3人死亡 ウクライナは物流インフラ攻撃",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200231000.html",
+        "pubDate": "Sat, 08 Aug 2026 16:10:48 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "「みちびき」打ち上げは11日に再延期 気象条件が整わず JAXA",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200241000.html",
+        "pubDate": "Sat, 08 Aug 2026 16:37:08 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "台風で打ち上げ延期「みちびき7号機」 8月10日打ち上げ JAXA",
+        "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199251000.html",
+        "pubDate": "Fri, 07 Aug 2026 17:23:49 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "人気雑誌グッズを大量注文しキャンセル疑い 32歳を逮捕 警視庁",
+        "link": "http://www3.nhk.or.jp/news/html/20260806/k10015197981000.html",
+        "pubDate": "Thu, 06 Aug 2026 18:30:20 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "俳優 寿美花代さん死去 宝塚歌劇団で男役トップスター 94歳",
+        "link": "http://www3.nhk.or.jp/news/html/20260806/k10015198081000.html",
+        "pubDate": "Thu, 06 Aug 2026 14:25:31 +0900"
+      },
+      {
+        "source": "NHK ビジネス特集",
+        "title": "秘匿性高い通信アプリを遠隔解析 トクリュウ対策で検討へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260806/k10015197961000.html",
+        "pubDate": "Thu, 06 Aug 2026 13:46:01 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "【プロ野球結果】中日 首位阪神に勝利 今シーズン初の5連勝",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200281000.html",
+        "pubDate": "Sun, 09 Aug 2026 01:38:10 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "高校野球 夏の甲子園【大会5日目の見どころ】",
+        "link": "http://www3.nhk.or.jp/news/html/20260809/k10015200371000.html",
+        "pubDate": "Sun, 09 Aug 2026 00:37:15 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "高校野球 英明が関東第一に逆転勝ち 夏の甲子園15年ぶり勝ち星",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200321000.html",
+        "pubDate": "Sun, 09 Aug 2026 00:30:22 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "ラグビー日本代表 3点及ばず テストマッチで豪州に競り負ける",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200361000.html",
+        "pubDate": "Sat, 08 Aug 2026 23:55:46 +0900"
+      },
+      {
+        "source": "NHK 国際",
+        "title": "サッカーJ3 ロアッソ熊本 大地震を乗り越え開幕戦 大きな拍手",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200391000.html",
+        "pubDate": "Sat, 08 Aug 2026 23:26:55 +0900"
+      }
+    ],
+    "mode": "dummy"
+  },
+  {
     "slug": "2026-08-20-daily",
     "id": "1787175294281",
     "date": "2026-08-20",
